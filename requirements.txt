@@ -1,0 +1,9 @@
+PyMuPDF
+pdfminer.six
+numpy
+scikit-learn
+transformers
+torch
+pandas
+jsonschema
+flask
