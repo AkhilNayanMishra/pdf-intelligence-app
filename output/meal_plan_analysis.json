@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "A busy parent looking for new recipes",
+        "job_to_be_done": "Plan a week's worth of diverse and healthy meals for the family",
+        "processing_timestamp": "2025-07-19T18:37:05.093247"
+    },
+    "analysis_results": [
+        [],
+        []
+    ]
+}
