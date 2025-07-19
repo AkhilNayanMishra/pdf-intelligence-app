@@ -1,89 +1,150 @@
-import fitz  # PyMuPDF
+import argparse
+import json
+import os
+import datetime
+from pdf_extractor import PDFExtractor
+from persona_analyzer import PersonaAnalyzer
 
-class PDFExtractor:
-    def __init__(self, pdf_path):
-        self.pdf_path = pdf_path
+def run_round_1a(args):
+    """Handles the logic for Round 1A: Extracting outlines from PDFs."""
+    all_results = []
+    for pdf_file in args.pdf_files:
+        if not os.path.exists(pdf_file):
+            print(f"Warning: The file '{pdf_file}' was not found. Skipping.")
+            continue
 
-    def extract_title_and_headings(self):
-        doc = fitz.open(self.pdf_path)
-        headings = []
-        title_candidates = []
-        font_sizes_on_page1 = []
+        print(f"Processing for Round 1A: '{os.path.basename(pdf_file)}'...")
+        try:
+            extractor = PDFExtractor(pdf_file)
+            title, headings = extractor.extract_title_and_headings()
+            
+            output_data = {
+                "source_file": os.path.basename(pdf_file),
+                "title": title,
+                "outline": headings
+            }
+            all_results.append(output_data)
 
-        # Step 1: Detect title from page 1 using max font size
-        page1 = doc[0]
-        blocks = page1.get_text("dict")["blocks"]
-        for block in blocks:
-            if "lines" not in block:
-                continue
-            for line in block["lines"]:
-                for span in line["spans"]:
-                    font_sizes_on_page1.append(span["size"])
+            if not args.output:
+                # Print readable summary if not writing to a file
+                print("-" * 40)
+                print(f"Title: {title}")
+                print("Outline:")
+                if headings:
+                    for h in headings:
+                        print(f"  - [{h['level']}] {h['text']} (Page: {h['page']})")
+                else:
+                    print("  No headings found.")
+                print("-" * 40 + "\n")
 
-        if not font_sizes_on_page1:
-            return "", []
+        except Exception as e:
+            print(f"An error occurred while processing {pdf_file}: {e}")
 
-        max_font = max(font_sizes_on_page1)
+    if args.output and all_results:
+        # Save results to a file
+        save_output(args.output, all_results)
 
-        # Step 2: Collect all spans with max font as title candidates
-        for block in blocks:
-            if "lines" not in block:
-                continue
-            for line in block["lines"]:
-                line_text = " ".join([
-                    span["text"].strip()
-                    for span in line["spans"]
-                    if abs(span["size"] - max_font) < 0.5
-                ])
-                if line_text:
-                    title_candidates.append(line_text)
+def run_round_1b(args):
+    """Handles the logic for Round 1B: Persona-driven analysis."""
+    if not args.output:
+        print("Error: An output file must be specified for Round 1B analysis using the -o flag.")
+        return
 
-        # Join them to form title
-        title_text = "  ".join(title_candidates).strip()
+    print("Starting Round 1B: Persona-Driven Document Intelligence...")
+    
+    # Step 1: Extract outlines from all documents
+    document_outlines = []
+    print("Extracting outlines from all provided documents...")
+    for pdf_file in args.pdf_files:
+        if not os.path.exists(pdf_file):
+            print(f"Warning: File '{pdf_file}' not found. Skipping.")
+            continue
+        try:
+            print(f"  - Processing '{os.path.basename(pdf_file)}'")
+            extractor = PDFExtractor(pdf_file)
+            title, headings = extractor.extract_title_and_headings()
+            document_outlines.append({
+                "source_file": os.path.basename(pdf_file),
+                "title": title,
+                "outline": headings
+            })
+        except Exception as e:
+            print(f"    Error extracting outline: {e}")
 
-        # Step 3: Extract headings from all pages
-        for page_num, page in enumerate(doc):
-            blocks = page.get_text("dict")["blocks"]
-            for block in blocks:
-                if "lines" not in block:
-                    continue
-                for line in block["lines"]:
-                    spans = line["spans"]
-                    if not spans:
-                        continue
-                    font_size = spans[0]["size"]
-                    text = " ".join([s["text"].strip() for s in spans]).strip()
+    if not document_outlines:
+        print("Could not extract any outlines. Aborting analysis.")
+        return
 
-                    if not text or len(text) < 4:
-                        continue
+    # Step 2: Analyze the outlines with the PersonaAnalyzer
+    print(f"\nAnalyzing {len(document_outlines)} documents for persona: '{args.persona}'...")
+    try:
+        analyzer = PersonaAnalyzer(args.persona, args.job)
+        ranked_sections = analyzer.analyze_documents(document_outlines)
 
-                    # Skip lines with only symbols or too much uppercase noise
-                    if (
-                        all(c.isupper() or not c.isalpha() for c in text.replace(" ", ""))
-                        and len(text) < 25
-                    ):
-                        continue
+        # Step 3: Structure the final output as per Round 1B requirements
+        final_output = {
+            "metadata": {
+                "input_documents": [os.path.basename(f) for f in args.pdf_files],
+                "persona": args.persona,
+                "job_to_be_done": args.job,
+                "processing_timestamp": datetime.datetime.now().isoformat()
+            },
+            "analysis_results": ranked_sections 
+        }
 
-                    # Heading level logic
-                    if font_size > 16:
-                        level = "H1"
-                    elif font_size > 13.5:
-                        level = "H2"
-                    elif font_size > 11:
-                        level = "H3"
-                    elif font_size > 9.5:
-                        level = "H4"
+        # Save the final JSON output
+        with open(args.output, 'w', encoding='utf-8') as f:
+            json.dump(final_output, f, indent=4)
+        
+        print(f"\nSuccessfully completed Round 1B analysis. Results saved to '{args.output}'.")
+
+    except Exception as e:
+        print(f"An error occurred during persona analysis: {e}")
+
+def save_output(output_path, results):
+    """Saves the output to a file, either as JSON or plain text."""
+    try:
+        if output_path.lower().endswith('.json'):
+            with open(output_path, 'w', encoding='utf-8') as f:
+                output = results[0] if len(results) == 1 else results
+                json.dump(output, f, indent=4)
+            print(f"\nSuccessfully saved JSON data to '{output_path}'.")
+        else:
+            with open(output_path, 'w', encoding='utf-8') as f:
+                for result in results:
+                    f.write("-" * 40 + "\n")
+                    f.write(f"Results for: {result['source_file']}\n")
+                    f.write(f"Title: {result['title']}\n")
+                    f.write("Outline:\n")
+                    if result['outline']:
+                        for h in result['outline']:
+                            f.write(f"  - [{h['level']}] {h['text']} (Page: {h['page']})\n")
                     else:
-                        continue
+                        f.write("  No headings found.\n")
+                    f.write("-" * 40 + "\n\n")
+            print(f"\nSuccessfully saved summary to '{output_path}'.")
+    except Exception as e:
+        print(f"An error occurred while writing to output file: {e}")
 
-                    # Avoid duplicating title
-                    if any(text.lower() == t.lower() for t in title_candidates):
-                        continue
+def main():
+    """Main function to parse arguments and delegate to the correct round handler."""
+    parser = argparse.ArgumentParser(
+        description="A tool for PDF structural and persona-based analysis."
+    )
+    parser.add_argument("pdf_files", nargs='+', type=str, help="Path(s) to the input PDF file(s).")
+    parser.add_argument("-o", "--output", type=str, help="Path to the output file.")
+    
+    # Add arguments for Round 1B
+    parser.add_argument("--persona", type=str, help="Persona description for Round 1B analysis.")
+    parser.add_argument("--job", type=str, help="Job-to-be-done description for Round 1B analysis.")
 
-                    headings.append({
-                        "level": level,
-                        "text": text,
-                        "page": page_num + 1
-                    })
+    args = parser.parse_args()
 
-        return title_text, headings
+    # Decide which round to run based on the provided arguments
+    if args.persona and args.job:
+        run_round_1b(args)
+    else:
+        run_round_1a(args)
+
+if __name__ == "__main__":
+    main()
