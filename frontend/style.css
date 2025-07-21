@@ -1,0 +1,101 @@
+/* Basic Reset and Font Styling */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f0f2f5;
+    color: #1c1e21;
+    overflow: hidden;
+}
+
+/* Main Application Layout */
+.app-container {
+    display: flex;
+    height: 100vh;
+}
+
+/* Sidebar Styling */
+.sidebar {
+    width: 350px;
+    background-color: #ffffff;
+    border-right: 1px solid #dddfe2;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar-header {
+    padding: 20px;
+    border-bottom: 1px solid #dddfe2;
+    background-color: #f5f6f7;
+}
+
+.sidebar-header h2 {
+    font-size: 1.25rem;
+    margin-bottom: 8px;
+    color: #050505;
+}
+
+.sidebar-header p {
+    font-size: 0.875rem;
+    color: #606770;
+    line-height: 1.4;
+}
+
+.smart-toc {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 10px 0;
+}
+
+/* Table of Contents Item Styling */
+.toc-item {
+    padding: 12px 20px;
+    cursor: pointer;
+    border-bottom: 1px solid #f0f2f5;
+    transition: background-color 0.2s ease;
+}
+
+.toc-item:hover {
+    background-color: #f0f2f5;
+}
+
+.toc-item.active {
+    background-color: #e7f3ff;
+    border-left: 3px solid #1877f2;
+    padding-left: 17px;
+}
+
+.toc-item-title {
+    font-weight: 600;
+    color: #050505;
+    margin-bottom: 4px;
+}
+
+.toc-item-meta {
+    font-size: 0.8rem;
+    color: #606770;
+}
+
+/* Loader Styling */
+.loader {
+    text-align: center;
+    padding: 40px;
+    color: #606770;
+}
+
+/* Main Content Area Styling */
+.main-content {
+    flex-grow: 1;
+    height: 100vh;
+}
+
+#adobe-dc-view {
+    width: 100%;
+    height: 100%;
+    border: none;
+}

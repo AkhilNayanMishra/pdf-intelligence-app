@@ -16,7 +16,7 @@ def run_round_1a(args):
         print(f"Processing for Round 1A: '{os.path.basename(pdf_file)}'...")
         try:
             extractor = PDFExtractor(pdf_file)
-            title, headings = extractor.extract_title_and_headings()
+            title, headings = extractor.extract_structure()
             
             output_data = {
                 "source_file": os.path.basename(pdf_file),
@@ -62,7 +62,7 @@ def run_round_1b(args):
         try:
             print(f"  - Processing '{os.path.basename(pdf_file)}'")
             extractor = PDFExtractor(pdf_file)
-            title, headings = extractor.extract_title_and_headings()
+            title, headings = extractor.extract_structure()
             document_outlines.append({
                 "source_file": os.path.basename(pdf_file),
                 "title": title,
@@ -79,7 +79,8 @@ def run_round_1b(args):
     print(f"\nAnalyzing {len(document_outlines)} documents for persona: '{args.persona}'...")
     try:
         analyzer = PersonaAnalyzer(args.persona, args.job)
-        ranked_sections = analyzer.analyze_documents(document_outlines)
+        # CORRECTED: Unpack the two lists returned by the analyzer
+        extracted_sections, subsection_analysis = analyzer.analyze_documents(document_outlines)
 
         # Step 3: Structure the final output as per Round 1B requirements
         final_output = {
@@ -89,7 +90,9 @@ def run_round_1b(args):
                 "job_to_be_done": args.job,
                 "processing_timestamp": datetime.datetime.now().isoformat()
             },
-            "analysis_results": ranked_sections 
+            # Use the correct variables for the output
+            "extracted_sections": extracted_sections,
+            "subsection_analysis": subsection_analysis
         }
 
         # Save the final JSON output

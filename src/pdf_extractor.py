@@ -1,122 +1,104 @@
 import fitz  # PyMuPDF
 import re
-from collections import Counter
+import joblib
+import os
+import numpy as np
 
 class PDFExtractor:
     """
-    A sophisticated PDF extractor that identifies titles and hierarchical headings
-    by analyzing font styles, text position, and structural keywords.
+    Extracts the title and a hierarchical list of headings from a PDF file
+    using a pre-trained machine learning model to classify text lines.
     """
 
-    def __init__(self, pdf_path):
+    def __init__(self, pdf_path, model_path='src/heading_classifier.joblib'):
         """
-        Initializes the PDFExtractor with the path to the PDF file.
-
-        Args:
-            pdf_path (str): The file path of the PDF document.
+        Initializes the extractor, opens the PDF, and loads the trained model.
         """
         self.pdf_path = pdf_path
-        self.doc = fitz.open(pdf_path)
+        self.doc = None
+        self.model = None
 
-    def extract_title_and_headings(self):
+        # Open the PDF file
+        try:
+            self.doc = fitz.open(pdf_path)
+        except fitz.errors.FileNotFoundError:
+            print(f"Error: The file '{pdf_path}' was not found.")
+            return
+
+        # Load the pre-trained classifier model
+        try:
+            self.model = joblib.load(model_path)
+        except FileNotFoundError:
+            print(f"Error: Model file not found at '{model_path}'.")
+            print("Please run the training script to create the model file.")
+            return
+
+    def _extract_features(self, page, line):
         """
-        Extracts the title and a structured outline of headings from the PDF.
-
-        Returns:
-            tuple: A tuple containing the title (str) and the outline (list of dicts).
-                   Returns (None, []) if the document is empty.
+        Extracts numerical features from a line of text for the model to use.
         """
-        if not self.doc or self.doc.page_count == 0:
-            return None, []
+        if not line['spans']:
+            return None
 
-        all_blocks = self._get_all_text_blocks()
-        if not all_blocks:
-            return "", []
+        span = line['spans'][0]
+        font_size = round(span['size'])
+        is_bold = 1 if "bold" in span['font'].lower() else 0
+        
+        # Normalize vertical position (y-coordinate) by page height
+        y_position = line['bbox'][1] / page.rect.height
+        
+        text = " ".join(s['text'] for s in line['spans']).strip()
+        word_count = len(text.split())
+        
+        # Feature vector
+        return [font_size, is_bold, y_position, word_count]
 
-        styles = self._analyze_font_styles(all_blocks)
-        title = self._extract_title(all_blocks[0], styles)
-        headings = self._extract_headings(all_blocks, styles, title)
+    def extract_structure(self):
+        """
+        Main method to extract structure using the trained model.
+        """
+        if not self.doc or not self.model:
+            return "No Title Found", []
+
+        headings = []
+        all_lines_features = []
+        line_references = []
+        
+        # First, extract features from all lines in the document
+        for pnum, page in enumerate(self.doc):
+            blocks = page.get_text("dict")["blocks"]
+            for block in blocks:
+                if block['type'] == 0: # Text block
+                    for line in block['lines']:
+                        features = self._extract_features(page, line)
+                        if features:
+                            all_lines_features.append(features)
+                            line_references.append({
+                                'text': " ".join(s['text'] for s in line['spans']).strip(),
+                                'page': pnum + 1
+                            })
+        
+        if not all_lines_features:
+            return "No Title Found", []
+
+        # Use the trained model to predict which lines are headings
+        predictions = self.model.predict(np.array(all_lines_features))
+        
+        # Filter for the lines that were predicted as headings (prediction == 1)
+        for i, prediction in enumerate(predictions):
+            if prediction == 1:
+                # A simple rule for heading levels based on font size
+                font_size_feature = all_lines_features[i][0]
+                level = "H1" if font_size_feature > 15 else "H2" if font_size_feature > 12 else "H3"
+                
+                headings.append({
+                    "level": level,
+                    "text": line_references[i]['text'],
+                    "page": line_references[i]['page']
+                })
+        
+        # Assume the first heading found is the title
+        title = headings[0]['text'] if headings else "No Title Found"
+        
         return title, headings
 
-    def _get_all_text_blocks(self):
-        pages_blocks = []
-        for page in self.doc:
-            pages_blocks.append(page.get_text("dict")["blocks"])
-        return pages_blocks
-
-    def _analyze_font_styles(self, all_blocks):
-        font_counts = Counter()
-        for page_blocks in all_blocks:
-            for block in page_blocks:
-                if block['type'] != 0:
-                    continue
-                for line in block['lines']:
-                    for span in line['spans']:
-                        size = round(span['size'])
-                        font_counts[size] += len(span['text'].strip())
-        if not font_counts:
-            return []
-
-        body_size = font_counts.most_common(1)[0][0]
-        heading_sizes = sorted([s for s in font_counts if s > body_size], reverse=True)
-        if not heading_sizes:
-            heading_sizes = sorted(font_counts.keys(), reverse=True)
-        return heading_sizes
-
-    def _extract_title(self, first_page_blocks, styles):
-        if not styles:
-            return ""
-        title_size = styles[0]
-        candidates = []
-        for block in first_page_blocks:
-            if block['type'] != 0:
-                continue
-            for line in block['lines']:
-                if any(round(span['size']) == title_size for span in line['spans']):
-                    text = " ".join(span['text'] for span in line['spans']).strip()
-                    if text:
-                        candidates.append((block['bbox'][1], text))
-        candidates.sort()
-        return " ".join(t for _, t in candidates).replace("  ", " ").strip()
-
-    def _extract_headings(self, all_blocks, styles, title):
-        if not styles:
-            return []
-        level_map = {size: f"H{i+1}" for i, size in enumerate(styles)}
-        headings = []
-
-        for pnum, page_blocks in enumerate(all_blocks, start=1):
-            for block in page_blocks:
-                if block['type'] != 0:
-                    continue
-                for line in block['lines']:
-                    text = " ".join(s['text'] for s in line['spans']).strip()
-                    if not text or len(text) < 3 or (title and text in title):
-                        continue
-
-                    match = re.match(r'^(\d+(\.\d+)*\.?|\w\.|Appendix\s\w:)\s+', text)
-                    size = round(line['spans'][0]['size'])
-                    level = None
-
-                    if match:
-                        prefix = match.group(1)
-                        depth = prefix.count('.') + 1
-                        level = 'H1' if 'Appendix' in prefix else f"H{depth}"
-                    elif size in level_map:
-                        level = level_map[size]
-
-                    if level and not (text.endswith('.') and not match):
-                        headings.append({
-                            "level": level,
-                            "text": text,
-                            "page": pnum
-                        })
-
-        # Deduplicate
-        unique, seen = [], set()
-        for h in headings:
-            key = (h['text'], h['level'])
-            if key not in seen:
-                unique.append(h)
-                seen.add(key)
-        return unique

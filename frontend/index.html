@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intelligent Document Viewer</title>
+    <!-- CORRECTED PATH: Added '/frontend/' before the filename -->
+    <link rel="stylesheet" href="/frontend/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar for smart table of contents -->
+        <aside class="sidebar">
+            <header class="sidebar-header">
+                <h2>Document Insights</h2>
+                <p id="persona-info"></p>
+                <p id="job-info"></p>
+            </header>
+            <nav id="smart-toc" class="smart-toc">
+                <!-- Relevant sections will be dynamically inserted here by JavaScript -->
+                <div class="loader">Loading Insights...</div>
+            </nav>
+        </aside>
+
+        <!-- Main content area for the PDF viewer -->
+        <main class="main-content">
+            <div id="adobe-dc-view"></div>
+        </main>
+    </div>
+
+    <!-- Adobe PDF Embed API Script -->
+    <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+    <!-- CORRECTED PATH: Added '/frontend/' before the filename -->
+    <script src="/frontend/script.js"></script>
+</body>
+</html>
