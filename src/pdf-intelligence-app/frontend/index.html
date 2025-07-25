@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Intelligent PDF Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Intelligent PDF Analyzer</h1>
+            <p>Upload PDFs and get persona-driven insights!</p>
+        </header>
+        <form id="analysis-form">
+            <div class="form-group">
+                <label for="files">Select PDF(s):</label>
+                <input type="file" id="files" name="files" multiple required>
+            </div>
+            <div class="form-group">
+                <label for="persona">Persona:</label>
+                <input type="text" id="persona" name="persona" required>
+            </div>
+            <div class="form-group">
+                <label for="job">Job to be Done:</label>
+                <input type="text" id="job" name="job" required>
+            </div>
+            <button type="submit">Analyze</button>
+        </form>
+        <div id="loading-spinner" style="display:none;">
+            <div class="spinner"></div>
+            <div>Analyzing, please wait...</div>
+        </div>
+        <div id="results-container"></div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,2268 @@
+text,font_size,is_bold,y_position,word_count,is_all_caps,is_centered,label
+,12,0,0.09393942476523043,0,0,0,Body_Text
+,12,0,0.12545452695904355,0,0,0,Body_Text
+,12,0,0.15699498340336962,0,0,0,Body_Text
+,12,0,0.15699498340336962,0,0,0,Body_Text
+Acarajé,12,1,0.09393942476523043,1,0,0,H1
+,10,0,0.1110730797353417,1,0,0,Body_Text
+Ingredients :,12,1,0.11242421468098958,2,0,0,Body_Text
+o   2 cups black-eyed peas,10,0,0.13082309684368096,5,0,0,Body_Text
+o   1 small onion,10,0,0.14930796382403133,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.16789378541888614,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.1863786523992365,4,0,0,Body_Text
+o   Oil for frying,10,0,0.20486351937958688,4,0,0,Body_Text
+,10,0,0.2220832362319484,1,0,0,Body_Text
+Instructions :,12,1,0.22343437117759626,2,0,0,Body_Text
+"o   Soak black-eyed peas overnight, then peel and rinse.",10,0,0.24183317627569642,9,0,0,Body_Text
+"o   Blend peas with diced onion, minced garlic, and salt until smooth.",10,0,0.2603180432560468,12,0,1,Body_Text
+o   Form mixture into balls and fry in hot oil until golden.,10,0,0.2788029102363972,12,0,0,Body_Text
+o   Drain on paper towels and serve warm.,10,0,0.29736353170992147,8,0,0,Body_Text
+,12,0,0.31593430644333964,0,0,0,Body_Text
+Agedashi Tofu,12,1,0.33441917342369004,2,0,0,H1
+,10,0,0.3515529054583925,1,0,0,Body_Text
+Ingredients :,12,1,0.3529040404040404,2,0,0,Body_Text
+o   1 block tofu,10,0,0.37130290330058396,4,0,0,Body_Text
+o   1/4 cup cornstarch,10,0,0.38978777028093436,4,0,0,Body_Text
+o   1 cup dashi broth,10,0,0.4082726372612847,5,0,0,Body_Text
+o   2 tablespoons soy sauce,10,0,0.4268331816702178,5,0,0,Body_Text
+o   1 tablespoon mirin,10,0,0.4453180486505682,4,0,0,Body_Text
+o   1/4 cup green onions,10,0,0.4638029156309186,5,0,0,Body_Text
+o   1/4 cup grated daikon,10,0,0.4822877826112689,5,0,0,Body_Text
+,10,0,0.499507441665187,1,0,0,Body_Text
+Instructions :,12,1,0.5008585766108349,2,0,0,Body_Text
+o   Cut tofu into cubes and coat with cornstarch.,10,0,0.5192827166933002,9,0,0,Body_Text
+o   Fry in hot oil until golden.,10,0,0.5377675836736505,7,0,0,Body_Text
+o   Heat dashi broth with soy sauce and mirin.,10,0,0.5563281280825837,9,0,0,Body_Text
+"o   Serve tofu in broth, topped with green onions and grated daikon.",10,0,0.574812995062934,12,0,1,Body_Text
+,12,0,0.5933838275947956,0,0,0,Body_Text
+Aloo Gobi,12,1,0.611868694575146,2,0,0,H1
+,10,0,0.6290023880775528,1,0,0,Body_Text
+Ingredients :,12,1,0.6303535230232008,2,0,0,Body_Text
+o   2 potatoes,10,0,0.6487523859197443,3,0,0,Body_Text
+o   1 cauliflower,10,0,0.6672372529000947,3,0,0,Body_Text
+o   1 small onion,10,0,0.6857977973090278,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.7042826642893781,4,0,0,Body_Text
+o   1 teaspoon cumin,10,0,0.7227675312697285,4,0,0,Body_Text
+o   1 teaspoon turmeric,10,0,0.7412523982500789,4,0,0,Body_Text
+o   1 teaspoon coriander,10,0,0.7597372652304293,4,0,0,Body_Text
+o   1 teaspoon garam masala,10,0,0.7782220551461885,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.7967069221265388,4,0,0,Body_Text
+o   2 tablespoons oil,10,0,0.8151917891068892,4,0,0,Body_Text
+,10,0,0.8324872411862768,1,0,0,Body_Text
+Instructions :,12,1,0.8338384146642204,2,0,0,Body_Text
+"o   Peel and dice potatoes, cut cauliflower into florets.",10,0,0.8522372004961727,9,0,0,Body_Text
+o   Heat oil in a pan and sauté diced onion and minced garlic until translucent.,10,0,0.8707473446624447,15,0,1,Body_Text
+"o   Add cumin, turmeric, coriander, and garam masala, cook for 1 minute.",10,0,0.8892321345782039,12,0,1,Body_Text
+"o   Add potatoes and cauliflower, stir to coat with spices.",10,0,0.09385343994757142,10,0,0,Body_Text
+"o   Cover and cook until vegetables are tender, stirring occasionally.",10,0,0.11233822986333057,10,0,1,Body_Text
+o   Add salt to taste and serve.,10,0,0.13082309684368096,7,0,0,Body_Text
+,12,0,0.14939394864169034,0,0,0,Body_Text
+Albondigas,12,1,0.16797977023654515,1,0,0,H1
+,10,0,0.18511350227124762,1,0,0,Body_Text
+Ingredients :,12,1,0.18646463721689552,2,0,0,Body_Text
+o   1/2 pound ground beef,10,0,0.20486351937958688,5,0,0,Body_Text
+o   1/2 pound ground pork,10,0,0.22334838635993726,5,0,0,Body_Text
+o   1 small onion,10,0,0.24183317627569642,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.2603180432560468,4,0,0,Body_Text
+o   1/4 cup breadcrumbs,10,0,0.2788029102363972,4,0,0,Body_Text
+o   1 egg,10,0,0.29736353170992147,3,0,0,Body_Text
+o   1 teaspoon paprika,10,0,0.31584832162568066,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.3343331693398832,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.35281803632023356,4,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.37130290330058396,5,0,0,Body_Text
+o   1 cup tomato sauce,10,0,0.38978777028093436,5,0,0,Body_Text
+,10,0,0.40700746786714803,1,0,0,Body_Text
+Instructions :,12,1,0.4083586028127959,2,0,0,Body_Text
+"o   Mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, beaten",10,0,0.4268331816702178,12,0,1,Body_Text
+"egg, paprika, salt, and pepper in a bowl.",12,0,0.445404052734375,8,0,0,Body_Text
+o   Form mixture into meatballs.,10,0,0.4638029156309186,5,0,0,Body_Text
+o   Heat olive oil in a pan and brown meatballs on all sides.,10,0,0.4822877826112689,13,0,0,Body_Text
+o   Add tomato sauce and simmer for 20 minutes.,10,0,0.5007725725270281,9,0,0,Body_Text
+o   Serve warm.,10,0,0.5192827166933002,3,0,0,Body_Text
+,12,1,0.5378535492251618,0,0,0,Body_Text
+Antipasto,12,1,0.5564141321663905,1,0,0,H1
+,10,0,0.5735478642010929,1,0,0,Body_Text
+Ingredients :,12,1,0.5748989991467408,2,0,0,Body_Text
+"o   Assorted cured meats (salami, prosciutto)",10,0,0.5932978620432844,6,0,0,Body_Text
+"o   Cheeses (mozzarella, provolone)",10,0,0.6117827290236347,4,0,0,Body_Text
+o   Olives,10,0,0.6302675189393939,2,0,0,Body_Text
+"o   Marinated vegetables (artichokes, peppers)",10,0,0.6487523859197443,5,0,0,Body_Text
+o   Breadsticks,10,0,0.6672372529000947,2,0,0,Body_Text
+,10,0,0.6845326279148911,1,0,0,Body_Text
+Instructions :,12,1,0.6858838013928346,2,0,0,Body_Text
+"o   Arrange meats, cheeses, olives, and vegetables on a platter.",10,0,0.7042826642893781,10,0,1,Body_Text
+o   Serve with breadsticks.,10,0,0.7227675312697285,4,0,0,Body_Text
+,12,1,0.7413384023338857,0,0,0,Body_Text
+Arancini,12,1,0.7598232693142362,1,0,0,H1
+,10,0,0.7769568857520518,1,0,0,Body_Text
+Ingredients :,12,1,0.7783080592299952,2,0,0,Body_Text
+o   2 cups cooked risotto,10,0,0.7967069221265388,5,0,0,Body_Text
+o   1/2 cup mozzarella,10,0,0.8151917891068892,4,0,0,Body_Text
+o   1/2 cup flour,10,0,0.8337524105804135,4,0,0,Body_Text
+o   2 eggs,10,0,0.8522372004961727,3,0,0,Body_Text
+o   1 cup breadcrumbs,10,0,0.8707473446624447,4,0,0,Body_Text
+o   1 cup vegetable oil,10,0,0.8892321345782039,5,0,0,Body_Text
+,10,0,0.09258828981958254,1,0,0,Body_Text
+Instructions :,12,1,0.09393942476523043,2,0,0,Body_Text
+o   Form risotto into balls and stuff with a cube of mozzarella.,10,0,0.11233822986333057,12,0,1,Body_Text
+"o   Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs.",10,0,0.13082309684368096,13,0,1,Body_Text
+o   Fry in hot oil until golden.,10,0,0.14930796382403133,7,0,0,Body_Text
+o   Drain on paper towels and serve warm.,10,0,0.16789378541888614,8,0,0,Body_Text
+,12,1,0.18646463721689552,0,0,0,Body_Text
+Baba Ganoush,12,1,0.2049495041972459,2,0,0,H1
+,10,0,0.2220832362319484,1,0,0,Body_Text
+Ingredients :,12,1,0.22343437117759626,2,0,0,Body_Text
+o   2 eggplants,10,0,0.24183317627569642,3,0,0,Body_Text
+o   1/4 cup tahini,10,0,0.2603180432560468,4,0,0,Body_Text
+o   1/4 cup lemon juice,10,0,0.2788029102363972,5,0,0,Body_Text
+o   2 cloves garlic,10,0,0.29736353170992147,4,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.31584832162568066,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.3343331693398832,4,0,0,Body_Text
+,10,0,0.3515529054583925,1,0,0,Body_Text
+Instructions :,12,1,0.3529040404040404,2,0,0,Body_Text
+"o   Roast eggplants until soft, then peel and mash.",10,0,0.37130290330058396,9,0,0,Body_Text
+"o   Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food",10,0,0.38978777028093436,14,0,1,Body_Text
+processor.,12,0,0.4083586028127959,1,0,0,Body_Text
+o   Slowly add olive oil while blending until smooth.,10,0,0.4268331816702178,9,0,0,Body_Text
+o   Serve with a drizzle of olive oil.,10,0,0.4453180486505682,8,0,0,Body_Text
+,12,1,0.46388888118242977,0,0,0,Body_Text
+Baked Beans,12,1,0.48237374816278017,2,0,0,H1
+,10,0,0.499507441665187,1,0,0,Body_Text
+Ingredients :,12,1,0.5008585766108349,2,0,0,Body_Text
+o   4 cups cooked navy beans,10,0,0.5192827166933002,6,0,0,Body_Text
+o   1 small onion,10,0,0.5377675836736505,4,0,0,Body_Text
+o   1/2 cup molasses,10,0,0.5563281280825837,4,0,0,Body_Text
+o   1/4 cup brown sugar,10,0,0.574812995062934,5,0,0,Body_Text
+o   1/4 cup ketchup,10,0,0.5932978620432844,4,0,0,Body_Text
+o   1 tablespoon mustard,10,0,0.6117827290236347,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.6302675189393939,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.6487523859197443,4,0,0,Body_Text
+,10,0,0.665972083505958,1,0,0,Body_Text
+Instructions :,12,1,0.6673232569839015,2,0,0,Body_Text
+o   Preheat oven to 350°F (175°C).,10,0,0.6857977973090278,6,0,0,Body_Text
+o   Sauté diced onion until translucent.,10,0,0.7042826642893781,6,0,0,Body_Text
+"o   Mix beans, onion, molasses, brown sugar, ketchup, mustard, salt, and pepper in a",10,0,0.7227675312697285,14,0,1,Body_Text
+baking dish.,12,0,0.7413384023338857,2,0,0,Body_Text
+"o   Bake for 1 hour, stirring occasionally.",10,0,0.7597372652304293,7,0,0,Body_Text
+o   Serve warm.,10,0,0.7782220551461885,3,0,0,Body_Text
+,12,1,0.7967929262103457,0,0,0,Body_Text
+Bammy,12,1,0.815277793190696,1,0,0,H1
+,10,0,0.8324872411862768,1,0,0,Body_Text
+Ingredients :,12,1,0.8338384146642204,2,0,0,Body_Text
+o   2 cups grated cassava,10,0,0.8522372004961727,5,0,0,Body_Text
+o   1/4 cup coconut milk,10,0,0.8707473446624447,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.8892321345782039,4,0,0,Body_Text
+o   Oil for frying,10,0,0.09385343994757142,4,0,0,Body_Text
+,10,0,0.1110730797353417,1,0,0,Body_Text
+Instructions :,12,1,0.11242421468098958,2,0,0,Body_Text
+o   Mix grated cassava with coconut milk and salt.,10,0,0.13082309684368096,9,0,0,Body_Text
+o   Form mixture into flat cakes.,10,0,0.14930796382403133,6,0,0,Body_Text
+o   Fry in hot oil until golden.,10,0,0.16789378541888614,7,0,0,Body_Text
+o   Drain on paper towels and serve warm.,10,0,0.1863786523992365,8,0,0,Body_Text
+,12,1,0.2049495041972459,0,0,0,Body_Text
+Banchan,12,1,0.22343437117759626,1,0,0,H1
+,10,0,0.24056802614770753,1,0,0,Body_Text
+Ingredients :,12,1,0.24191916109335543,2,0,0,Body_Text
+"o   Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi",10,0,0.2603180432560468,12,0,1,Body_Text
+,10,0,0.2775377601084083,1,0,0,Body_Text
+Instructions :,12,1,0.2788888950540562,2,0,0,Body_Text
+o   Prepare each side dish separately.,10,0,0.29736353170992147,6,0,0,Body_Text
+o   Arrange on small plates.,10,0,0.31584832162568066,5,0,0,Body_Text
+o   Serve as accompaniments to the main meal.,10,0,0.3343331693398832,8,0,0,Body_Text
+,12,1,0.3529040404040404,0,0,0,Body_Text
+Banh Beo,12,1,0.3713889073843908,2,0,0,H1
+,10,0,0.3885226008867977,1,0,0,Body_Text
+Ingredients :,12,1,0.38987373583244556,2,0,0,Body_Text
+o   1 cup rice flour,10,0,0.4082726372612847,5,0,0,Body_Text
+o   1/2 cup water,10,0,0.4268331816702178,4,0,0,Body_Text
+o   1/2 cup coconut milk,10,0,0.4453180486505682,5,0,0,Body_Text
+o   1/4 cup shrimp,10,0,0.4638029156309186,4,0,0,Body_Text
+o   1/4 cup green onions,10,0,0.4822877826112689,5,0,0,Body_Text
+o   1/4 cup fried shallots,10,0,0.5007725725270281,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.5192827166933002,4,0,0,Body_Text
+o   1/2 teaspoon sugar,10,0,0.5377675836736505,4,0,0,Body_Text
+,10,0,0.5550629972207426,1,0,0,Body_Text
+Instructions :,12,1,0.5564141321663905,2,0,0,Body_Text
+"o   Mix rice flour, water, coconut milk, salt, and sugar to form a batter.",10,0,0.574812995062934,14,0,1,Body_Text
+o   Pour batter into small dishes and steam until set.,10,0,0.5932978620432844,10,0,0,Body_Text
+o   Sauté chopped shrimp and green onions until cooked.,10,0,0.6117827290236347,9,0,0,Body_Text
+"o   Top steamed cakes with shrimp, green onions, and fried shallots.",10,0,0.6302675189393939,11,0,1,Body_Text
+o   Serve with dipping sauce.,10,0,0.6487523859197443,5,0,0,Body_Text
+,12,1,0.6673232569839015,0,0,0,Body_Text
+Banh Xeo,12,1,0.6858838013928346,2,0,0,H1
+,10,0,0.7030174948952415,1,0,0,Body_Text
+Ingredients :,12,1,0.704368668373185,2,0,0,Body_Text
+o   1 cup rice flour,10,0,0.7227675312697285,5,0,0,Body_Text
+o   1/2 cup coconut milk,10,0,0.7412523982500789,5,0,0,Body_Text
+o   1/2 cup water,10,0,0.7597372652304293,4,0,0,Body_Text
+o   1/2 pound shrimp,10,0,0.7782220551461885,4,0,0,Body_Text
+o   1/2 pound pork,10,0,0.7967069221265388,4,0,0,Body_Text
+o   1 small onion,10,0,0.8151917891068892,4,0,0,Body_Text
+o   1/2 cup bean sprouts,10,0,0.8337524105804135,5,0,0,Body_Text
+o   1/4 cup green onions,10,0,0.8522372004961727,5,0,0,Body_Text
+o   1/4 cup cilantro,10,0,0.8707473446624447,4,0,0,Body_Text
+o   1 teaspoon turmeric,10,0,0.8892321345782039,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.09385343994757142,4,0,0,Body_Text
+o   Oil for frying,10,0,0.11233822986333057,4,0,0,Body_Text
+,10,0,0.12955794671569207,1,0,0,Body_Text
+Instructions :,12,1,0.13090908166133997,2,0,0,Body_Text
+"o   Mix rice flour, coconut milk, water, turmeric, and salt to form a batter.",10,0,0.14930796382403133,14,0,1,Body_Text
+"o   Sauté sliced pork, shrimp, and diced onion until cooked.",10,0,0.16789378541888614,10,0,0,Body_Text
+"o   Heat oil in a pan and pour in a ladle of batter, swirling to coat the pan.",10,0,0.1863786523992365,18,0,1,Body_Text
+"o   Add cooked pork, shrimp, bean sprouts, green onions, and cilantro.",10,0,0.20486351937958688,11,0,1,Body_Text
+o   Fold pancake in half and cook until crispy.,10,0,0.22334838635993726,9,0,0,Body_Text
+o   Serve with lettuce and dipping sauce.,10,0,0.24183317627569642,7,0,0,Body_Text
+,12,1,0.26040402807370583,0,0,0,Body_Text
+Basturma,12,1,0.2788888950540562,1,0,0,H1
+,10,0,0.29609838158193263,1,0,0,Body_Text
+Ingredients :,12,1,0.2974495165275805,2,0,0,Body_Text
+o   1 pound beef tenderloin,10,0,0.31584832162568066,5,0,0,Body_Text
+o   1/4 cup paprika,10,0,0.3343331693398832,4,0,0,Body_Text
+o   2 tablespoons cumin,10,0,0.35281803632023356,4,0,0,Body_Text
+o   2 tablespoons fenugreek,10,0,0.37130290330058396,4,0,0,Body_Text
+o   1 tablespoon garlic powder,10,0,0.38978777028093436,5,0,0,Body_Text
+o   1 tablespoon salt,10,0,0.4082726372612847,4,0,0,Body_Text
+,10,0,0.42556805080837673,1,0,0,Body_Text
+Instructions :,12,1,0.4269191857540246,2,0,0,Body_Text
+o   Rub beef with salt and let cure in the refrigerator for 24 hours.,10,0,0.4453180486505682,14,0,1,Body_Text
+o   Rinse and pat dry.,10,0,0.4638029156309186,5,0,0,Body_Text
+"o   Mix paprika, cumin, fenugreek, and garlic powder, then coat beef with the",10,0,0.4822877826112689,13,0,1,Body_Text
+mixture.,12,0,0.5008585766108349,1,0,0,Body_Text
+"o   Wrap in cheesecloth and hang in a cool, dry place for 1-2 weeks.",10,0,0.5192827166933002,14,0,1,Body_Text
+o   Slice thinly and serve.,10,0,0.5377675836736505,5,0,0,Body_Text
+,12,1,0.5564141321663905,0,0,0,Body_Text
+Batbout,12,1,0.5748989991467408,1,0,0,H1
+,10,0,0.5920326926491477,1,0,0,Body_Text
+Ingredients :,12,1,0.5933838275947956,2,0,0,Body_Text
+o   2 1/4 teaspoons active dry yeast,10,0,0.6117827290236347,7,0,0,Body_Text
+o   1 teaspoon sugar,10,0,0.6302675189393939,4,0,0,Body_Text
+o   1 cup warm water,10,0,0.6487523859197443,5,0,0,Body_Text
+o   3 cups flour,10,0,0.6672372529000947,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.6857977973090278,4,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.7042826642893781,5,0,0,Body_Text
+,10,0,0.7215023618755918,1,0,0,Body_Text
+Instructions :,12,1,0.7228535353535354,2,0,0,Body_Text
+"o   Dissolve yeast and sugar in warm water, let sit until foamy.",10,0,0.7412523982500789,12,0,1,Body_Text
+"o   Mix flour and salt in a bowl, then add yeast mixture and olive oil.",10,0,0.7597372652304293,15,0,1,Body_Text
+"o   Knead until smooth, then let rise until doubled.",10,0,0.7782220551461885,9,0,0,Body_Text
+o   Divide dough into balls and roll out into circles.,10,0,0.7967069221265388,10,0,0,Body_Text
+o   Cook on a hot griddle until puffed and golden.,10,0,0.8151917891068892,10,0,0,Body_Text
+o   Serve warm.,10,0,0.8337524105804135,3,0,0,Body_Text
+,12,1,0.8523232045799795,0,0,0,Body_Text
+Bhindi Masala,12,1,0.8708333487462516,2,0,0,H1
+,10,0,0.8879669651840673,1,0,0,Body_Text
+Ingredients :,12,1,0.8893181386620107,2,0,0,Body_Text
+o   1 pound okra,10,0,0.09385343994757142,4,0,0,Body_Text
+o   1 small onion,10,0,0.11233822986333057,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.13082309684368096,4,0,0,Body_Text
+o   1 teaspoon cumin,10,0,0.14930796382403133,4,0,0,Body_Text
+o   1 teaspoon coriander,10,0,0.16789378541888614,4,0,0,Body_Text
+o   1 teaspoon turmeric,10,0,0.1863786523992365,4,0,0,Body_Text
+o   1 teaspoon garam masala,10,0,0.20486351937958688,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.22334838635993726,4,0,0,Body_Text
+o   2 tablespoons oil,10,0,0.24183317627569642,4,0,0,Body_Text
+,10,0,0.2590528931280579,1,0,0,Body_Text
+Instructions :,12,1,0.26040402807370583,2,0,0,Body_Text
+"o   Wash and dry okra, then cut into pieces.",10,0,0.2788029102363972,9,0,0,Body_Text
+o   Heat oil in a pan and sauté diced onion and minced garlic until translucent.,10,0,0.29736353170992147,15,0,1,Body_Text
+"o   Add cumin, coriander, turmeric, and garam masala, cook for 1 minute.",10,0,0.31584832162568066,12,0,1,Body_Text
+o   Add okra and stir to coat with spices.,10,0,0.3343331693398832,9,0,0,Body_Text
+"o   Cook until okra is tender, stirring occasionally.",10,0,0.35281803632023356,8,0,0,Body_Text
+o   Add salt to taste and serve.,10,0,0.37130290330058396,7,0,0,Body_Text
+,12,0,0.38987373583244556,0,0,0,Body_Text
+Bobotie,12,1,0.4083586028127959,1,0,0,H1
+,10,0,0.42556805080837673,1,0,0,Body_Text
+Ingredients :,12,1,0.4269191857540246,2,0,0,Body_Text
+o   1 pound ground beef,10,0,0.4453180486505682,5,0,0,Body_Text
+o   1 small onion,10,0,0.4638029156309186,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.4822877826112689,4,0,0,Body_Text
+o   1/4 cup raisins,10,0,0.5007725725270281,4,0,0,Body_Text
+o   1/4 cup almonds,10,0,0.5192827166933002,4,0,0,Body_Text
+o   1 tablespoon curry powder,10,0,0.5377675836736505,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.5563281280825837,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.574812995062934,4,0,0,Body_Text
+o   2 eggs,10,0,0.5932978620432844,3,0,0,Body_Text
+o   1/2 cup milk,10,0,0.6117827290236347,4,0,0,Body_Text
+o   1/4 cup breadcrumbs,10,0,0.6302675189393939,4,0,0,Body_Text
+,10,0,0.6474872165256076,1,0,0,Body_Text
+Instructions :,12,1,0.6488383900035511,2,0,0,Body_Text
+o   Preheat oven to 350°F (175°C).,10,0,0.6672372529000947,6,0,0,Body_Text
+o   Sauté diced onion and minced garlic until softened.,10,0,0.6857977973090278,9,0,0,Body_Text
+"o   Add ground beef, raisins, almonds, curry powder, salt, and pepper, cook until",10,0,0.7042826642893781,13,0,1,Body_Text
+beef is browned.,12,0,0.7228535353535354,3,0,0,Body_Text
+o   Transfer mixture to a baking dish.,10,0,0.7412523982500789,7,0,0,Body_Text
+o   Beat eggs with milk and pour over the beef mixture.,10,0,0.7597372652304293,11,0,0,Body_Text
+o   Sprinkle with breadcrumbs.,10,0,0.7782220551461885,4,0,0,Body_Text
+o   Bake for 30 minutes until set and golden.,10,0,0.7967069221265388,9,0,0,Body_Text
+o   Serve warm.,10,0,0.8151917891068892,3,0,0,Body_Text
+,12,1,0.8338384146642204,0,0,0,Body_Text
+Bok Choy with Garlic,12,1,0.8523232045799795,4,0,0,H1
+,10,0,0.8694821752683081,1,0,0,Body_Text
+Ingredients :,12,1,0.8708333487462516,2,0,0,Body_Text
+o   1 pound bok choy,10,0,0.8892321345782039,5,0,0,Body_Text
+o   2 cloves garlic,10,0,0.09385343994757142,4,0,0,Body_Text
+o   2 tablespoons soy sauce,10,0,0.11233822986333057,5,0,0,Body_Text
+o   1 tablespoon sesame oil,10,0,0.13082309684368096,5,0,0,Body_Text
+,10,0,0.14804281369604247,1,0,0,Body_Text
+Instructions :,12,1,0.14939394864169034,2,0,0,Body_Text
+o   Sauté minced garlic in sesame oil until fragrant.,10,0,0.16789378541888614,9,0,0,Body_Text
+o   Add bok choy and stir-fry until tender.,10,0,0.1863786523992365,8,0,0,Body_Text
+o   Add soy sauce and cook for 2 minutes.,10,0,0.20486351937958688,9,0,0,Body_Text
+o   Serve warm.,10,0,0.22334838635993726,3,0,0,Body_Text
+,12,1,0.24191916109335543,0,0,0,Body_Text
+Bolinho de Bacalhau,12,1,0.26040402807370583,3,0,0,H1
+,10,0,0.2775377601084083,1,0,0,Body_Text
+Ingredients :,12,1,0.2788888950540562,2,0,0,Body_Text
+o   1 pound salted cod,10,0,0.29736353170992147,5,0,0,Body_Text
+o   4 potatoes,10,0,0.31584832162568066,3,0,0,Body_Text
+o   1 small onion,10,0,0.3343331693398832,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.35281803632023356,4,0,0,Body_Text
+o   1/4 cup parsley,10,0,0.37130290330058396,4,0,0,Body_Text
+o   2 eggs,10,0,0.38978777028093436,3,0,0,Body_Text
+o   1 cup breadcrumbs,10,0,0.4082726372612847,4,0,0,Body_Text
+o   Oil for frying,10,0,0.4268331816702178,4,0,0,Body_Text
+,10,0,0.44405291778872713,1,0,0,Body_Text
+Instructions :,12,1,0.445404052734375,2,0,0,Body_Text
+"o   Soak salted cod in water overnight, then rinse and flake.",10,0,0.4638029156309186,11,0,0,Body_Text
+"o   Boil potatoes until tender, then mash.",10,0,0.4822877826112689,7,0,0,Body_Text
+"o   Mix cod with mashed potatoes, diced onion, minced garlic, chopped parsley, and",10,0,0.5007725725270281,13,0,1,Body_Text
+beaten eggs.,12,0,0.5193686822448114,2,0,0,Body_Text
+o   Form mixture into balls and coat with breadcrumbs.,10,0,0.5377675836736505,9,0,0,Body_Text
+o   Fry in hot oil until golden.,10,0,0.5563281280825837,7,0,0,Body_Text
+o   Drain on paper towels and serve warm.,10,0,0.574812995062934,8,0,0,Body_Text
+,12,1,0.5933838275947956,0,0,0,Body_Text
+Bouillabaisse,12,1,0.611868694575146,1,0,0,H1
+,10,0,0.6290023880775528,1,0,0,Body_Text
+Ingredients :,12,1,0.6303535230232008,2,0,0,Body_Text
+o   1 pound fish fillets,10,0,0.6487523859197443,5,0,0,Body_Text
+o   1/2 pound shrimp,10,0,0.6672372529000947,4,0,0,Body_Text
+o   1/2 pound mussels,10,0,0.6857977973090278,4,0,0,Body_Text
+o   1 small onion,10,0,0.7042826642893781,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.7227675312697285,4,0,0,Body_Text
+o   4 tomatoes,10,0,0.7412523982500789,3,0,0,Body_Text
+o   4 cups fish stock,10,0,0.7597372652304293,5,0,0,Body_Text
+o   1/2 cup white wine,10,0,0.7782220551461885,5,0,0,Body_Text
+o   1 teaspoon saffron,10,0,0.7967069221265388,4,0,0,Body_Text
+o   1 teaspoon thyme,10,0,0.8151917891068892,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.8337524105804135,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.8522372004961727,4,0,0,Body_Text
+,10,0,0.8694821752683081,1,0,0,Body_Text
+Instructions :,12,1,0.8708333487462516,2,0,0,Body_Text
+o   Sauté diced onion and minced garlic in olive oil until softened.,10,0,0.8892321345782039,12,0,1,Body_Text
+"o   Add diced tomatoes, fish stock, wine, saffron, thyme, salt, and pepper, simmer",10,0,0.09385343994757142,13,0,1,Body_Text
+for 20 minutes.,12,0,0.11242421468098958,3,0,0,Body_Text
+"o   Add fish fillets, shrimp, and mussels, cook until seafood is done.",10,0,0.13082309684368096,12,0,1,Body_Text
+o   Serve hot with crusty bread.,10,0,0.14930796382403133,6,0,0,Body_Text
+,12,1,0.16797977023654515,0,0,0,Body_Text
+Bratkartoffeln (Fried Potatoes),12,1,0.18646463721689552,3,0,0,H1
+,10,0,0.20359836925159802,1,0,0,Body_Text
+Ingredients :,12,1,0.2049495041972459,2,0,0,Body_Text
+o   4 potatoes,10,0,0.22334838635993726,3,0,0,Body_Text
+o   1 small onion,10,0,0.24183317627569642,4,0,0,Body_Text
+o   1/4 cup bacon,10,0,0.2603180432560468,4,0,0,Body_Text
+o   2 tablespoons butter,10,0,0.2788029102363972,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.29736353170992147,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.31584832162568066,4,0,0,Body_Text
+,10,0,0.3330680384780421,1,0,0,Body_Text
+Instructions :,12,1,0.33441917342369004,2,0,0,Body_Text
+"o   Boil potatoes until tender, then slice.",10,0,0.35281803632023356,7,0,0,Body_Text
+"o   Cook diced bacon until crispy, then remove and set aside.",10,0,0.37130290330058396,11,0,1,Body_Text
+o   Sauté sliced potatoes and diced onion in butter until golden.,10,0,0.38978777028093436,11,0,1,Body_Text
+"o   Stir in bacon, salt, and pepper.",10,0,0.4082726372612847,7,0,0,Body_Text
+o   Serve warm.,10,0,0.4268331816702178,3,0,0,Body_Text
+,12,1,0.445404052734375,0,0,0,Body_Text
+Briam,12,1,0.46388888118242977,1,0,0,H1
+,10,0,0.48102261321713224,1,0,0,Body_Text
+Ingredients :,12,1,0.48237374816278017,2,0,0,Body_Text
+o   2 potatoes,10,0,0.5007725725270281,3,0,0,Body_Text
+o   2 zucchinis,10,0,0.5192827166933002,3,0,0,Body_Text
+o   2 eggplants,10,0,0.5377675836736505,3,0,0,Body_Text
+o   2 tomatoes,10,0,0.5563281280825837,3,0,0,Body_Text
+o   1 small onion,10,0,0.574812995062934,4,0,0,Body_Text
+o   4 cloves garlic,10,0,0.5932978620432844,4,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.6117827290236347,5,0,0,Body_Text
+o   1 teaspoon oregano,10,0,0.6302675189393939,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.6487523859197443,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.6672372529000947,4,0,0,Body_Text
+,10,0,0.6845326279148911,1,0,0,Body_Text
+Instructions :,12,1,0.6858838013928346,2,0,0,Body_Text
+o   Preheat oven to 375°F (190°C).,10,0,0.7042826642893781,6,0,0,Body_Text
+"o   Slice potatoes, zucchinis, eggplants, and tomatoes.",10,0,0.7227675312697285,7,0,0,Body_Text
+o   Sauté diced onion and minced garlic in olive oil until softened.,10,0,0.7412523982500789,12,0,1,Body_Text
+"o   Layer vegetables in a baking dish, seasoning with oregano, salt, and pepper.",10,0,0.7597372652304293,13,0,1,Body_Text
+o   Pour sautéed onion and garlic over the top.,10,0,0.7782220551461885,9,0,0,Body_Text
+o   Bake for 45 minutes until vegetables are tender.,10,0,0.7967069221265388,9,0,0,Body_Text
+o   Serve warm.,10,0,0.8151917891068892,3,0,0,Body_Text
+,12,1,0.8338384146642204,0,0,0,Body_Text
+Briouats,12,1,0.8523232045799795,1,0,0,H1
+,10,0,0.8694821752683081,1,0,0,Body_Text
+Ingredients :,12,1,0.8708333487462516,2,0,0,Body_Text
+o   1/2 pound ground beef,10,0,0.8892321345782039,5,0,0,Body_Text
+o   1 small onion,10,0,0.09385343994757142,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.11233822986333057,4,0,0,Body_Text
+o   1/4 cup parsley,10,0,0.13082309684368096,4,0,0,Body_Text
+o   1 teaspoon cumin,10,0,0.14930796382403133,4,0,0,Body_Text
+o   1 teaspoon cinnamon,10,0,0.16789378541888614,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.1863786523992365,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.20486351937958688,4,0,0,Body_Text
+o   1 package phyllo dough,10,0,0.22334838635993726,5,0,0,Body_Text
+o   1/4 cup butter,10,0,0.24183317627569642,4,0,0,Body_Text
+o   Oil for frying,10,0,0.2603180432560468,4,0,0,Body_Text
+,10,0,0.2775377601084083,1,0,0,Body_Text
+Instructions :,12,1,0.2788888950540562,2,0,0,Body_Text
+"o   Sauté ground beef, diced onion, and minced garlic until cooked.",10,0,0.29736353170992147,11,0,1,Body_Text
+"o   Stir in chopped parsley, cumin, cinnamon, salt, and pepper.",10,0,0.31584832162568066,10,0,1,Body_Text
+o   Cut phyllo dough into strips and brush with melted butter.,10,0,0.3343331693398832,11,0,1,Body_Text
+o   Place a spoonful of filling on each strip and fold into triangles.,10,0,0.35281803632023356,13,0,1,Body_Text
+o   Fry in hot oil until golden.,10,0,0.37130290330058396,7,0,0,Body_Text
+o   Drain on paper towels and serve warm.,10,0,0.38978777028093436,8,0,0,Body_Text
+,12,1,0.4083586028127959,0,0,0,Body_Text
+Bruschetta,12,1,0.4269191857540246,1,0,0,H1
+,10,0,0.44405291778872713,1,0,0,Body_Text
+Ingredients :,12,1,0.445404052734375,2,0,0,Body_Text
+o   1 baguette,10,0,0.4638029156309186,3,0,0,Body_Text
+o   4 tomatoes,10,0,0.4822877826112689,3,0,0,Body_Text
+o   1/4 cup basil,10,0,0.5007725725270281,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.5192827166933002,4,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.5377675836736505,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.5563281280825837,4,0,0,Body_Text
+,10,0,0.5735478642010929,1,0,0,Body_Text
+Instructions :,12,1,0.5748989991467408,2,0,0,Body_Text
+o   Slice baguette and toast until golden.,10,0,0.5932978620432844,7,0,0,Body_Text
+o   Dice tomatoes and chop basil.,10,0,0.6117827290236347,6,0,0,Body_Text
+"o   Mix tomatoes, basil, minced garlic, olive oil, and salt.",10,0,0.6302675189393939,10,0,0,Body_Text
+o   Spoon mixture onto toasted bread and serve.,10,0,0.6487523859197443,8,0,0,Body_Text
+,12,1,0.6673232569839015,0,0,0,Body_Text
+Bulgur Pilaf,12,1,0.6858838013928346,2,0,0,H1
+,10,0,0.7030174948952415,1,0,0,Body_Text
+Ingredients :,12,1,0.704368668373185,2,0,0,Body_Text
+o   1 cup bulgur,10,0,0.7227675312697285,4,0,0,Body_Text
+o   2 cups chicken broth,10,0,0.7412523982500789,5,0,0,Body_Text
+o   1 small onion,10,0,0.7597372652304293,4,0,0,Body_Text
+o   1 carrot,10,0,0.7782220551461885,3,0,0,Body_Text
+o   1/4 cup parsley,10,0,0.7967069221265388,4,0,0,Body_Text
+o   2 tablespoons olive oil,10,0,0.8151917891068892,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.8337524105804135,4,0,0,Body_Text
+,10,0,0.850972031102036,1,0,0,Body_Text
+Instructions :,12,1,0.8523232045799795,2,0,0,Body_Text
+o   Sauté diced onion and grated carrot in olive oil until softened.,10,0,0.8707473446624447,12,0,1,Body_Text
+o   Add bulgur and cook for 2 minutes.,10,0,0.8892321345782039,8,0,0,Body_Text
+o   Pour in chicken broth and bring to a boil.,10,0,0.09385343994757142,10,0,0,Body_Text
+"o   Reduce heat, cover, and simmer until bulgur is tender.",10,0,0.11233822986333057,10,0,0,Body_Text
+o   Stir in chopped parsley and salt.,10,0,0.13082309684368096,7,0,0,Body_Text
+o   Serve warm.,10,0,0.14930796382403133,3,0,0,Body_Text
+,12,1,0.16797977023654515,0,0,0,Body_Text
+Ca Tim Nuong (Grilled Eggplant),12,1,0.18646463721689552,5,0,0,H1
+,10,0,0.20359836925159802,1,0,0,Body_Text
+Ingredients :,12,1,0.2049495041972459,2,0,0,Body_Text
+o   2 eggplants,10,0,0.22334838635993726,3,0,0,Body_Text
+o   2 cloves garlic,10,0,0.24183317627569642,4,0,0,Body_Text
+o   2 tablespoons fish sauce,10,0,0.2603180432560468,5,0,0,Body_Text
+o   1 tablespoon lime juice,10,0,0.2788029102363972,5,0,0,Body_Text
+o   1 tablespoon sugar,10,0,0.29736353170992147,4,0,0,Body_Text
+o   1/4 cup cilantro,10,0,0.31584832162568066,4,0,0,Body_Text
+,10,0,0.3330680384780421,1,0,0,Body_Text
+Instructions :,12,1,0.33441917342369004,2,0,0,Body_Text
+o   Grill eggplants until charred and tender.,10,0,0.35281803632023356,7,0,0,Body_Text
+o   Peel and slice eggplants.,10,0,0.37130290330058396,5,0,0,Body_Text
+"o   Mix minced garlic, fish sauce, lime juice, and sugar in a bowl.",10,0,0.38978777028093436,13,0,1,Body_Text
+o   Toss eggplants with the dressing.,10,0,0.4082726372612847,6,0,0,Body_Text
+o   Garnish with chopped cilantro and serve.,10,0,0.4268331816702178,7,0,0,Body_Text
+,12,1,0.445404052734375,0,0,0,Body_Text
+Callaloo,12,1,0.46388888118242977,1,0,0,H1
+,10,0,0.48102261321713224,1,0,0,Body_Text
+Ingredients :,12,1,0.48237374816278017,2,0,0,Body_Text
+o   1 pound callaloo leaves,10,0,0.5007725725270281,5,0,0,Body_Text
+o   1 small onion,10,0,0.5192827166933002,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.5377675836736505,4,0,0,Body_Text
+o   1/4 cup coconut milk,10,0,0.5563281280825837,5,0,0,Body_Text
+o   1 teaspoon thyme,10,0,0.574812995062934,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.5932978620432844,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.6117827290236347,4,0,0,Body_Text
+,10,0,0.6290023880775528,1,0,0,Body_Text
+Instructions :,12,1,0.6303535230232008,2,0,0,Body_Text
+o   Sauté diced onion and minced garlic until softened.,10,0,0.6487523859197443,9,0,0,Body_Text
+o   Add callaloo leaves and cook until wilted.,10,0,0.6672372529000947,8,0,0,Body_Text
+"o   Stir in coconut milk, thyme, salt, and pepper.",10,0,0.6857977973090278,9,0,0,Body_Text
+o   Simmer for 10 minutes.,10,0,0.7042826642893781,5,0,0,Body_Text
+o   Serve warm.,10,0,0.7227675312697285,3,0,0,Body_Text
+,12,1,0.7413384023338857,0,0,0,Body_Text
+Canh Chua,12,1,0.7598232693142362,2,0,0,H1
+,10,0,0.7769568857520518,1,0,0,Body_Text
+Ingredients :,12,1,0.7783080592299952,2,0,0,Body_Text
+o   4 cups fish stock,10,0,0.7967069221265388,5,0,0,Body_Text
+o   1/2 pound fish fillets,10,0,0.8151917891068892,5,0,0,Body_Text
+o   1 cup pineapple,10,0,0.8337524105804135,4,0,0,Body_Text
+o   1 cup tomatoes,10,0,0.8522372004961727,4,0,0,Body_Text
+o   1 cup bean sprouts,10,0,0.8707473446624447,5,0,0,Body_Text
+o   2 stalks lemongrass,10,0,0.8892321345782039,4,0,0,Body_Text
+o   2-3 Thai chilies,10,0,0.09385343994757142,4,0,0,Body_Text
+o   2 tablespoons fish sauce,10,0,0.11233822986333057,5,0,0,Body_Text
+o   2 tablespoons tamarind paste,10,0,0.13082309684368096,5,0,0,Body_Text
+o   1 tablespoon sugar,10,0,0.14930796382403133,4,0,0,Body_Text
+o   1/4 cup cilantro,10,0,0.16789378541888614,4,0,0,Body_Text
+,10,0,0.18511350227124762,1,0,0,Body_Text
+Instructions :,12,1,0.18646463721689552,2,0,0,Body_Text
+o   Bring fish stock to a boil.,10,0,0.20486351937958688,7,0,0,Body_Text
+"o   Add lemongrass, chilies, and tamarind paste, simmer for 10 minutes.",10,0,0.22334838635993726,11,0,1,Body_Text
+"o   Add pineapple, tomatoes, and fish fillets, cook until fish is done.",10,0,0.24183317627569642,12,0,1,Body_Text
+"o   Stir in fish sauce, sugar, and bean sprouts.",10,0,0.2603180432560468,9,0,0,Body_Text
+o   Garnish with chopped cilantro and serve.,10,0,0.2788029102363972,7,0,0,Body_Text
+,12,1,0.2974495165275805,0,0,0,Body_Text
+Caprese Salad,12,1,0.31593430644333964,2,0,0,H1
+,10,0,0.3330680384780421,1,0,0,Body_Text
+Ingredients :,12,1,0.33441917342369004,2,0,0,Body_Text
+o   4 tomatoes,10,0,0.35281803632023356,3,0,0,Body_Text
+o   1 pound fresh mozzarella,10,0,0.37130290330058396,5,0,0,Body_Text
+o   1/4 cup basil,10,0,0.38978777028093436,4,0,0,Body_Text
+o   2 tablespoons olive oil,10,0,0.4082726372612847,5,0,0,Body_Text
+o   1 tablespoon balsamic glaze,10,0,0.4268331816702178,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.4453180486505682,4,0,0,Body_Text
+,10,0,0.4625377462367819,1,0,0,Body_Text
+Instructions :,12,1,0.46388888118242977,2,0,0,Body_Text
+o   Slice tomatoes and mozzarella.,10,0,0.4822877826112689,5,0,0,Body_Text
+"o   Arrange on a plate, alternating slices.",10,0,0.5007725725270281,7,0,0,Body_Text
+"o   Sprinkle with chopped basil, olive oil, balsamic glaze, and salt.",10,0,0.5192827166933002,11,0,1,Body_Text
+o   Serve immediately.,10,0,0.5377675836736505,3,0,0,Body_Text
+,12,1,0.5564141321663905,0,0,0,Body_Text
+Carrot Salad,12,1,0.5748989991467408,2,0,0,H1
+,10,0,0.5920326926491477,1,0,0,Body_Text
+Ingredients :,12,1,0.5933838275947956,2,0,0,Body_Text
+o   4 carrots,10,0,0.6117827290236347,3,0,0,Body_Text
+o   1/4 cup raisins,10,0,0.6302675189393939,4,0,0,Body_Text
+o   1/4 cup parsley,10,0,0.6487523859197443,4,0,0,Body_Text
+o   1/4 cup lemon juice,10,0,0.6672372529000947,5,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.6857977973090278,5,0,0,Body_Text
+o   1 teaspoon cumin,10,0,0.7042826642893781,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.7227675312697285,4,0,0,Body_Text
+,10,0,0.7399872288559423,1,0,0,Body_Text
+Instructions :,12,1,0.7413384023338857,2,0,0,Body_Text
+o   Grate carrots and mix with raisins and chopped parsley.,10,0,0.7597372652304293,10,0,0,Body_Text
+"o   Whisk lemon juice, olive oil, cumin, and salt, then pour over salad.",10,0,0.7782220551461885,13,0,1,Body_Text
+o   Toss well and serve chilled.,10,0,0.7967069221265388,6,0,0,Body_Text
+,12,1,0.815277793190696,0,0,0,Body_Text
+Ceviche,12,1,0.8338384146642204,1,0,0,H1
+,10,0,0.850972031102036,1,0,0,Body_Text
+Ingredients :,12,1,0.8523232045799795,2,0,0,Body_Text
+o   1 pound fresh fish or shrimp,10,0,0.8707473446624447,7,0,0,Body_Text
+o   1 cup lime juice,10,0,0.8892321345782039,5,0,0,Body_Text
+o   1 small onion,10,0,0.09385343994757142,4,0,0,Body_Text
+o   2 tomatoes,10,0,0.11233822986333057,3,0,0,Body_Text
+o   1 jalapeño,10,0,0.13082309684368096,3,0,0,Body_Text
+o   1/4 cup cilantro,10,0,0.14930796382403133,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.16789378541888614,4,0,0,Body_Text
+,10,0,0.18511350227124762,1,0,0,Body_Text
+Instructions :,12,1,0.18646463721689552,2,0,0,Body_Text
+o   Dice fish or shrimp and place in a bowl.,10,0,0.20486351937958688,10,0,0,Body_Text
+o   Pour lime juice over the seafood and let marinate for 30 minutes.,10,0,0.22334838635993726,13,0,1,Body_Text
+"o   Dice onion, tomatoes, and jalapeño.",10,0,0.24183317627569642,6,0,0,Body_Text
+o   Chop cilantro.,10,0,0.2603180432560468,3,0,0,Body_Text
+o   Mix all ingredients together and add salt.,10,0,0.2788029102363972,8,0,0,Body_Text
+o   Serve chilled.,10,0,0.29736353170992147,3,0,0,Body_Text
+,12,1,0.31593430644333964,0,0,0,Body_Text
+Cha Gio,12,1,0.33441917342369004,2,0,0,H1
+,10,0,0.3515529054583925,1,0,0,Body_Text
+Ingredients :,12,1,0.3529040404040404,2,0,0,Body_Text
+o   1 package spring roll wrappers,10,0,0.37130290330058396,6,0,0,Body_Text
+o   1/2 pound ground pork,10,0,0.38978777028093436,5,0,0,Body_Text
+o   1/2 cup shrimp,10,0,0.4082726372612847,4,0,0,Body_Text
+o   1/2 cup mushrooms,10,0,0.4268331816702178,4,0,0,Body_Text
+o   1/4 cup carrots,10,0,0.4453180486505682,4,0,0,Body_Text
+o   1/4 cup green onions,10,0,0.4638029156309186,5,0,0,Body_Text
+o   2 cloves garlic,10,0,0.4822877826112689,4,0,0,Body_Text
+o   2 tablespoons fish sauce,10,0,0.5007725725270281,5,0,0,Body_Text
+o   1 tablespoon sugar,10,0,0.5192827166933002,4,0,0,Body_Text
+o   Oil for frying,10,0,0.5377675836736505,4,0,0,Body_Text
+,10,0,0.5550629972207426,1,0,0,Body_Text
+Instructions :,12,1,0.5564141321663905,2,0,0,Body_Text
+"o   Mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped",10,0,0.574812995062934,11,0,1,Body_Text
+"green onions, minced garlic, fish sauce, and sugar in a bowl.",12,0,0.5933838275947956,11,0,1,Body_Text
+o   Place a spoonful of filling on each wrapper and roll tightly.,10,0,0.6117827290236347,12,0,1,Body_Text
+o   Fry in hot oil until golden.,10,0,0.6302675189393939,7,0,0,Body_Text
+o   Drain on paper towels and serve with dipping sauce.,10,0,0.6487523859197443,10,0,0,Body_Text
+,12,1,0.6673232569839015,0,0,0,Body_Text
+Chakchouka,12,1,0.6858838013928346,1,0,0,H1
+,10,0,0.7030174948952415,1,0,0,Body_Text
+Ingredients :,12,1,0.704368668373185,2,0,0,Body_Text
+o   4 tomatoes,10,0,0.7227675312697285,3,0,0,Body_Text
+o   2 bell peppers,10,0,0.7412523982500789,4,0,0,Body_Text
+o   1 small onion,10,0,0.7597372652304293,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.7782220551461885,4,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.7967069221265388,5,0,0,Body_Text
+o   1 teaspoon cumin,10,0,0.8151917891068892,4,0,0,Body_Text
+o   1 teaspoon paprika,10,0,0.8337524105804135,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.8522372004961727,4,0,0,Body_Text
+o   4 eggs,10,0,0.8707473446624447,3,0,0,Body_Text
+o   1/4 cup cilantro,10,0,0.8892321345782039,4,0,0,Body_Text
+,10,0,0.09258828981958254,1,0,0,Body_Text
+Instructions :,12,1,0.09393942476523043,2,0,0,Body_Text
+"o   Sauté diced onion, minced garlic, and sliced bell peppers in olive oil until",10,0,0.11233822986333057,14,0,1,Body_Text
+softened.,12,0,0.13090908166133997,1,0,0,Body_Text
+"o   Add diced tomatoes, cumin, paprika, and salt, simmer for 10 minutes.",10,0,0.14930796382403133,12,0,1,Body_Text
+o   Make wells in the sauce and crack eggs into each well.,10,0,0.16789378541888614,12,0,0,Body_Text
+o   Cover and cook until eggs are set.,10,0,0.1863786523992365,8,0,0,Body_Text
+o   Garnish with chopped cilantro and serve warm.,10,0,0.20486351937958688,8,0,0,Body_Text
+,12,1,0.22343437117759626,0,0,0,Body_Text
+Chana Masala,12,1,0.24191916109335543,2,0,0,H1
+,10,0,0.2590528931280579,1,0,0,Body_Text
+Ingredients :,12,1,0.26040402807370583,2,0,0,Body_Text
+o   2 cups cooked chickpeas,10,0,0.2788029102363972,5,0,0,Body_Text
+o   1 small onion,10,0,0.29736353170992147,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.31584832162568066,4,0,0,Body_Text
+o   1 teaspoon cumin,10,0,0.3343331693398832,4,0,0,Body_Text
+o   1 teaspoon coriander,10,0,0.35281803632023356,4,0,0,Body_Text
+o   1 teaspoon garam masala,10,0,0.37130290330058396,5,0,0,Body_Text
+o   1 teaspoon turmeric,10,0,0.38978777028093436,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.4082726372612847,4,0,0,Body_Text
+o   1 can diced tomatoes,10,0,0.4268331816702178,5,0,0,Body_Text
+o   2 tablespoons oil,10,0,0.4453180486505682,4,0,0,Body_Text
+,10,0,0.4625377462367819,1,0,0,Body_Text
+Instructions :,12,1,0.46388888118242977,2,0,0,Body_Text
+o   Heat oil in a pan and sauté diced onion and minced garlic until translucent.,10,0,0.4822877826112689,15,0,1,Body_Text
+"o   Add cumin, coriander, garam masala, and turmeric, cook for 1 minute.",10,0,0.5007725725270281,12,0,1,Body_Text
+"o   Add chickpeas and diced tomatoes, stir to combine.",10,0,0.5192827166933002,9,0,0,Body_Text
+"o   Simmer for 15 minutes, stirring occasionally.",10,0,0.5377675836736505,7,0,0,Body_Text
+o   Add salt to taste and serve.,10,0,0.5563281280825837,7,0,0,Body_Text
+,12,1,0.5748989991467408,0,0,0,Body_Text
+Chapati,12,1,0.5933838275947956,1,0,0,H1
+,10,0,0.610517559629498,1,0,0,Body_Text
+Ingredients :,12,1,0.611868694575146,2,0,0,Body_Text
+o   2 cups flour,10,0,0.6302675189393939,4,0,0,Body_Text
+o   1/4 cup oil,10,0,0.6487523859197443,4,0,0,Body_Text
+o   1/2 cup water,10,0,0.6672372529000947,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.6857977973090278,4,0,0,Body_Text
+,10,0,0.7030174948952415,1,0,0,Body_Text
+Instructions :,12,1,0.704368668373185,2,0,0,Body_Text
+"o   Mix flour, oil, water, and salt to form a dough, then let rest.",10,0,0.7227675312697285,14,0,1,Body_Text
+o   Divide dough into balls and roll out into circles.,10,0,0.7412523982500789,10,0,0,Body_Text
+o   Cook on a hot griddle until golden on both sides.,10,0,0.7597372652304293,11,0,0,Body_Text
+o   Serve warm.,10,0,0.7782220551461885,3,0,0,Body_Text
+,12,1,0.7967929262103457,0,0,0,Body_Text
+Char Siu,12,1,0.815277793190696,2,0,0,H1
+,10,0,0.8324872411862768,1,0,0,Body_Text
+Ingredients :,12,1,0.8338384146642204,2,0,0,Body_Text
+o   1 pound pork shoulder,10,0,0.8522372004961727,5,0,0,Body_Text
+o   1/4 cup hoisin sauce,10,0,0.8707473446624447,5,0,0,Body_Text
+o   2 tablespoons soy sauce,10,0,0.8892321345782039,5,0,0,Body_Text
+o   2 tablespoons honey,10,0,0.09385343994757142,4,0,0,Body_Text
+o   1 tablespoon rice wine,10,0,0.11233822986333057,5,0,0,Body_Text
+o   1 teaspoon five-spice powder,10,0,0.13082309684368096,5,0,0,Body_Text
+o   1 teaspoon garlic powder,10,0,0.14930796382403133,5,0,0,Body_Text
+,10,0,0.16662863529089725,1,0,0,Body_Text
+Instructions :,12,1,0.16797977023654515,2,0,0,Body_Text
+"o   Mix hoisin sauce, soy sauce, honey, rice wine, five-spice powder, and garlic",10,0,0.1863786523992365,13,0,1,Body_Text
+powder in a bowl.,12,0,0.2049495041972459,4,0,0,Body_Text
+o   Marinate pork in the mixture for at least 2 hours.,10,0,0.22334838635993726,11,0,0,Body_Text
+o   Preheat oven to 375°F (190°C).,10,0,0.24183317627569642,6,0,0,Body_Text
+"o   Place pork on a baking sheet and roast for 45 minutes, basting occasionally.",10,0,0.2603180432560468,14,0,1,Body_Text
+o   Let rest before slicing and serving.,10,0,0.2788029102363972,7,0,0,Body_Text
+,12,1,0.2974495165275805,0,0,0,Body_Text
+Chawanmushi,12,1,0.31593430644333964,1,0,0,H1
+,10,0,0.3330680384780421,1,0,0,Body_Text
+Ingredients :,12,1,0.33441917342369004,2,0,0,Body_Text
+o   2 eggs,10,0,0.35281803632023356,3,0,0,Body_Text
+o   1 cup dashi broth,10,0,0.37130290330058396,5,0,0,Body_Text
+o   1 tablespoon soy sauce,10,0,0.38978777028093436,5,0,0,Body_Text
+o   1 tablespoon mirin,10,0,0.4082726372612847,4,0,0,Body_Text
+o   1/4 cup chicken,10,0,0.4268331816702178,4,0,0,Body_Text
+o   1/4 cup shrimp,10,0,0.4453180486505682,4,0,0,Body_Text
+o   1/4 cup mushrooms,10,0,0.4638029156309186,4,0,0,Body_Text
+,10,0,0.48102261321713224,1,0,0,Body_Text
+Instructions :,12,1,0.48237374816278017,2,0,0,Body_Text
+"o   Beat eggs with dashi broth, soy sauce, and mirin.",10,0,0.5007725725270281,10,0,0,Body_Text
+"o   Place chicken, shrimp, and mushrooms in small bowls.",10,0,0.5192827166933002,9,0,0,Body_Text
+o   Pour egg mixture over the top.,10,0,0.5377675836736505,7,0,0,Body_Text
+o   Steam for 15 minutes until set.,10,0,0.5563281280825837,7,0,0,Body_Text
+o   Serve warm.,10,0,0.574812995062934,3,0,0,Body_Text
+,12,1,0.5933838275947956,0,0,0,Body_Text
+Chiles Rellenos,12,1,0.611868694575146,2,0,0,H1
+,10,0,0.6290023880775528,1,0,0,Body_Text
+Ingredients :,12,1,0.6303535230232008,2,0,0,Body_Text
+o   4 poblano peppers,10,0,0.6487523859197443,4,0,0,Body_Text
+o   1 cup shredded cheese,10,0,0.6672372529000947,5,0,0,Body_Text
+o   1/2 cup flour,10,0,0.6857977973090278,4,0,0,Body_Text
+o   4 eggs,10,0,0.7042826642893781,3,0,0,Body_Text
+o   1 cup vegetable oil,10,0,0.7227675312697285,5,0,0,Body_Text
+o   1 cup tomato sauce,10,0,0.7412523982500789,5,0,0,Body_Text
+,10,0,0.7584720958362926,1,0,0,Body_Text
+Instructions :,12,1,0.7598232693142362,2,0,0,Body_Text
+"o   Roast peppers until charred, then peel and remove seeds.",10,0,0.7782220551461885,10,0,1,Body_Text
+o   Stuff peppers with cheese.,10,0,0.7967069221265388,5,0,0,Body_Text
+"o   Separate eggs and beat whites until stiff, then fold in yolks.",10,0,0.8151917891068892,12,0,1,Body_Text
+"o   Dredge peppers in flour, then dip in egg mixture.",10,0,0.8337524105804135,10,0,0,Body_Text
+o   Fry in hot oil until golden.,10,0,0.8522372004961727,7,0,0,Body_Text
+o   Serve with warmed tomato sauce.,10,0,0.8707473446624447,6,0,0,Body_Text
+,12,0,0.8893181386620107,0,0,0,Body_Text
+Churros,12,1,0.09393942476523043,1,0,0,Title
+,10,0,0.1110730797353417,1,0,0,Body_Text
+Ingredients :,12,1,0.11242421468098958,2,0,0,Body_Text
+o   1 cup water,10,0,0.13082309684368096,4,0,0,Body_Text
+o   1/2 cup butter,10,0,0.14930796382403133,4,0,0,Body_Text
+o   1 cup flour,10,0,0.16789378541888614,4,0,0,Body_Text
+o   3 eggs,10,0,0.1863786523992365,3,0,0,Body_Text
+o   1/4 cup sugar,10,0,0.20486351937958688,4,0,0,Body_Text
+o   1 teaspoon cinnamon,10,0,0.22334838635993726,4,0,0,Body_Text
+o   Oil for frying,10,0,0.24183317627569642,4,0,0,Body_Text
+,10,0,0.2590528931280579,1,0,0,Body_Text
+Instructions :,12,1,0.26040402807370583,2,0,0,Body_Text
+o   Bring water and butter to a boil.,10,0,0.2788029102363972,8,0,0,Body_Text
+o   Add flour and stir until a dough forms.,10,0,0.29736353170992147,9,0,0,Body_Text
+o   Remove from heat and beat in eggs one at a time.,10,0,0.31584832162568066,12,0,0,Body_Text
+o   Heat oil in a pan.,10,0,0.3343331693398832,6,0,0,Body_Text
+o   Pipe dough into hot oil and fry until golden.,10,0,0.35281803632023356,10,0,0,Body_Text
+o   Drain on paper towels and roll in a mixture of sugar and cinnamon.,10,0,0.37130290330058396,14,0,1,Body_Text
+o   Serve warm.,10,0,0.38978777028093436,3,0,0,Body_Text
+,12,1,0.4083586028127959,0,0,0,Body_Text
+Coconut Rice,12,1,0.4269191857540246,2,0,0,H1
+,10,0,0.44405291778872713,1,0,0,Body_Text
+Ingredients :,12,1,0.445404052734375,2,0,0,Body_Text
+o   1 cup rice,10,0,0.4638029156309186,4,0,0,Body_Text
+o   1 cup coconut milk,10,0,0.4822877826112689,5,0,0,Body_Text
+o   1 cup water,10,0,0.5007725725270281,4,0,0,Body_Text
+o   1/4 cup shredded coconut,10,0,0.5192827166933002,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.5377675836736505,4,0,0,Body_Text
+,10,0,0.5550629972207426,1,0,0,Body_Text
+Instructions :,12,1,0.5564141321663905,2,0,0,Body_Text
+o   Sauté shredded coconut until lightly browned.,10,0,0.574812995062934,7,0,0,Body_Text
+"o   Add rice, coconut milk, water, and salt.",10,0,0.5932978620432844,8,0,0,Body_Text
+"o   Bring to a boil, then reduce heat and simmer until rice is tender.",10,0,0.6117827290236347,14,0,1,Body_Text
+o   Serve warm.,10,0,0.6302675189393939,3,0,0,Body_Text
+,12,1,0.6488383900035511,0,0,0,Body_Text
+Coleslaw,12,1,0.6673232569839015,1,0,0,H1
+,10,0,0.6845326279148911,1,0,0,Body_Text
+Ingredients :,12,1,0.6858838013928346,2,0,0,Body_Text
+o   1 small cabbage,10,0,0.7042826642893781,4,0,0,Body_Text
+o   2 carrots,10,0,0.7227675312697285,3,0,0,Body_Text
+o   1/2 cup mayonnaise,10,0,0.7412523982500789,4,0,0,Body_Text
+o   2 tablespoons apple cider vinegar,10,0,0.7597372652304293,6,0,0,Body_Text
+o   1 tablespoon sugar,10,0,0.7782220551461885,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.7967069221265388,4,0,0,Body_Text
+,10,0,0.8139266197127525,1,0,0,Body_Text
+Instructions :,12,1,0.815277793190696,2,0,0,Body_Text
+o   Shred cabbage and grate carrots.,10,0,0.8337524105804135,6,0,0,Body_Text
+"o   Mix mayonnaise, vinegar, sugar, and salt in a bowl.",10,0,0.8522372004961727,10,0,0,Body_Text
+o   Toss cabbage and carrots with dressing.,10,0,0.8707473446624447,7,0,0,Body_Text
+o   Chill for at least 1 hour before serving.,10,0,0.8892321345782039,9,0,0,Body_Text
+,12,1,0.09393942476523043,0,0,0,Body_Text
+Cornbread,12,1,0.11242421468098958,1,0,0,H1
+,10,0,0.12955794671569207,1,0,0,Body_Text
+Ingredients :,12,1,0.13090908166133997,2,0,0,Body_Text
+o   1 cup cornmeal,10,0,0.14930796382403133,4,0,0,Body_Text
+o   1 cup flour,10,0,0.16789378541888614,4,0,0,Body_Text
+o   1/4 cup sugar,10,0,0.1863786523992365,4,0,0,Body_Text
+o   1 tablespoon baking powder,10,0,0.20486351937958688,5,0,0,Body_Text
+o   1/2 teaspoon salt,10,0,0.22334838635993726,4,0,0,Body_Text
+o   1 cup milk,10,0,0.24183317627569642,4,0,0,Body_Text
+o   1/4 cup vegetable oil,10,0,0.2603180432560468,5,0,0,Body_Text
+o   1 egg,10,0,0.2788029102363972,3,0,0,Body_Text
+,10,0,0.29609838158193263,1,0,0,Body_Text
+Instructions :,12,1,0.2974495165275805,2,0,0,Body_Text
+o   Preheat oven to 400°F (200°C).,10,0,0.31584832162568066,6,0,0,Body_Text
+"o   Mix cornmeal, flour, sugar, baking powder, and salt in a bowl.",10,0,0.3343331693398832,12,0,1,Body_Text
+"o   Add milk, oil, and beaten egg, stir until combined.",10,0,0.35281803632023356,10,0,0,Body_Text
+o   Pour batter into a greased baking pan.,10,0,0.37130290330058396,8,0,0,Body_Text
+o   Bake for 20-25 minutes until golden.,10,0,0.38978777028093436,7,0,0,Body_Text
+o   Serve warm.,10,0,0.4082726372612847,3,0,0,Body_Text
+,12,1,0.4269191857540246,0,0,0,Body_Text
+Coxinha,12,1,0.445404052734375,1,0,0,H1
+,10,0,0.4625377462367819,1,0,0,Body_Text
+Ingredients :,12,1,0.46388888118242977,2,0,0,Body_Text
+o   2 cups shredded chicken,10,0,0.4822877826112689,5,0,0,Body_Text
+o   1 small onion,10,0,0.5007725725270281,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.5192827166933002,4,0,0,Body_Text
+o   1/4 cup parsley,10,0,0.5377675836736505,4,0,0,Body_Text
+o   1/4 cup cream cheese,10,0,0.5563281280825837,5,0,0,Body_Text
+o   1 cup flour,10,0,0.574812995062934,4,0,0,Body_Text
+o   1 cup breadcrumbs,10,0,0.5932978620432844,4,0,0,Body_Text
+o   2 eggs,10,0,0.6117827290236347,3,0,0,Body_Text
+o   Oil for frying,10,0,0.6302675189393939,4,0,0,Body_Text
+,10,0,0.6474872165256076,1,0,0,Body_Text
+Instructions :,12,1,0.6488383900035511,2,0,0,Body_Text
+o   Sauté diced onion and minced garlic until softened.,10,0,0.6672372529000947,9,0,0,Body_Text
+"o   Mix shredded chicken with onion, garlic, chopped parsley, and cream cheese.",10,0,0.6857977973090278,12,0,1,Body_Text
+o   Form mixture into drumstick shapes.,10,0,0.7042826642893781,6,0,0,Body_Text
+"o   Dredge in flour, dip in beaten eggs, and coat with breadcrumbs.",10,0,0.7227675312697285,12,0,1,Body_Text
+o   Fry in hot oil until golden.,10,0,0.7412523982500789,7,0,0,Body_Text
+o   Drain on paper towels and serve warm.,10,0,0.7597372652304293,8,0,0,Body_Text
+,12,1,0.7783080592299952,0,0,0,Body_Text
+Croque Monsieur,12,1,0.7967929262103457,2,0,0,H1
+,10,0,0.8139266197127525,1,0,0,Body_Text
+Ingredients :,12,1,0.815277793190696,2,0,0,Body_Text
+o   8 slices bread,10,0,0.8337524105804135,4,0,0,Body_Text
+o   4 slices ham,10,0,0.8522372004961727,4,0,0,Body_Text
+o   1 cup grated Gruyère cheese,10,0,0.8707473446624447,6,0,0,Body_Text
+o   1/4 cup béchamel sauce,10,0,0.8892321345782039,5,0,0,Body_Text
+o   2 tablespoons butter,10,0,0.09385343994757142,4,0,0,Body_Text
+,10,0,0.1110730797353417,1,0,0,Body_Text
+Instructions :,12,1,0.11242421468098958,2,0,0,Body_Text
+o   Preheat oven to 400°F (200°C).,10,0,0.13082309684368096,6,0,0,Body_Text
+o   Spread béchamel sauce on 4 slices of bread.,10,0,0.14930796382403133,9,0,0,Body_Text
+"o   Top with ham and grated cheese, then cover with remaining bread slices.",10,0,0.16789378541888614,13,0,1,Body_Text
+o   Melt butter in a pan and toast sandwiches until golden.,10,0,0.1863786523992365,11,0,0,Body_Text
+"o   Transfer to a baking sheet, top with more béchamel sauce and cheese.",10,0,0.20486351937958688,13,0,1,Body_Text
+o   Bake for 10 minutes until cheese is melted and bubbly.,10,0,0.22334838635993726,11,0,0,Body_Text
+o   Serve warm.,10,0,0.24183317627569642,3,0,0,Body_Text
+,12,1,0.26040402807370583,0,0,0,Body_Text
+Croquetas,12,1,0.2788888950540562,1,0,0,H1
+,10,0,0.29609838158193263,1,0,0,Body_Text
+Ingredients :,12,1,0.2974495165275805,2,0,0,Body_Text
+o   1/2 cup butter,10,0,0.31584832162568066,4,0,0,Body_Text
+o   1/2 cup flour,10,0,0.3343331693398832,4,0,0,Body_Text
+o   2 cups milk,10,0,0.35281803632023356,4,0,0,Body_Text
+o   1/2 cup ham,10,0,0.37130290330058396,4,0,0,Body_Text
+o   1/4 cup grated cheese,10,0,0.38978777028093436,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.4082726372612847,4,0,0,Body_Text
+o   1/2 teaspoon nutmeg,10,0,0.4268331816702178,4,0,0,Body_Text
+o   1 cup breadcrumbs,10,0,0.4453180486505682,4,0,0,Body_Text
+o   2 eggs,10,0,0.4638029156309186,3,0,0,Body_Text
+o   Oil for frying,10,0,0.4822877826112689,4,0,0,Body_Text
+,10,0,0.499507441665187,1,0,0,Body_Text
+Instructions :,12,1,0.5008585766108349,2,0,0,Body_Text
+"o   Melt butter in a saucepan, stir in flour to make a roux.",10,0,0.5192827166933002,13,0,0,Body_Text
+"o   Gradually add milk, stirring constantly until thickened.",10,0,0.5377675836736505,8,0,0,Body_Text
+"o   Stir in diced ham, grated cheese, salt, and nutmeg.",10,0,0.5563281280825837,10,0,0,Body_Text
+"o   Let mixture cool, then form into croquettes.",10,0,0.574812995062934,8,0,0,Body_Text
+"o   Dredge croquettes in flour, dip in beaten eggs, and coat with breadcrumbs.",10,0,0.5932978620432844,13,0,1,Body_Text
+o   Fry in hot oil until golden.,10,0,0.6117827290236347,7,0,0,Body_Text
+o   Drain on paper towels and serve warm.,10,0,0.6302675189393939,8,0,0,Body_Text
+,12,1,0.6488383900035511,0,0,0,Body_Text
+Dal Tadka,12,1,0.6673232569839015,2,0,0,H1
+,10,0,0.6845326279148911,1,0,0,Body_Text
+Ingredients :,12,1,0.6858838013928346,2,0,0,Body_Text
+o   1 cup lentils,10,0,0.7042826642893781,4,0,0,Body_Text
+o   4 cups water,10,0,0.7227675312697285,4,0,0,Body_Text
+o   1 small onion,10,0,0.7412523982500789,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.7597372652304293,4,0,0,Body_Text
+o   1 teaspoon cumin,10,0,0.7782220551461885,4,0,0,Body_Text
+o   1 teaspoon turmeric,10,0,0.7967069221265388,4,0,0,Body_Text
+o   1 teaspoon coriander,10,0,0.8151917891068892,4,0,0,Body_Text
+o   1 teaspoon garam masala,10,0,0.8337524105804135,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.8522372004961727,4,0,0,Body_Text
+o   2 tablespoons oil,10,0,0.8707473446624447,4,0,0,Body_Text
+,10,0,0.8879669651840673,1,0,0,Body_Text
+Instructions :,12,1,0.8893181386620107,2,0,0,Body_Text
+o   Rinse lentils and cook in water until tender.,10,0,0.09385343994757142,9,0,0,Body_Text
+o   Heat oil in a pan and sauté diced onion and minced garlic until translucent.,10,0,0.11233822986333057,15,0,1,Body_Text
+"o   Add cumin, turmeric, coriander, and garam masala, cook for 1 minute.",10,0,0.13082309684368096,12,0,1,Body_Text
+o   Add cooked lentils and stir to combine.,10,0,0.14930796382403133,8,0,0,Body_Text
+"o   Simmer for 10 minutes, stirring occasionally.",10,0,0.16789378541888614,7,0,0,Body_Text
+o   Add salt to taste and serve.,10,0,0.1863786523992365,7,0,0,Body_Text
+,12,1,0.2049495041972459,0,0,0,Body_Text
+Deviled Eggs,12,1,0.22343437117759626,2,0,0,H1
+,10,0,0.24056802614770753,1,0,0,Body_Text
+Ingredients :,12,1,0.24191916109335543,2,0,0,Body_Text
+o   6 eggs,10,0,0.2603180432560468,3,0,0,Body_Text
+o   1/4 cup mayonnaise,10,0,0.2788029102363972,4,0,0,Body_Text
+o   1 tablespoon mustard,10,0,0.29736353170992147,4,0,0,Body_Text
+o   1 tablespoon vinegar,10,0,0.31584832162568066,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.3343331693398832,4,0,0,Body_Text
+o   1/2 teaspoon paprika,10,0,0.35281803632023356,4,0,0,Body_Text
+,10,0,0.3700377724387429,1,0,0,Body_Text
+Instructions :,12,1,0.3713889073843908,2,0,0,Body_Text
+"o   Hard-boil eggs, then peel and halve.",10,0,0.38978777028093436,7,0,0,Body_Text
+"o   Remove yolks and mash with mayonnaise, mustard, vinegar, and salt.",10,0,0.4082726372612847,11,0,1,Body_Text
+o   Spoon or pipe yolk mixture into egg whites.,10,0,0.4268331816702178,9,0,0,Body_Text
+o   Sprinkle with paprika and serve.,10,0,0.4453180486505682,6,0,0,Body_Text
+,12,1,0.46388888118242977,0,0,0,Body_Text
+Dolmas,12,1,0.48237374816278017,1,0,0,H1
+,10,0,0.499507441665187,1,0,0,Body_Text
+Ingredients :,12,1,0.5008585766108349,2,0,0,Body_Text
+o   1 jar grape leaves,10,0,0.5192827166933002,5,0,0,Body_Text
+o   1 cup rice,10,0,0.5377675836736505,4,0,0,Body_Text
+o   1 small onion,10,0,0.5563281280825837,4,0,0,Body_Text
+o   1/4 cup pine nuts,10,0,0.574812995062934,5,0,0,Body_Text
+o   1/4 cup currants,10,0,0.5932978620432844,4,0,0,Body_Text
+o   1/4 cup lemon juice,10,0,0.6117827290236347,5,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.6302675189393939,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.6487523859197443,4,0,0,Body_Text
+,10,0,0.665972083505958,1,0,0,Body_Text
+Instructions :,12,1,0.6673232569839015,2,0,0,Body_Text
+o   Rinse grape leaves and pat dry.,10,0,0.6857977973090278,7,0,0,Body_Text
+o   Sauté diced onion in olive oil until translucent.,10,0,0.7042826642893781,9,0,0,Body_Text
+"o   Add rice, pine nuts, and currants, cook for 5 minutes.",10,0,0.7227675312697285,11,0,0,Body_Text
+"o   Add 1 cup water, lemon juice, and salt, simmer until rice is tender.",10,0,0.7412523982500789,14,0,1,Body_Text
+o   Place a spoonful of rice mixture on each grape leaf and roll tightly.,10,0,0.7597372652304293,14,0,1,Body_Text
+"o   Arrange dolmas in a pot, cover with water, and simmer for 30 minutes.",10,0,0.7782220551461885,14,0,1,Body_Text
+o   Serve warm or chilled.,10,0,0.7967069221265388,5,0,0,Body_Text
+,12,1,0.815277793190696,0,0,0,Body_Text
+Dumplings,12,1,0.8338384146642204,1,0,0,H1
+,10,0,0.850972031102036,1,0,0,Body_Text
+Ingredients :,12,1,0.8523232045799795,2,0,0,Body_Text
+o   1 package dumpling wrappers,10,0,0.8707473446624447,5,0,0,Body_Text
+o   1/2 pound ground pork,10,0,0.8892321345782039,5,0,0,Body_Text
+o   1/2 cup chopped cabbage,10,0,0.09385343994757142,5,0,0,Body_Text
+o   1/4 cup chopped green onions,10,0,0.11233822986333057,6,0,0,Body_Text
+o   2 cloves garlic,10,0,0.13082309684368096,4,0,0,Body_Text
+o   1 tablespoon soy sauce,10,0,0.14930796382403133,5,0,0,Body_Text
+o   1 teaspoon sesame oil,10,0,0.16789378541888614,5,0,0,Body_Text
+o   Oil for frying,10,0,0.1863786523992365,4,0,0,Body_Text
+,10,0,0.20359836925159802,1,0,0,Body_Text
+Instructions :,12,1,0.2049495041972459,2,0,0,Body_Text
+"o   Mix ground pork, cabbage, green onions, minced garlic, soy sauce, and sesame",10,0,0.22334838635993726,13,0,1,Body_Text
+oil in a bowl.,12,0,0.24191916109335543,4,0,0,Body_Text
+o   Place a spoonful of filling on each wrapper and fold to seal.,10,0,0.2603180432560468,13,0,1,Body_Text
+"o   Fry in hot oil until golden, then steam for 5 minutes.",10,0,0.2788029102363972,12,0,0,Body_Text
+o   Serve with dipping sauce.,10,0,0.29736353170992147,5,0,0,Body_Text
+,12,1,0.31593430644333964,0,0,0,Body_Text
+Edamame,12,1,0.33441917342369004,1,0,0,H1
+,10,0,0.3515529054583925,1,0,0,Body_Text
+Ingredients :,12,1,0.3529040404040404,2,0,0,Body_Text
+o   1 pound edamame (soybeans in pods),10,0,0.37130290330058396,7,0,0,Body_Text
+o   1 tablespoon sea salt,10,0,0.38978777028093436,5,0,0,Body_Text
+,10,0,0.40700746786714803,1,0,0,Body_Text
+Instructions :,12,1,0.4083586028127959,2,0,0,Body_Text
+o   Steam or boil edamame until tender (about 5 minutes).,10,0,0.4268331816702178,10,0,0,Body_Text
+o   Drain and sprinkle with sea salt.,10,0,0.4453180486505682,7,0,0,Body_Text
+o   Serve warm.,10,0,0.4638029156309186,3,0,0,Body_Text
+,12,1,0.48237374816278017,0,0,0,Body_Text
+Egusi Soup,12,1,0.5008585766108349,2,0,0,H1
+,10,0,0.5180175472991635,1,0,0,Body_Text
+Ingredients :,12,1,0.5193686822448114,2,0,0,Body_Text
+o   1 cup ground egusi seeds,10,0,0.5377675836736505,6,0,0,Body_Text
+o   1/2 pound beef,10,0,0.5563281280825837,4,0,0,Body_Text
+o   1/2 pound fish,10,0,0.574812995062934,4,0,0,Body_Text
+o   1 small onion,10,0,0.5932978620432844,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.6117827290236347,4,0,0,Body_Text
+o   4 tomatoes,10,0,0.6302675189393939,3,0,0,Body_Text
+o   1/4 cup palm oil,10,0,0.6487523859197443,5,0,0,Body_Text
+o   1 teaspoon crayfish powder,10,0,0.6672372529000947,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.6857977973090278,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.7042826642893781,4,0,0,Body_Text
+o   4 cups water,10,0,0.7227675312697285,4,0,0,Body_Text
+o   1/4 cup spinach,10,0,0.7412523982500789,4,0,0,Body_Text
+,10,0,0.7584720958362926,1,0,0,Body_Text
+Instructions :,12,1,0.7598232693142362,2,0,0,Body_Text
+o   Sauté diced onion and minced garlic in palm oil until softened.,10,0,0.7782220551461885,12,0,1,Body_Text
+"o   Add diced tomatoes, ground egusi seeds, and crayfish powder, cook for 5",10,0,0.7967069221265388,13,0,1,Body_Text
+minutes.,12,0,0.815277793190696,1,0,0,Body_Text
+"o   Add beef, fish, salt, pepper, and water, simmer until meat is tender.",10,0,0.8337524105804135,13,0,1,Body_Text
+o   Stir in chopped spinach and cook for 5 minutes.,10,0,0.8522372004961727,10,0,0,Body_Text
+o   Serve warm.,10,0,0.8707473446624447,3,0,0,Body_Text
+,12,1,0.8893181386620107,0,0,0,Body_Text
+Egg Rolls,12,1,0.09393942476523043,2,0,0,H1
+,10,0,0.1110730797353417,1,0,0,Body_Text
+Ingredients :,12,1,0.11242421468098958,2,0,0,Body_Text
+o   1 package egg roll wrappers,10,0,0.13082309684368096,6,0,0,Body_Text
+o   1 cup shredded cabbage,10,0,0.14930796382403133,5,0,0,Body_Text
+o   1/2 cup grated carrots,10,0,0.16789378541888614,5,0,0,Body_Text
+o   1/2 cup bean sprouts,10,0,0.1863786523992365,5,0,0,Body_Text
+o   1/4 cup chopped green onions,10,0,0.20486351937958688,6,0,0,Body_Text
+o   2 tablespoons soy sauce,10,0,0.22334838635993726,5,0,0,Body_Text
+o   1 tablespoon sesame oil,10,0,0.24183317627569642,5,0,0,Body_Text
+o   Oil for frying,10,0,0.2603180432560468,4,0,0,Body_Text
+,10,0,0.2775377601084083,1,0,0,Body_Text
+Instructions :,12,1,0.2788888950540562,2,0,0,Body_Text
+"o   Mix cabbage, carrots, bean sprouts, green onions, soy sauce, and sesame oil in a",10,0,0.29736353170992147,15,0,1,Body_Text
+bowl.,12,0,0.31593430644333964,1,0,0,Body_Text
+o   Place a spoonful of filling on each wrapper and roll tightly.,10,0,0.3343331693398832,12,0,1,Body_Text
+o   Fry in hot oil until golden.,10,0,0.35281803632023356,7,0,0,Body_Text
+o   Drain on paper towels and serve with dipping sauce.,10,0,0.37130290330058396,10,0,0,Body_Text
+,12,1,0.38987373583244556,0,0,0,Body_Text
+Elote,12,1,0.4083586028127959,1,0,0,H1
+,10,0,0.42556805080837673,1,0,0,Body_Text
+Ingredients :,12,1,0.4269191857540246,2,0,0,Body_Text
+o   4 ears of corn,10,0,0.4453180486505682,5,0,0,Body_Text
+o   1/4 cup mayonnaise,10,0,0.4638029156309186,4,0,0,Body_Text
+o   1/4 cup sour cream,10,0,0.4822877826112689,5,0,0,Body_Text
+o   1/2 cup cotija cheese,10,0,0.5007725725270281,5,0,0,Body_Text
+o   1 teaspoon chili powder,10,0,0.5192827166933002,5,0,0,Body_Text
+o   1 lime,10,0,0.5377675836736505,3,0,0,Body_Text
+,10,0,0.5550629972207426,1,0,0,Body_Text
+Instructions :,12,1,0.5564141321663905,2,0,0,Body_Text
+o   Grill the corn until charred.,10,0,0.574812995062934,6,0,0,Body_Text
+o   Mix mayonnaise and sour cream in a bowl.,10,0,0.5932978620432844,9,0,0,Body_Text
+o   Brush the mixture onto the corn.,10,0,0.6117827290236347,7,0,0,Body_Text
+o   Sprinkle with cotija cheese and chili powder.,10,0,0.6302675189393939,8,0,0,Body_Text
+o   Squeeze lime juice over the top and serve.,10,0,0.6487523859197443,9,0,0,Body_Text
+,12,1,0.6673232569839015,0,0,0,Body_Text
+Empanadas,12,1,0.6858838013928346,1,0,0,H1
+,10,0,0.7030174948952415,1,0,0,Body_Text
+Ingredients :,12,1,0.704368668373185,2,0,0,Body_Text
+o   2 cups flour,10,0,0.7227675312697285,4,0,0,Body_Text
+o   1/2 cup butter,10,0,0.7412523982500789,4,0,0,Body_Text
+o   1/4 cup water,10,0,0.7597372652304293,4,0,0,Body_Text
+o   1 egg,10,0,0.7782220551461885,3,0,0,Body_Text
+o   1/2 pound ground beef,10,0,0.7967069221265388,5,0,0,Body_Text
+o   1 small onion,10,0,0.8151917891068892,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.8337524105804135,4,0,0,Body_Text
+o   1/4 cup olives,10,0,0.8522372004961727,4,0,0,Body_Text
+o   1/4 cup raisins,10,0,0.8707473446624447,4,0,0,Body_Text
+o   1 teaspoon cumin,10,0,0.8892321345782039,4,0,0,Body_Text
+o   1 teaspoon paprika,10,0,0.09385343994757142,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.11233822986333057,4,0,0,Body_Text
+o   Oil for frying,10,0,0.13082309684368096,4,0,0,Body_Text
+,10,0,0.14804281369604247,1,0,0,Body_Text
+Instructions :,12,1,0.14939394864169034,2,0,0,Body_Text
+"o   Mix flour, butter, water, and beaten egg to form a dough, then let rest.",10,0,0.16789378541888614,15,0,1,Body_Text
+"o   Sauté ground beef, diced onion, minced garlic, chopped olives, and raisins with",10,0,0.1863786523992365,13,0,1,Body_Text
+"cumin, paprika, and salt until cooked.",12,0,0.2049495041972459,6,0,0,Body_Text
+o   Roll out dough and cut into circles.,10,0,0.22334838635993726,8,0,0,Body_Text
+o   Place a spoonful of filling on each circle and fold to seal.,10,0,0.24183317627569642,13,0,0,Body_Text
+o   Fry in hot oil until golden.,10,0,0.2603180432560468,7,0,0,Body_Text
+o   Drain on paper towels and serve warm.,10,0,0.2788029102363972,8,0,0,Body_Text
+,12,1,0.2974495165275805,0,0,0,Body_Text
+Escalivada,12,1,0.31593430644333964,1,0,0,H1
+,10,0,0.3330680384780421,1,0,0,Body_Text
+Ingredients :,12,1,0.33441917342369004,2,0,0,Body_Text
+o   2 eggplants,10,0,0.35281803632023356,3,0,0,Body_Text
+o   2 bell peppers,10,0,0.37130290330058396,4,0,0,Body_Text
+o   2 tomatoes,10,0,0.38978777028093436,3,0,0,Body_Text
+o   1 small onion,10,0,0.4082726372612847,4,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.4268331816702178,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.4453180486505682,4,0,0,Body_Text
+,10,0,0.4625377462367819,1,0,0,Body_Text
+Instructions :,12,1,0.46388888118242977,2,0,0,Body_Text
+o   Preheat oven to 400°F (200°C).,10,0,0.4822877826112689,6,0,0,Body_Text
+"o   Roast eggplants, bell peppers, tomatoes, and onion until tender.",10,0,0.5007725725270281,10,0,1,Body_Text
+o   Peel and slice vegetables.,10,0,0.5192827166933002,5,0,0,Body_Text
+o   Arrange on a plate and drizzle with olive oil.,10,0,0.5377675836736505,10,0,0,Body_Text
+o   Sprinkle with salt and serve warm or at room temperature.,10,0,0.5563281280825837,11,0,1,Body_Text
+,12,1,0.5748989991467408,0,0,0,Body_Text
+Falafel,12,1,0.5933838275947956,1,0,0,H1
+,10,0,0.610517559629498,1,0,0,Body_Text
+Ingredients :,12,1,0.611868694575146,2,0,0,Body_Text
+o   1 can chickpeas,10,0,0.6302675189393939,4,0,0,Body_Text
+o   1 small onion,10,0,0.6487523859197443,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.6672372529000947,4,0,0,Body_Text
+o   1/4 cup parsley,10,0,0.6857977973090278,4,0,0,Body_Text
+o   1 teaspoon cumin,10,0,0.7042826642893781,4,0,0,Body_Text
+o   1 teaspoon coriander,10,0,0.7227675312697285,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.7412523982500789,4,0,0,Body_Text
+o   1/4 cup flour,10,0,0.7597372652304293,4,0,0,Body_Text
+o   Oil for frying,10,0,0.7782220551461885,4,0,0,Body_Text
+,10,0,0.7954417527324021,1,0,0,Body_Text
+Instructions :,12,1,0.7967929262103457,2,0,0,Body_Text
+o   Drain and rinse chickpeas.,10,0,0.8151917891068892,5,0,0,Body_Text
+"o   Blend chickpeas, diced onion, minced garlic, chopped parsley, cumin, coriander,",10,0,0.8337524105804135,11,0,1,Body_Text
+and salt in a food processor.,12,0,0.8523232045799795,6,0,0,Body_Text
+o   Add flour and mix until combined.,10,0,0.8707473446624447,7,0,0,Body_Text
+o   Form mixture into balls and fry in hot oil until golden.,10,0,0.8892321345782039,12,0,0,Body_Text
+o   Drain on paper towels and serve.,10,0,0.09385343994757142,7,0,0,Body_Text
+,12,1,0.11242421468098958,0,0,0,Body_Text
+Farofa,12,1,0.13090908166133997,1,0,0,H1
+,10,0,0.14804281369604247,1,0,0,Body_Text
+Ingredients :,12,1,0.14939394864169034,2,0,0,Body_Text
+o   2 cups cassava flour,10,0,0.16789378541888614,5,0,0,Body_Text
+o   1/4 cup butter,10,0,0.1863786523992365,4,0,0,Body_Text
+o   1 small onion,10,0,0.20486351937958688,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.22334838635993726,4,0,0,Body_Text
+o   1/4 cup bacon,10,0,0.24183317627569642,4,0,0,Body_Text
+o   1/4 cup parsley,10,0,0.2603180432560468,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.2788029102363972,4,0,0,Body_Text
+,10,0,0.29609838158193263,1,0,0,Body_Text
+Instructions :,12,1,0.2974495165275805,2,0,0,Body_Text
+"o   Sauté diced bacon, onion, and minced garlic in butter until crispy.",10,0,0.31584832162568066,12,0,1,Body_Text
+"o   Add cassava flour and cook, stirring constantly, until golden.",10,0,0.3343331693398832,10,0,1,Body_Text
+o   Stir in chopped parsley and salt.,10,0,0.35281803632023356,7,0,0,Body_Text
+o   Serve warm.,10,0,0.37130290330058396,3,0,0,Body_Text
+,12,1,0.38987373583244556,0,0,0,Body_Text
+Fattoush,12,1,0.4083586028127959,1,0,0,H1
+,10,0,0.42556805080837673,1,0,0,Body_Text
+Ingredients :,12,1,0.4269191857540246,2,0,0,Body_Text
+o   2 pita breads,10,0,0.4453180486505682,4,0,0,Body_Text
+o   4 tomatoes,10,0,0.4638029156309186,3,0,0,Body_Text
+o   1 cucumber,10,0,0.4822877826112689,3,0,0,Body_Text
+o   1 small red onion,10,0,0.5007725725270281,5,0,0,Body_Text
+o   1/4 cup parsley,10,0,0.5192827166933002,4,0,0,Body_Text
+o   1/4 cup mint,10,0,0.5377675836736505,4,0,0,Body_Text
+o   1/4 cup lemon juice,10,0,0.5563281280825837,5,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.574812995062934,5,0,0,Body_Text
+o   1 teaspoon sumac,10,0,0.5932978620432844,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.6117827290236347,4,0,0,Body_Text
+,10,0,0.6290023880775528,1,0,0,Body_Text
+Instructions :,12,1,0.6303535230232008,2,0,0,Body_Text
+"o   Toast pita breads until crispy, then break into pieces.",10,0,0.6487523859197443,10,0,0,Body_Text
+"o   Dice tomatoes and cucumber, slice red onion.",10,0,0.6672372529000947,8,0,0,Body_Text
+o   Mix vegetables with chopped parsley and mint.,10,0,0.6857977973090278,8,0,0,Body_Text
+"o   Whisk lemon juice, olive oil, sumac, and salt, then pour over salad.",10,0,0.7042826642893781,13,0,1,Body_Text
+o   Toss well and serve.,10,0,0.7227675312697285,5,0,0,Body_Text
+,12,1,0.7413384023338857,0,0,0,Body_Text
+Fava,12,1,0.7598232693142362,1,0,0,H1
+,10,0,0.7769568857520518,1,0,0,Body_Text
+Ingredients :,12,1,0.7783080592299952,2,0,0,Body_Text
+o   1 cup yellow split peas,10,0,0.7967069221265388,6,0,0,Body_Text
+o   1 small onion,10,0,0.8151917891068892,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.8337524105804135,4,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.8522372004961727,5,0,0,Body_Text
+o   1/4 cup lemon juice,10,0,0.8707473446624447,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.8892321345782039,4,0,0,Body_Text
+,10,0,0.09258828981958254,1,0,0,Body_Text
+Instructions :,12,1,0.09393942476523043,2,0,0,Body_Text
+o   Rinse split peas and cook in water until tender.,10,0,0.11233822986333057,10,0,0,Body_Text
+o   Sauté diced onion and minced garlic in olive oil until softened.,10,0,0.13082309684368096,12,0,1,Body_Text
+"o   Blend cooked peas with onion, garlic, lemon juice, and salt until smooth.",10,0,0.14930796382403133,13,0,1,Body_Text
+o   Serve warm or chilled.,10,0,0.16789378541888614,5,0,0,Body_Text
+,12,1,0.18646463721689552,0,0,0,Body_Text
+Feijão Tropeiro,12,1,0.2049495041972459,2,0,0,H1
+,10,0,0.2220832362319484,1,0,0,Body_Text
+Ingredients :,12,1,0.22343437117759626,2,0,0,Body_Text
+o   2 cups cooked beans,10,0,0.24183317627569642,5,0,0,Body_Text
+o   1/4 cup bacon,10,0,0.2603180432560468,4,0,0,Body_Text
+o   1 small onion,10,0,0.2788029102363972,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.29736353170992147,4,0,0,Body_Text
+o   1/4 cup cassava flour,10,0,0.31584832162568066,5,0,0,Body_Text
+o   1/4 cup parsley,10,0,0.3343331693398832,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.35281803632023356,4,0,0,Body_Text
+,10,0,0.3700377724387429,1,0,0,Body_Text
+Instructions :,12,1,0.3713889073843908,2,0,0,Body_Text
+"o   Sauté diced bacon, onion, and minced garlic until crispy.",10,0,0.38978777028093436,10,0,0,Body_Text
+"o   Add cooked beans and cassava flour, stir to combine.",10,0,0.4082726372612847,10,0,0,Body_Text
+o   Stir in chopped parsley and salt.,10,0,0.4268331816702178,7,0,0,Body_Text
+o   Serve warm.,10,0,0.4453180486505682,3,0,0,Body_Text
+,12,1,0.46388888118242977,0,0,0,Body_Text
+Festival,12,1,0.48237374816278017,1,0,0,H1
+,10,0,0.499507441665187,1,0,0,Body_Text
+Ingredients :,12,1,0.5008585766108349,2,0,0,Body_Text
+o   2 cups flour,10,0,0.5192827166933002,4,0,0,Body_Text
+o   1/4 cup cornmeal,10,0,0.5377675836736505,4,0,0,Body_Text
+o   1/4 cup sugar,10,0,0.5563281280825837,4,0,0,Body_Text
+o   1 tablespoon baking powder,10,0,0.574812995062934,5,0,0,Body_Text
+o   1/2 teaspoon salt,10,0,0.5932978620432844,4,0,0,Body_Text
+o   1/4 cup milk,10,0,0.6117827290236347,4,0,0,Body_Text
+o   Oil for frying,10,0,0.6302675189393939,4,0,0,Body_Text
+,10,0,0.6474872165256076,1,0,0,Body_Text
+Instructions :,12,1,0.6488383900035511,2,0,0,Body_Text
+"o   Mix flour, cornmeal, sugar, baking powder, and salt in a bowl.",10,0,0.6672372529000947,12,0,1,Body_Text
+o   Add milk and stir until dough forms.,10,0,0.6857977973090278,8,0,0,Body_Text
+o   Roll out dough and cut into strips.,10,0,0.7042826642893781,8,0,0,Body_Text
+o   Fry in hot oil until golden.,10,0,0.7227675312697285,7,0,0,Body_Text
+o   Drain on paper towels and serve warm.,10,0,0.7412523982500789,8,0,0,Body_Text
+,12,1,0.7598232693142362,0,0,0,Body_Text
+Focaccia,12,1,0.7783080592299952,1,0,0,H1
+,10,0,0.7954417527324021,1,0,0,Body_Text
+Ingredients :,12,1,0.7967929262103457,2,0,0,Body_Text
+o   2 1/4 teaspoons active dry yeast,10,0,0.8151917891068892,7,0,0,Body_Text
+o   1 teaspoon sugar,10,0,0.8337524105804135,4,0,0,Body_Text
+o   1 cup warm water,10,0,0.8522372004961727,5,0,0,Body_Text
+o   2 1/2 cups flour,10,0,0.8707473446624447,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.8892321345782039,4,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.09385343994757142,5,0,0,Body_Text
+o   Rosemary,10,0,0.11233822986333057,2,0,0,Body_Text
+o   Sea salt,10,0,0.13082309684368096,3,0,0,Body_Text
+,10,0,0.14804281369604247,1,0,0,Body_Text
+Instructions :,12,1,0.14939394864169034,2,0,0,Body_Text
+"o   Dissolve yeast and sugar in warm water, let sit until foamy.",10,0,0.16789378541888614,12,0,1,Body_Text
+"o   Mix flour and salt in a bowl, then add yeast mixture and olive oil.",10,0,0.1863786523992365,15,0,1,Body_Text
+"o   Knead until smooth, then let rise until doubled.",10,0,0.20486351937958688,9,0,0,Body_Text
+"o   Press dough into a baking pan, dimple with fingers, and sprinkle with rosemary",10,0,0.22334838635993726,14,0,1,Body_Text
+and sea salt.,12,0,0.24191916109335543,3,0,0,Body_Text
+o   Bake at 400°F (200°C) for 20-25 minutes until golden.,10,0,0.2603180432560468,10,0,0,Body_Text
+,12,1,0.2788888950540562,0,0,0,Body_Text
+Freekeh Salad,12,1,0.2974495165275805,2,0,0,H1
+,10,0,0.31458317149769177,1,0,0,Body_Text
+Ingredients :,12,1,0.31593430644333964,2,0,0,Body_Text
+o   1 cup freekeh,10,0,0.3343331693398832,4,0,0,Body_Text
+o   2 cups water,10,0,0.35281803632023356,4,0,0,Body_Text
+o   1 small onion,10,0,0.37130290330058396,4,0,0,Body_Text
+o   1/4 cup parsley,10,0,0.38978777028093436,4,0,0,Body_Text
+o   1/4 cup mint,10,0,0.4082726372612847,4,0,0,Body_Text
+o   1/4 cup lemon juice,10,0,0.4268331816702178,5,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.4453180486505682,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.4638029156309186,4,0,0,Body_Text
+,10,0,0.48102261321713224,1,0,0,Body_Text
+Instructions :,12,1,0.48237374816278017,2,0,0,Body_Text
+"o   Rinse freekeh and cook in water until tender, then drain.",10,0,0.5007725725270281,11,0,0,Body_Text
+o   Sauté diced onion in olive oil until softened.,10,0,0.5192827166933002,9,0,0,Body_Text
+"o   Mix freekeh with sautéed onion, chopped parsley, and mint.",10,0,0.5377675836736505,10,0,1,Body_Text
+"o   Whisk lemon juice, olive oil, and salt, then pour over salad.",10,0,0.5563281280825837,12,0,1,Body_Text
+o   Toss well and serve.,10,0,0.574812995062934,5,0,0,Body_Text
+,12,1,0.5933838275947956,0,0,0,Body_Text
+Fried Plantains,12,1,0.611868694575146,2,0,0,H1
+,10,0,0.6290023880775528,1,0,0,Body_Text
+Ingredients :,12,1,0.6303535230232008,2,0,0,Body_Text
+o   2 ripe plantains,10,0,0.6487523859197443,4,0,0,Body_Text
+o   1 cup vegetable oil,10,0,0.6672372529000947,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.6857977973090278,4,0,0,Body_Text
+,10,0,0.7030174948952415,1,0,0,Body_Text
+Instructions :,12,1,0.704368668373185,2,0,0,Body_Text
+o   Peel and slice plantains.,10,0,0.7227675312697285,5,0,0,Body_Text
+o   Heat oil in a pan and fry plantain slices until golden.,10,0,0.7412523982500789,12,0,0,Body_Text
+o   Drain on paper towels and sprinkle with salt.,10,0,0.7597372652304293,9,0,0,Body_Text
+o   Serve warm.,10,0,0.7782220551461885,3,0,0,Body_Text
+,12,1,0.7967929262103457,0,0,0,Body_Text
+Fried Rice,12,1,0.815277793190696,2,0,0,H1
+,10,0,0.8324872411862768,1,0,0,Body_Text
+Ingredients :,12,1,0.8338384146642204,2,0,0,Body_Text
+o   2 cups cooked rice,10,0,0.8522372004961727,5,0,0,Body_Text
+o   1 small onion,10,0,0.8707473446624447,4,0,0,Body_Text
+o   1/2 cup peas,10,0,0.8892321345782039,4,0,0,Body_Text
+o   1/2 cup diced carrots,10,0,0.09385343994757142,5,0,0,Body_Text
+o   2 eggs,10,0,0.11233822986333057,3,0,0,Body_Text
+o   2 tablespoons soy sauce,10,0,0.13082309684368096,5,0,0,Body_Text
+o   1 tablespoon sesame oil,10,0,0.14930796382403133,5,0,0,Body_Text
+o   1/4 cup chopped green onions,10,0,0.16789378541888614,6,0,0,Body_Text
+,10,0,0.18511350227124762,1,0,0,Body_Text
+Instructions :,12,1,0.18646463721689552,2,0,0,Body_Text
+"o   Sauté diced onion, peas, and carrots in sesame oil until softened.",10,0,0.20486351937958688,12,0,1,Body_Text
+o   Push vegetables to the side and scramble eggs in the same pan.,10,0,0.22334838635993726,13,0,1,Body_Text
+"o   Add cooked rice and soy sauce, stir to combine.",10,0,0.24183317627569642,10,0,0,Body_Text
+o   Cook until heated through.,10,0,0.2603180432560468,5,0,0,Body_Text
+o   Garnish with chopped green onions and serve.,10,0,0.2788029102363972,8,0,0,Body_Text
+,12,1,0.2974495165275805,0,0,0,Body_Text
+Fufu,12,1,0.31593430644333964,1,0,0,H1
+,10,0,0.3330680384780421,1,0,0,Body_Text
+Ingredients :,12,1,0.33441917342369004,2,0,0,Body_Text
+o   2 cups cassava flour,10,0,0.35281803632023356,5,0,0,Body_Text
+o   4 cups water,10,0,0.37130290330058396,4,0,0,Body_Text
+,10,0,0.3885226008867977,1,0,0,Body_Text
+Instructions :,12,1,0.38987373583244556,2,0,0,Body_Text
+o   Bring water to a boil.,10,0,0.4082726372612847,6,0,0,Body_Text
+"o   Gradually add cassava flour, stirring constantly until thickened.",10,0,0.4268331816702178,9,0,1,Body_Text
+"o   Continue to cook, stirring, until smooth and elastic.",10,0,0.4453180486505682,9,0,0,Body_Text
+o   Serve warm.,10,0,0.4638029156309186,3,0,0,Body_Text
+,12,1,0.48237374816278017,0,0,0,Body_Text
+Gamja Jorim,12,1,0.5008585766108349,2,0,0,H1
+,10,0,0.5180175472991635,1,0,0,Body_Text
+Ingredients :,12,1,0.5193686822448114,2,0,0,Body_Text
+o   4 potatoes,10,0,0.5377675836736505,3,0,0,Body_Text
+o   1/4 cup soy sauce,10,0,0.5563281280825837,5,0,0,Body_Text
+o   2 tablespoons sugar,10,0,0.574812995062934,4,0,0,Body_Text
+o   1 tablespoon sesame oil,10,0,0.5932978620432844,5,0,0,Body_Text
+o   1/4 cup water,10,0,0.6117827290236347,4,0,0,Body_Text
+o   1 tablespoon sesame seeds,10,0,0.6302675189393939,5,0,0,Body_Text
+,10,0,0.6474872165256076,1,0,0,Body_Text
+Instructions :,12,1,0.6488383900035511,2,0,0,Body_Text
+o   Peel and dice potatoes.,10,0,0.6672372529000947,5,0,0,Body_Text
+o   Sauté potatoes in sesame oil until lightly browned.,10,0,0.6857977973090278,9,0,0,Body_Text
+"o   Add soy sauce, sugar, and water, simmer until potatoes are tender.",10,0,0.7042826642893781,12,0,1,Body_Text
+o   Garnish with sesame seeds and serve warm.,10,0,0.7227675312697285,8,0,0,Body_Text
+,12,1,0.7413384023338857,0,0,0,Body_Text
+Garlic Bread,12,1,0.7598232693142362,2,0,0,H1
+,10,0,0.7769568857520518,1,0,0,Body_Text
+Ingredients :,12,1,0.7783080592299952,2,0,0,Body_Text
+o   1 baguette,10,0,0.7967069221265388,3,0,0,Body_Text
+o   1/2 cup butter,10,0,0.8151917891068892,4,0,0,Body_Text
+o   4 cloves garlic,10,0,0.8337524105804135,4,0,0,Body_Text
+o   1/4 cup parsley,10,0,0.8522372004961727,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.8707473446624447,4,0,0,Body_Text
+,10,0,0.8879669651840673,1,0,0,Body_Text
+Instructions :,12,1,0.8893181386620107,2,0,0,Body_Text
+o   Preheat oven to 375°F (190°C).,10,0,0.09385343994757142,6,0,0,Body_Text
+o   Slice baguette in half lengthwise.,10,0,0.11233822986333057,6,0,0,Body_Text
+"o   Mix softened butter with minced garlic, chopped parsley, and salt.",10,0,0.13082309684368096,11,0,1,Body_Text
+o   Spread mixture on bread.,10,0,0.14930796382403133,5,0,0,Body_Text
+o   Bake for 10-15 minutes until golden.,10,0,0.16789378541888614,7,0,0,Body_Text
+o   Serve warm.,10,0,0.1863786523992365,3,0,0,Body_Text
+,12,1,0.2049495041972459,0,0,0,Body_Text
+Gazpacho,12,1,0.22343437117759626,1,0,0,H1
+,10,0,0.24056802614770753,1,0,0,Body_Text
+Ingredients :,12,1,0.24191916109335543,2,0,0,Body_Text
+o   4 tomatoes,10,0,0.2603180432560468,3,0,0,Body_Text
+o   1 cucumber,10,0,0.2788029102363972,3,0,0,Body_Text
+o   1 small red onion,10,0,0.29736353170992147,5,0,0,Body_Text
+o   1 bell pepper,10,0,0.31584832162568066,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.3343331693398832,4,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.35281803632023356,5,0,0,Body_Text
+o   2 tablespoons red wine vinegar,10,0,0.37130290330058396,6,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.38978777028093436,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.4082726372612847,4,0,0,Body_Text
+,10,0,0.42556805080837673,1,0,0,Body_Text
+Instructions :,12,1,0.4269191857540246,2,0,0,Body_Text
+"o   Dice tomatoes, cucumber, onion, and bell pepper.",10,0,0.4453180486505682,8,0,0,Body_Text
+"o   Blend vegetables with minced garlic, olive oil, vinegar, salt, and pepper until",10,0,0.4638029156309186,13,0,1,Body_Text
+smooth.,12,0,0.48237374816278017,1,0,0,Body_Text
+o   Chill for at least 1 hour before serving.,10,0,0.5007725725270281,9,0,0,Body_Text
+,12,1,0.5193686822448114,0,0,0,Body_Text
+Gigantes Plaki,12,1,0.5378535492251618,2,0,0,H1
+,10,0,0.5550629972207426,1,0,0,Body_Text
+Ingredients :,12,1,0.5564141321663905,2,0,0,Body_Text
+o   2 cups giant beans,10,0,0.574812995062934,5,0,0,Body_Text
+o   1 small onion,10,0,0.5932978620432844,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.6117827290236347,4,0,0,Body_Text
+o   4 tomatoes,10,0,0.6302675189393939,3,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.6487523859197443,5,0,0,Body_Text
+o   1 teaspoon oregano,10,0,0.6672372529000947,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.6857977973090278,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.7042826642893781,4,0,0,Body_Text
+,10,0,0.7215023618755918,1,0,0,Body_Text
+Instructions :,12,1,0.7228535353535354,2,0,0,Body_Text
+"o   Soak beans overnight, then cook until tender.",10,0,0.7412523982500789,8,0,0,Body_Text
+o   Sauté diced onion and minced garlic in olive oil until softened.,10,0,0.7597372652304293,12,0,1,Body_Text
+"o   Add diced tomatoes, oregano, salt, and pepper, simmer for 10 minutes.",10,0,0.7782220551461885,12,0,1,Body_Text
+o   Mix beans with tomato sauce and transfer to a baking dish.,10,0,0.7967069221265388,12,0,1,Body_Text
+o   Bake at 375°F (190°C) for 30 minutes.,10,0,0.8151917891068892,8,0,0,Body_Text
+o   Serve warm.,10,0,0.8337524105804135,3,0,0,Body_Text
+,12,1,0.8523232045799795,0,0,0,Body_Text
+Goi Cuon (Spring Rolls),12,1,0.8708333487462516,4,0,0,H1
+,10,0,0.8879669651840673,1,0,0,Body_Text
+Ingredients :,12,1,0.8893181386620107,2,0,0,Body_Text
+o   1 package rice paper wrappers,10,0,0.09385343994757142,6,0,0,Body_Text
+o   1/2 pound shrimp,10,0,0.11233822986333057,4,0,0,Body_Text
+o   1/2 cup rice vermicelli,10,0,0.13082309684368096,5,0,0,Body_Text
+o   1/2 cup lettuce,10,0,0.14930796382403133,4,0,0,Body_Text
+o   1/4 cup mint,10,0,0.16789378541888614,4,0,0,Body_Text
+o   1/4 cup cilantro,10,0,0.1863786523992365,4,0,0,Body_Text
+o   1/4 cup basil,10,0,0.20486351937958688,4,0,0,Body_Text
+o   1/4 cup carrots,10,0,0.22334838635993726,4,0,0,Body_Text
+o   1/4 cup cucumber,10,0,0.24183317627569642,4,0,0,Body_Text
+,10,0,0.2590528931280579,1,0,0,Body_Text
+Instructions :,12,1,0.26040402807370583,2,0,0,Body_Text
+o   Cook shrimp and slice in half.,10,0,0.2788029102363972,7,0,0,Body_Text
+"o   Cook rice vermicelli according to package instructions, then drain.",10,0,0.29736353170992147,10,0,1,Body_Text
+o   Soak rice paper wrappers in warm water until pliable.,10,0,0.31584832162568066,10,0,0,Body_Text
+"o   Place a small amount of shrimp, vermicelli, lettuce, mint, cilantro, basil, julienned",10,0,0.3343331693398832,13,0,1,Body_Text
+"carrots, and cucumber on each wrapper.",12,0,0.3529040404040404,6,0,0,Body_Text
+o   Roll tightly and serve with dipping sauce.,10,0,0.37130290330058396,8,0,0,Body_Text
+,12,1,0.38987373583244556,0,0,0,Body_Text
+Gomae (Spinach with Sesame Dressing),12,1,0.4083586028127959,5,0,0,H1
+,10,0,0.42556805080837673,1,0,0,Body_Text
+Ingredients :,12,1,0.4269191857540246,2,0,0,Body_Text
+o   1 bunch spinach,10,0,0.4453180486505682,4,0,0,Body_Text
+o   2 tablespoons sesame seeds,10,0,0.4638029156309186,5,0,0,Body_Text
+o   1 tablespoon soy sauce,10,0,0.4822877826112689,5,0,0,Body_Text
+o   1 tablespoon sugar,10,0,0.5007725725270281,4,0,0,Body_Text
+o   1 tablespoon mirin,10,0,0.5192827166933002,4,0,0,Body_Text
+,10,0,0.5365024142795138,1,0,0,Body_Text
+Instructions :,12,1,0.5378535492251618,2,0,0,Body_Text
+"o   Blanch spinach in boiling water, then rinse in cold water and squeeze out excess",10,0,0.5563281280825837,15,0,1,Body_Text
+moisture.,12,0,0.5748989991467408,1,0,0,Body_Text
+o   Toast sesame seeds and grind them.,10,0,0.5932978620432844,7,0,0,Body_Text
+"o   Mix sesame seeds with soy sauce, sugar, and mirin.",10,0,0.6117827290236347,10,0,0,Body_Text
+o   Toss spinach with dressing and serve.,10,0,0.6302675189393939,7,0,0,Body_Text
+,12,1,0.6488383900035511,0,0,0,Body_Text
+Gratin Dauphinois,12,1,0.6673232569839015,2,0,0,H1
+,10,0,0.6845326279148911,1,0,0,Body_Text
+Ingredients :,12,1,0.6858838013928346,2,0,0,Body_Text
+o   4 potatoes,10,0,0.7042826642893781,3,0,0,Body_Text
+o   1 cup heavy cream,10,0,0.7227675312697285,5,0,0,Body_Text
+o   1/2 cup milk,10,0,0.7412523982500789,4,0,0,Body_Text
+o   2 cloves garlic,10,0,0.7597372652304293,4,0,0,Body_Text
+o   1/2 cup grated Gruyère cheese,10,0,0.7782220551461885,6,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.7967069221265388,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.8151917891068892,4,0,0,Body_Text
+,10,0,0.8324872411862768,1,0,0,Body_Text
+Instructions :,12,1,0.8338384146642204,2,0,0,Body_Text
+o   Preheat oven to 375°F (190°C).,10,0,0.8522372004961727,6,0,0,Body_Text
+o   Peel and thinly slice potatoes.,10,0,0.8707473446624447,6,0,0,Body_Text
+o   Rub a baking dish with a cut clove of garlic.,10,0,0.8892321345782039,11,0,0,Body_Text
+"o   Layer potatoes in the dish, seasoning with salt and pepper.",10,0,0.09385343994757142,11,0,1,Body_Text
+"o   Mix cream, milk, and minced garlic, pour over potatoes.",10,0,0.11233822986333057,10,0,0,Body_Text
+o   Sprinkle with grated Gruyère cheese.,10,0,0.13082309684368096,6,0,0,Body_Text
+o   Bake for 45 minutes until golden and bubbly.,10,0,0.14930796382403133,9,0,0,Body_Text
+o   Serve warm.,10,0,0.16789378541888614,3,0,0,Body_Text
+,12,1,0.18646463721689552,0,0,0,Body_Text
+Greek Salad,12,1,0.2049495041972459,2,0,0,H1
+,10,0,0.2220832362319484,1,0,0,Body_Text
+Ingredients :,12,1,0.22343437117759626,2,0,0,Body_Text
+o   4 tomatoes,10,0,0.24183317627569642,3,0,0,Body_Text
+o   1 cucumber,10,0,0.2603180432560468,3,0,0,Body_Text
+o   1 small red onion,10,0,0.2788029102363972,5,0,0,Body_Text
+o   1/4 cup olives,10,0,0.29736353170992147,4,0,0,Body_Text
+o   1/4 cup feta cheese,10,0,0.31584832162568066,5,0,0,Body_Text
+o   1/4 cup olive oil,10,0,0.3343331693398832,5,0,0,Body_Text
+o   2 tablespoons red wine vinegar,10,0,0.35281803632023356,6,0,0,Body_Text
+o   1 teaspoon oregano,10,0,0.37130290330058396,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.38978777028093436,4,0,0,Body_Text
+,10,0,0.40700746786714803,1,0,0,Body_Text
+Instructions :,12,1,0.4083586028127959,2,0,0,Body_Text
+"o   Dice tomatoes and cucumber, slice red onion.",10,0,0.4268331816702178,8,0,0,Body_Text
+o   Mix vegetables with olives and crumbled feta cheese.,10,0,0.4453180486505682,9,0,0,Body_Text
+"o   Whisk olive oil, vinegar, oregano, and salt, then pour over salad.",10,0,0.4638029156309186,12,0,1,Body_Text
+o   Toss well and serve.,10,0,0.4822877826112689,5,0,0,Body_Text
+,12,1,0.5008585766108349,0,0,0,Body_Text
+Green Bean Casserole,12,1,0.5193686822448114,3,0,0,H1
+,10,0,0.5365024142795138,1,0,0,Body_Text
+Ingredients :,12,1,0.5378535492251618,2,0,0,Body_Text
+o   4 cups green beans,10,0,0.5563281280825837,5,0,0,Body_Text
+o   1 can cream of mushroom soup,10,0,0.574812995062934,7,0,0,Body_Text
+o   1/2 cup milk,10,0,0.5932978620432844,4,0,0,Body_Text
+o   1 cup fried onions,10,0,0.6117827290236347,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.6302675189393939,4,0,0,Body_Text
+o   1/2 teaspoon pepper,10,0,0.6487523859197443,4,0,0,Body_Text
+,10,0,0.665972083505958,1,0,0,Body_Text
+Instructions :,12,1,0.6673232569839015,2,0,0,Body_Text
+o   Preheat oven to 350°F (175°C).,10,0,0.6857977973090278,6,0,0,Body_Text
+o   Cook green beans until tender.,10,0,0.7042826642893781,6,0,0,Body_Text
+"o   Mix soup, milk, salt, and pepper in a baking dish.",10,0,0.7227675312697285,11,0,0,Body_Text
+"o   Add green beans and half of the fried onions, stir to combine.",10,0,0.7412523982500789,13,0,1,Body_Text
+o   Bake for 25 minutes.,10,0,0.7597372652304293,5,0,0,Body_Text
+o   Top with remaining fried onions and bake for an additional 5 minutes.,10,0,0.7782220551461885,13,0,1,Body_Text
+o   Serve warm.,10,0,0.7967069221265388,3,0,0,Body_Text
+,12,1,0.815277793190696,0,0,0,Body_Text
+Guacamole,12,1,0.8338384146642204,1,0,0,H1
+,10,0,0.850972031102036,1,0,0,Body_Text
+Ingredients :,12,1,0.8523232045799795,2,0,0,Body_Text
+o   3 avocados,10,0,0.8707473446624447,3,0,0,Body_Text
+o   1 lime,10,0,0.8892321345782039,3,0,0,Body_Text
+o   1 small onion,10,0,0.09385343994757142,4,0,0,Body_Text
+o   2 tomatoes,10,0,0.11233822986333057,3,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.13082309684368096,4,0,0,Body_Text
+o   1 tablespoon chopped cilantro,10,0,0.14930796382403133,5,0,0,Body_Text
+o   1 teaspoon minced garlic,10,0,0.16789378541888614,5,0,0,Body_Text
+,10,0,0.18511350227124762,1,0,0,Body_Text
+Instructions :,12,1,0.18646463721689552,2,0,0,Body_Text
+"o   Cut avocados in half, remove the pit, and scoop out the flesh into a bowl.",10,0,0.20486351937958688,16,0,1,Body_Text
+o   Mash the avocados with a fork.,10,0,0.22334838635993726,7,0,0,Body_Text
+"o   Add lime juice, diced onion, chopped tomatoes, salt, cilantro, and garlic.",10,0,0.24183317627569642,12,0,1,Body_Text
+o   Mix well and serve immediately.,10,0,0.2603180432560468,6,0,0,Body_Text
+,12,1,0.2788888950540562,0,0,0,Body_Text
+Gurkensalat (Cucumber Salad),12,1,0.2974495165275805,3,0,0,H1
+,10,0,0.31458317149769177,1,0,0,Body_Text
+Ingredients :,12,1,0.31593430644333964,2,0,0,Body_Text
+o   2 cucumbers,10,0,0.3343331693398832,3,0,0,Body_Text
+o   1/4 cup sour cream,10,0,0.35281803632023356,5,0,0,Body_Text
+o   2 tablespoons vinegar,10,0,0.37130290330058396,4,0,0,Body_Text
+o   1 tablespoon sugar,10,0,0.38978777028093436,4,0,0,Body_Text
+o   1 teaspoon dill,10,0,0.4082726372612847,4,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.4268331816702178,4,0,0,Body_Text
+,10,0,0.44405291778872713,1,0,0,Body_Text
+Instructions :,12,1,0.445404052734375,2,0,0,Body_Text
+o   Slice cucumbers thinly.,10,0,0.4638029156309186,4,0,0,Body_Text
+"o   Mix sour cream, vinegar, sugar, dill, and salt in a bowl.",10,0,0.4822877826112689,12,0,0,Body_Text
+o   Toss cucumbers with the dressing.,10,0,0.5007725725270281,6,0,0,Body_Text
+o   Serve chilled.,10,0,0.5192827166933002,3,0,0,Body_Text
+,12,1,0.5378535492251618,0,0,0,Body_Text
+Gyeran Jjim,12,1,0.5564141321663905,2,0,0,H1
+,10,0,0.5735478642010929,1,0,0,Body_Text
+Ingredients :,12,1,0.5748989991467408,2,0,0,Body_Text
+o   4 eggs,10,0,0.5932978620432844,3,0,0,Body_Text
+o   1 cup water,10,0,0.6117827290236347,4,0,0,Body_Text
+o   1/4 cup green onions,10,0,0.6302675189393939,5,0,0,Body_Text
+o   1 teaspoon salt,10,0,0.6487523859197443,4,0,0,Body_Text
+o   1/2 teaspoon sesame oil,10,0,0.6672372529000947,5,0,0,Body_Text
+,10,0,0.6845326279148911,1,0,0,Body_Text
+Instructions :,12,1,0.6858838013928346,2,0,0,Body_Text
+"o   Beat eggs with water, salt, and chopped green onions.",10,0,0.7042826642893781,10,0,0,Body_Text
+o   Pour mixture into a heatproof bowl.,10,0,0.7227675312697285,7,0,0,Body_Text
+o   Steam for 10-15 minutes until set.,10,0,0.7412523982500789,7,0,0,Body_Text
+o   Drizzle with sesame oil and serve warm.,10,0,0.7597372652304293,8,0,0,Body_Text
+,12,1,0.7783080592299952,0,0,0,Body_Text
+Harira,12,1,0.7967929262103457,1,0,0,H1
+,10,0,0.8139266197127525,1,0,0,Body_Text
+Ingredients :,12,1,0.815277793190696,2,0,0,Body_Text
+o   1 cup lentils,10,0,0.8337524105804135,4,0,0,Body_Text
+o   1/2 cup chickpeas,10,0,0.8522372004961727,4,0,0,Body_Text
+o   1 small onion,10,0,0.8707473446624447,4,0,0,Body_Text
+Parsippany -Troy Hills STEM Pathways,28,1,0.04718382671625927,5,0,0,Title
+Mission Statement:    To provide PTHSD high school students with the opportunity to,14,0,0.11198763413862749,12,0,1,Body_Text
+"concentrate their studies, beyond those required in high school, in the areas of science,",12,0,0.137306136314315,14,0,1,Body_Text
+"technology, engineering, and mathematics, and expose students to relevant real world",12,0,0.15530572756372316,11,0,1,Body_Text
+"experiences through project work, conferences and presentations to enhance their high school",12,0,0.17330531881313133,12,0,1,Body_Text
+experience.,12,0,0.19130491006253947,1,0,0,Body_Text
+PATHWAY OPTIONS,15,0,0.5532517481331873,2,1,1,H1
+REGULAR PATHWAY,15,1,0.5905992141877762,2,1,0,Body_Text
+●,11,0,0.6345782809787326,1,0,0,Body_Text
+4 credits of Math,11,0,0.6345782809787326,4,0,0,Body_Text
+●,11,0,0.6516350640190972,1,0,0,Body_Text
+4 credits of Science,11,0,0.6516350640190972,4,0,0,Body_Text
+●,11,0,0.668691924124053,1,0,0,Body_Text
+4 credits of STEM-designated electives,11,0,0.668691924124053,5,0,0,Body_Text
+●,11,0,0.6857487842290089,1,0,0,Body_Text
+Maintain an overall 2.85 GPA,11,0,0.6857487842290089,5,0,0,Body_Text
+●,11,0,0.7028055672693734,1,0,0,Body_Text
+Participate in a minimum of 3 STEM,11,0,0.7028055672693734,7,0,0,Body_Text
+presentations/conferences each year,11,0,0.719862350309738,3,0,0,Body_Text
+with a required minimum total of 12,11,0,0.7369192104146938,7,0,0,Body_Text
+presentations/conferences throughout,11,0,0.7539760705196497,2,0,0,Body_Text
+the 4 years . *,11,0,0.771032776495423,5,0,0,Body_Text
+●,11,0,0.7880896366003788,1,0,0,Body_Text
+Join and actively participate in a,11,0,0.7880896366003788,6,0,0,Body_Text
+STEM-related extracurricular activity or,11,0,0.8051464967053346,4,0,0,Body_Text
+club every year of attendance. -,11,0,0.8222032797456992,6,0,0,Body_Text
+DISTINCTION PATHWAY,15,1,0.5905992141877762,2,1,0,Body_Text
+●,11,0,0.6118367127697877,1,0,1,Body_Text
+4 credits of Math - At least one math,11,0,0.6118367127697877,9,0,0,Body_Text
+course should be an AP Math class.,11,0,0.6288935343424479,7,0,0,Body_Text
+●,11,0,0.6459503173828125,1,0,1,Body_Text
+4 credits of Science- At least one,11,0,0.6459503173828125,7,0,0,Body_Text
+science course should be an AP,11,0,0.6630071774877683,6,0,0,Body_Text
+Science class.,11,0,0.6800640375927242,2,0,0,Body_Text
+●,11,0,0.6971208206330887,1,0,1,Body_Text
+4 credits of STEM-designated electives,11,0,0.6971208206330887,5,0,0,Body_Text
+- One must be a Computer,11,0,0.7141776036734533,6,0,0,Body_Text
+Science/Technology Class,11,0,0.7312344637784091,2,0,0,Body_Text
+●,11,0,0.748291323883365,1,0,1,Body_Text
+Maintain an overall 3.5 GPA,11,0,0.748291323883365,5,0,0,Body_Text
+●,11,0,0.7653481069237295,1,0,1,Body_Text
+Participate in a minimum of 3 STEM,11,0,0.7653481069237295,7,0,0,Body_Text
+presentations/conferences a year with a,11,0,0.7824048899640941,5,0,0,Body_Text
+required minimum total of 12,11,0,0.7994617500690498,5,0,0,Body_Text
+presentations/conferences throughout,11,0,0.8165186101740057,2,0,0,Body_Text
+the 4 years.,11,0,0.8335753932143702,3,0,0,Body_Text
+●,11,0,0.8506321762547349,1,0,1,Body_Text
+Join and actively participate in a,11,0,0.8506321762547349,6,0,0,Body_Text
+STEM-related extracurricular activity or,11,0,0.8676890363596906,4,0,0,Body_Text
+club every year of attendance.,11,0,0.8847458964646465,5,0,0,Body_Text
+●,11,0,0.901802679505011,1,0,1,Body_Text
+Either participate in an internship or,11,0,0.901802679505011,6,0,0,Body_Text
+design and implement a community,11,0,0.9188594625453756,5,0,0,Body_Text
+impact project.,11,0,0.9359163226503314,2,0,0,Body_Text
+Goals:,14,0,0.2306038634945648,1,0,0,Body_Text
+"•  Inspire keen interest in mathematics, science, engineering, and",12,0,0.2663747614080256,9,0,0,Body_Text
+"technology, develop strong scholarship in the subject and",12,0,0.2838133994979088,8,0,0,Body_Text
+promote the enjoyment of these studies in high school.,12,0,0.3008724944760101,9,0,0,Body_Text
+,12,0,0.2667543045198075,0,0,0,Body_Text
+•  Expose students to potential career opportunities in the field.,12,0,0.31754958027541036,10,0,0,Body_Text
+•  Encourage students to pursue higher education and major in,12,0,0.3346086752535117,10,0,0,Body_Text
+STEM careers.,12,0,0.3520473133433949,2,0,0,Body_Text
+• Promote interactions with STEM professionals to learn about,12,0,0.3691064083214962,9,0,0,Body_Text
+future opportunities.,12,0,0.38616550329959753,2,0,0,Body_Text
+• Support field experiences connected to the world outside of,12,0,0.40322459827769885,10,0,0,Body_Text
+the school building.,12,0,0.4202836932558002,3,0,0,Body_Text
+"• Signal to employers, universities, training programs, and",12,0,0.4373427882339015,8,0,0,Body_Text
+military that a student has completed a comprehensive course,12,0,0.45440188321200287,9,0,0,Body_Text
+of study in a specialized area.,12,0,0.4714609781901042,6,0,0,Body_Text
+"• Cultivate transferable work habits such as perseverance, goal",12,0,0.4885200731682055,9,0,0,Body_Text
+"setting, and self-direction.",12,0,0.5055791681463068,3,0,0,Body_Text
+Elective Course Offerings,22,0,0.05368209607673414,3,0,1,Body_Text
+Science,12,1,0.11345479945943814,1,0,0,Body_Text
+Math,12,1,0.11345479945943814,1,0,0,Body_Text
+Computer Science/,12,1,0.11345479945943814,2,0,1,Body_Text
+Technology,12,1,0.13145439070884626,1,0,1,Body_Text
+Art,12,1,0.11345479945943814,1,0,0,Body_Text
+Applied,12,1,0.11345479945943814,1,0,0,Body_Text
+Technology/,12,1,0.13145439070884626,1,0,0,Body_Text
+Family Consumer,12,1,0.1494539819582544,2,0,0,Body_Text
+Science and Other,12,1,0.16745357320766258,3,0,0,Body_Text
+•,11,0,0.19392028962722932,1,0,0,Body_Text
+AP Biology,11,0,0.19428320605345448,2,0,0,Body_Text
+•,11,0,0.21097252585671164,1,0,0,Body_Text
+AP Chemistry,11,0,0.2113354422829368,2,0,0,Body_Text
+•,11,0,0.22802476208619396,1,0,0,Body_Text
+AP Physics C,11,0,0.22838767851241912,3,0,0,Body_Text
+•,11,0,0.24507699831567628,1,0,0,Body_Text
+Forensics,11,0,0.24543991474190144,1,0,0,Body_Text
+•,11,0,0.26212923454515863,1,0,0,Body_Text
+Honors Anatomy,11,0,0.2624921509713838,2,0,0,Body_Text
+and Physiology,11,0,0.2795443872008661,2,0,0,Body_Text
+•,11,0,0.2962338611333057,1,0,0,Body_Text
+AP Environmental,11,0,0.29659677755953084,2,0,0,Body_Text
+Science,11,0,0.31364901378901316,1,0,0,Body_Text
+•,11,0,0.3303383335922704,1,0,0,Body_Text
+Marine Biology,11,0,0.33070126928464333,2,0,0,Body_Text
+•,11,0,0.3473906083540483,1,0,0,Body_Text
+Organic Chemistry,11,0,0.3477535440464212,2,0,0,Body_Text
+•,11,0,0.36444288311582623,1,0,0,Body_Text
+Genetics,11,0,0.3648058188081992,1,0,0,Body_Text
+•,11,0,0.3814951578776042,1,0,0,Body_Text
+Astronomy,11,0,0.38185809356997713,1,0,0,Body_Text
+•,11,0,0.3985474326393821,1,0,0,Body_Text
+Bioethics,11,0,0.398910368331755,1,0,0,Body_Text
+•,11,0,0.41559970740116003,1,0,0,Body_Text
+MythBusting: The,11,0,0.415962643093533,2,0,0,Body_Text
+Science of,11,0,0.43301491785531093,2,0,0,Body_Text
+Literature and,11,0,0.4500671926170889,2,0,0,Body_Text
+Films,11,0,0.46711962150804925,1,0,0,Body_Text
+•,10,0,0.19369136925899622,1,0,0,Body_Text
++ AP Calculus,7,1,0.19221799060551806,3,0,0,Body_Text
+•,10,0,0.2088445027669271,1,0,0,Body_Text
++ AP Statistics,7,1,0.20737513147219264,3,0,0,Body_Text
+•,10,0,0.2240017977627841,1,0,0,Body_Text
++ Calculus,7,1,0.22253250353264087,2,0,0,Body_Text
+•,10,0,0.23915901569404988,1,0,0,Body_Text
+"Probability,",10,0,0.23915901569404988,1,0,0,Body_Text
+"Statistics,",10,0,0.2543166189482718,1,0,0,Body_Text
+and Discrete,10,0,0.2694742222024937,2,0,0,Body_Text
+Math,10,0,0.2846318254567156,1,0,0,Body_Text
+•,10,0,0.2997894287109375,1,0,0,Body_Text
++ Precalculus,7,1,0.29831859318896975,2,0,0,Body_Text
+•,10,0,0.3149451053503788,1,0,0,Body_Text
+Algebra 3 &,10,0,0.3149451053503788,3,0,0,Body_Text
+Trigonometry,10,0,0.33010270860460067,1,0,0,Body_Text
+•,10,0,0.345260273326527,1,0,0,Body_Text
+Applied Math,10,0,0.345260273326527,2,0,0,Body_Text
+•,10,0,0.3604178380484533,1,0,0,Body_Text
+Honors,10,0,0.3604178380484533,1,0,0,Body_Text
+Accounting 1,10,0,0.3755754027703796,2,0,0,Body_Text
+•,10,0,0.39073296749230585,1,0,0,Body_Text
+Investments,10,0,0.39073296749230585,1,0,0,Body_Text
+•,10,0,0.40589053221423216,1,0,0,Body_Text
+AP,10,0,0.40589053221423216,1,0,0,Body_Text
+Economics,10,0,0.42104809693615847,1,0,0,Body_Text
+•,10,0,0.4362056616580848,1,0,0,Body_Text
+Business,10,0,0.4362056616580848,1,0,0,Body_Text
+Org.,10,0,0.45136322638001103,1,0,0,Body_Text
+Management,10,0,0.46652079110193734,1,0,0,Body_Text
+•,11,0,0.19391905659376973,1,0,0,Body_Text
+Computer,11,0,0.19428197301999486,1,0,1,Body_Text
+Programming in C++,11,0,0.21133420924947718,3,0,1,Body_Text
+•,11,0,0.22802352905273438,1,0,0,Body_Text
+Robotics,11,0,0.2283864454789595,1,0,1,Body_Text
+•,11,0,0.2450757652822167,1,0,0,Body_Text
+Computer Science and,11,0,0.24543868170844185,3,0,1,Body_Text
+Programming Concepts,11,0,0.2624909179379242,2,0,1,Body_Text
+with Python,11,0,0.2795432312319977,2,0,1,Body_Text
+•,11,0,0.29623255103525487,1,0,0,Body_Text
+AP Computer Science,11,0,0.29659546746148,3,0,1,Body_Text
+Principles,11,0,0.31364770369096234,1,0,1,Body_Text
+•,11,0,0.33033702349421956,1,0,0,Body_Text
+AP Computer Science A,11,0,0.3306999591865925,4,0,1,Body_Text
+•,11,0,0.34738929825599746,1,0,0,Body_Text
+Honors Data Structures,11,0,0.3477522339483704,3,0,1,Body_Text
+and Advanced,11,0,0.36480450871014836,2,0,1,Body_Text
+Programming,11,0,0.38185697613340436,1,0,1,Body_Text
+•,11,0,0.39854631520280936,1,0,0,Body_Text
+Networks (CCNA cert),10,0,0.3995271547876223,3,0,1,Body_Text
+•,11,0,0.41559858996458726,1,0,0,Body_Text
+"Switching, Routing, &",10,0,0.41657942954940025,3,0,1,Body_Text
+Wireless Essentials,10,0,0.4324190929682568,2,0,1,Body_Text
+(CCNA cert),10,0,0.44757665769018307,2,0,1,Body_Text
+•,11,0,0.4629659941702178,1,0,0,Body_Text
+Cybersecurity (CCNA,10,0,0.46394683375503076,2,0,1,Body_Text
+cert),10,0,0.4797864971738873,1,0,1,Body_Text
+•,10,0,0.1936900591609454,1,0,0,Body_Text
+Graphic,10,0,0.1936900591609454,1,0,0,Body_Text
+Design,10,0,0.2088476624151673,1,0,0,Body_Text
+•,10,0,0.2240052656693892,1,0,0,Body_Text
+Digital,10,0,0.2240052656693892,1,0,0,Body_Text
+Photography,10,0,0.2391628689236111,1,0,0,Body_Text
+•,10,0,0.254320472177833,1,0,0,Body_Text
+Advanced,10,0,0.254320472177833,1,0,0,Body_Text
+Digital,10,0,0.26947807543205493,1,0,0,Body_Text
+Photography,10,0,0.2846356786862768,1,0,0,Body_Text
+***AP,10,1,0.42104532261087435,1,1,0,Body_Text
+Captsone -,10,1,0.43620288733280066,2,0,0,Body_Text
+Seminar and,10,1,0.45136045205472697,2,0,0,Body_Text
+Research w/,10,1,0.4665180167766533,2,0,0,Body_Text
+advisor,10,1,0.48167558149857953,1,0,0,Body_Text
+approval,10,1,0.49683314622050584,1,0,0,Body_Text
+•,10,0,0.1936863600605666,1,0,0,Body_Text
+Nutrition for an,10,0,0.1936863600605666,3,0,0,Body_Text
+Active Lifestyle,10,0,0.20884396331478852,2,0,0,Body_Text
+•,10,0,0.2240015665690104,1,0,0,Body_Text
+Engineering,10,0,0.2240015665690104,1,0,0,Body_Text
+CAD and Design,10,0,0.23915916982323232,3,0,0,Body_Text
+Foundations,10,0,0.2543167730774542,1,0,0,Body_Text
+•,10,0,0.26947437633167615,1,0,0,Body_Text
+Television,10,0,0.26947437633167615,1,0,0,Body_Text
+Production I / II,10,0,0.28463290436099276,4,0,0,Body_Text
+•,10,0,0.29979050761521464,1,0,0,Body_Text
+Careers in,10,0,0.29979050761521464,2,0,0,Body_Text
+Medicine (Phys,10,0,0.3149481108694365,2,0,0,Body_Text
+Ed department),10,0,0.33010571412365847,2,0,0,Body_Text
+•,10,0,0.3452632788455848,1,0,0,Body_Text
+Woods Tech 1,10,0,0.3452631247164023,3,0,0,Body_Text
+and 2,10,0,0.3604206894383286,2,0,0,Body_Text
+•,10,0,0.37557825416025487,1,0,0,Body_Text
+Honors,10,0,0.37557825416025487,1,0,0,Body_Text
+Engineering and,10,0,0.3907358188821812,2,0,0,Body_Text
+Design,10,0,0.4058933836041075,1,0,0,Body_Text
+For more information and our application please visit our website by clicking  here .,12,1,0.9116281066278015,14,0,1,Body_Text
+What Colleges Say!,18,1,0.6071356956404869,3,0,1,Body_Text
+"When asked the question,   “Would participation in the",11,0,0.6501689872356377,8,0,0,Body_Text
+STEM Pathways set PTHSD students apart when applying,11,1,0.667228082213739,8,0,0,Body_Text
+"to your school?”,  colleges responded with the following:",11,1,0.6842871771918403,8,0,0,Body_Text
+SUNY Binghamton:   “Yes. We are a R1 research institution,11,1,0.7184053671480429,9,0,0,Body_Text
+and students with a strong STEM curriculum that includes,11,0,0.7354644621261442,9,0,0,Body_Text
+research or lab work are generally more competitive in our,11,0,0.7525234800396543,10,0,0,Body_Text
+applicant pool and more success as students at,11,0,0.7695826520823469,8,0,0,Body_Text
+Binghamton because of their early HS experience.”,11,0,0.786641669995857,7,0,0,Body_Text
+Towson University:  “Participation in this program would,11,1,0.8207598599520597,7,0,0,Body_Text
+show us that the student is challenging him/herself in their,11,0,0.837818954930161,10,0,0,Body_Text
+courses which is something we look at when reviewing,11,0,0.8548780499082623,9,0,0,Body_Text
+applications.”,11,0,0.8719371448863636,1,0,0,Body_Text
+"Drew University:  “Yes,it would show that they are",11,1,0.6501689872356377,8,0,0,Body_Text
+challenging themselves in the classroom.”,11,0,0.667228082213739,5,0,0,Body_Text
+NJIT:  “Yes- this would demonstrate to Admissions that a,11,1,0.7013438061030224,9,0,0,Body_Text
+"student is interested in STEM programs, and would be a",11,0,0.718402978145715,10,0,0,Body_Text
+strong candidate for our programs.”,11,0,0.735461996059225,5,0,0,Body_Text
+"Ithaca College:   “Yes, we look for students who participate",11,1,0.7695801860154278,9,0,0,Body_Text
+in classes and activities that enhance their knowledge and,11,0,0.7866392809935291,9,0,0,Body_Text
+skills in their area of interest.”,11,0,0.8036983759716304,6,0,0,Body_Text
+Montclair University:   “Rigorous math and science lab,11,1,0.837816565927833,7,0,0,Body_Text
+classes beyond standard curriculum could be looked at for,11,0,0.8548756609059344,9,0,0,Body_Text
+scholarship eligibility along with high GPA.”,11,0,0.8719347558840357,6,0,0,Body_Text
+Ontario’s Libraries,16,0,0.09101517031891178,2,0,0,Body_Text
+Working Together,16,0,0.11948922667840514,2,0,0,Body_Text
+RFP: R,32,0,0.1979448145086115,2,1,0,Body_Text
+RFP: R,32,0,0.19762114322546756,2,1,0,Body_Text
+RFP: R,32,0,0.1979448145086115,2,1,0,Body_Text
+RFP: Request f,32,0,0.19762114322546756,3,0,0,Body_Text
+quest f,32,0,0.19762114322546756,2,0,0,Body_Text
+quest f,32,0,0.1979448145086115,2,0,0,Body_Text
+quest for Pr,32,0,0.19762114322546756,3,0,1,Body_Text
+r Pr,32,0,0.19762114322546756,2,0,0,Body_Text
+r Pr,32,0,0.1979448145086115,2,0,0,Body_Text
+r Proposal,32,0,0.19762114322546756,2,0,0,Body_Text
+oposal,32,0,0.19762114322546756,1,0,0,Body_Text
+oposal,32,0,0.1979448145086115,1,0,0,Body_Text
+oposal,32,0,0.19762114322546756,1,0,0,Body_Text
+To Present a Proposal for Developing,24,0,0.3136363559299045,6,0,1,Body_Text
+the Business Plan for the Ontario,24,0,0.3484848484848485,6,0,1,Body_Text
+Digital Library,24,0,0.38333334103979244,2,0,0,Body_Text
+"March 21, 2003",20,0,0.4324037956468987,3,0,1,Body_Text
+"The Ontario Digital Library will make Ontario a better place to study, work and live by ensuring that",10,0,0.8765960847488558,18,0,1,Body_Text
+all Ontario citizens have access to the knowledge and learning supports needed to be life-long,10,0,0.8941769840741398,15,0,1,Body_Text
+learners and effective contributors towards Ontario’s prosperity.,10,0,0.9117578833994239,7,0,0,Body_Text
+Ontario’s Digital Library,20,0,0.11186365647749467,3,0,0,H1
+A Critical Component for Implementing Ontario’s Road Map to,16,0,0.15191424976695667,9,0,1,Body_Text
+Prosperity Strategy,16,0,0.17508849712333294,2,0,0,Body_Text
+Summary,12,0,0.24712119439635613,1,0,0,H2
+The purpose of this  Request for Proposal  ( RFP ) is to invite firms and/or consultants to,11,0,0.2885969720705591,17,0,1,Body_Text
+present a proposal for developing the business plan for the  Ontario Digital Library (ODL).,11,0,0.30450179360129614,14,0,1,Body_Text
+The ODL will deliver high-quality library electronic content to all Ontario residents in order to,11,0,0.3205599736685705,15,0,1,Body_Text
+"assist people as they learn, work, and enhance their quality of life. The business plan to be",11,0,0.33661813446969696,17,0,1,Body_Text
+developed is to document and clearly communicate:,11,0,0.3525229945327296,7,0,0,Body_Text
+"how the ODL will be implemented, including the timeline",11,0,0.3837333062682489,9,0,0,Body_Text
+the financial plan for the implementation,11,0,0.3996381663312816,6,0,0,Body_Text
+"the financial plan for the first 2 operating years, including capital and operating costs,",11,0,0.41554302639431423,14,0,1,Body_Text
+"revenues, etc.",11,0,0.43160120646158856,2,0,0,Body_Text
+a financial forecast for the succeeding 2 operating years,11,0,0.4475060665246212,9,0,0,Body_Text
+the services and products to be delivered by the ODL,11,0,0.4635642465918955,10,0,0,Body_Text
+how the ODL will operate and be managed following the implementation,11,0,0.4794691066549282,11,0,1,Body_Text
+"who will be involved, and what their role/responsibility will be, for both the",11,0,0.49537396671796086,13,0,1,Body_Text
+implementation and operational stages,11,0,0.5114321467852352,4,0,0,Body_Text
+the marketing and communications plan for the ODL,11,0,0.5273370068482678,8,0,0,Body_Text
+This business plan must be completed and approved by the ODL Steering Committee no,11,0,0.5593139186049952,14,0,1,Body_Text
+"later than September 30, 2003",11,0,0.575218778668028,5,0,0,Body_Text
+Timeline:,11,0,0.6064290904035472,1,0,0,H3
+Those firms/consultants intended to submit a proposal to this RFP must indicate their,11,0,0.6374860050702336,13,0,1,Body_Text
+intention to do so in an e-mail to Michael Ridley ( mridley@uoguelph.ca ) by  April 11 th .,11,0,0.6518953111436632,18,0,1,Body_Text
+"Proposals may be e-mailed, mailed, couriered or faxed to: Larry Moore",11,0,0.6846539275814788,11,0,0,Body_Text
+"( lmoore@accessola.com ), Executive Director, The Ontario Library Association,  100 Lombard",11,0,0.7005587491122159,11,0,1,Body_Text
+"St., Suite 303, Toronto, ON  M5C 1M3.  Proposals must be received by  Noon on Monday,",10,0,0.7166272558347143,15,0,1,Body_Text
+"April 21, 2003.",11,1,0.7325320773654513,3,0,0,Body_Text
+Those proposals that are short-listed will be invited to discuss their proposal during the week,11,0,0.7637423891009707,15,0,1,Body_Text
+"of  April 28, 2003 . No presentation will be expected. Firms or consultants invited to an",11,0,0.7796472106317077,16,0,1,Body_Text
+interview will be expected to discuss the project and their approach with the selection,11,0,0.7957054677635732,14,0,1,Body_Text
+committee .,11,0,0.8116102892943103,2,0,0,Body_Text
+"Contracts with the firm/consultant will be signed the week of  May 5, 2003  with the work to",11,0,0.8426672424932923,17,0,1,Body_Text
+commence as soon as possible thereafter.,11,0,0.8587254225605666,6,0,0,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+2,9,0,0.9229543666646938,1,0,0,Body_Text
+Please note that we reserve the right not to select any of the submitted proposals and may,11,0,0.09117274814181858,17,0,1,Body_Text
+seek further response to these Terms of Reference.,11,0,0.10707756967255563,8,0,0,Body_Text
+"If you require further information or have any questions, please contact Michael Ridley by e-",11,0,0.13828788140807488,15,0,1,Body_Text
+mail ( mridley@uoguelph.ca )  only  by  3:00 p.m. on Friday April 18th . All questions and,11,0,0.15419270293881196,16,0,1,Body_Text
+responses will be shared with those who have indicated that they will be submitting a,11,0,0.17025088300608626,15,0,1,Body_Text
+"proposal. Please note, that firms/consultants who have not indicated in an e-mail to Michael",11,0,0.1861557045368233,14,0,1,Body_Text
+Ridley by April 11 th  that they will be submitting a proposal will not receive any further,11,0,0.200380306051235,17,0,1,Body_Text
+information or question responses.,11,0,0.2181399759620127,4,0,0,Body_Text
+Background,12,0,0.260303015660758,1,0,0,H2
+"First, some background on the ODL. For the last two years the Ontario Library Association",11,0,0.3019303023213088,15,0,1,Body_Text
+"has acted as a catalyst, bringing together the stakeholders needed to create the Ontario",11,0,0.3178351238520459,14,0,1,Body_Text
+"Digital Library (ODL). These stakeholders include Ontario’s 5000+ public libraries, university,",11,0,0.3337399261166351,11,0,1,Body_Text
+"college, and school libraries, as well as Ontario government ministries.",11,0,0.3497981061839094,10,0,0,Body_Text
+Libraries that serve very different clientele recognize that by working together they can create,11,0,0.38085505938289144,14,0,1,Body_Text
+"seamless access to quality electronic library services. Through the ODL, students will be",11,0,0.3969132394501657,13,0,1,Body_Text
+"able to explore a topic at school, use the same child-safe resources after school (either at",11,0,0.41281809951319837,16,0,1,Body_Text
+"home or at a public library), enter college or university with a knowledge of how to use",11,0,0.4287229595762311,17,0,1,Body_Text
+"electronic resources that are still available and then, after graduation, continue to use these",11,0,0.44478113964350535,14,0,1,Body_Text
+skills and resources at work or at home.,11,0,0.46068599970653806,8,0,0,Body_Text
+We are moving into a period of convergence. With convergence we no longer have to license,11,0,0.4918963114420573,16,0,1,Body_Text
+commercial products as individual libraries or institutions. We can work together to spend our,11,0,0.50780117150509,14,0,1,Body_Text
+money wisely. The provincial government has made this possible by working hard to provide,11,0,0.5237060315681227,14,0,1,Body_Text
+"all Ontarians with a stable, high-speed communications infrastructure. While there is still a",11,0,0.5397642116353969,13,0,1,Body_Text
+"great deal of work needed to improve this infrastructure, libraries are beginning to plan how",11,0,0.5556690716984296,15,0,1,Body_Text
+best to exploit communications technology. We can reduce barriers to access and create the,11,0,0.5717272517657039,14,0,1,Body_Text
+content infrastructure needed to support a knowledge society.,11,0,0.5876321118287365,8,0,0,Body_Text
+"The concept of an ODL is a key element in  The Roadmap to Prosperity , a strategic plan to",11,0,0.6186890650277186,19,0,1,Body_Text
+envision and attain Ontario’s economic goal prepared by the Ontario Jobs and Investment,11,0,0.6347472836272885,13,0,1,Body_Text
+Board. The OJIB strategic plan recommends an electronic library to “connect students to new,11,0,0.6506521051580255,14,0,1,Body_Text
+"workplaces, new sources of information and applied learning opportunities”. The ODL will do",11,0,0.6667102852252998,13,0,1,Body_Text
+"that and much more. The ODL will connect students to electronic information, and will also",11,0,0.682615106756037,15,0,1,Body_Text
+leverage this investment to help connect all citizens to the electronic information they need as,11,0,0.698519928286774,15,0,1,Body_Text
+"they make decisions, solve problems and enhance their quality of life.",11,0,0.7145781854186395,11,0,0,Body_Text
+Libraries have long been a key delivery point for public services. The ODL will allow that,11,0,0.7465551357076625,16,0,1,Body_Text
+"delivery point to move closer to citizens, into the smallest of libraries and even into living",11,0,0.7624599572383997,16,0,1,Body_Text
+rooms.,11,0,0.7785181373056739,1,0,0,Body_Text
+"Libraries have a long tradition of using a practical, consultative approach to solving problems,",11,0,0.8103417290581597,14,0,1,Body_Text
+and of learning from others. The ODL is a very practical solution to various problems.,11,0,0.8263999861900253,15,0,1,Body_Text
+Jurisdiction-wide digital libraries are very practical and very real. The ODL we propose is,11,0,0.8583769364790483,14,0,1,Body_Text
+leading edge for Ontario but several jurisdictions have forged the path with collaborative,11,0,0.8742817580097854,13,0,1,Body_Text
+"digital libraries. We can learn from their experiences. For example, The Alberta Library (TAL)",11,0,0.8901866566051136,14,0,1,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+3,9,0,0.9229543666646938,1,0,0,Body_Text
+was incorporated in 1997 as a province-wide library consortium. TAL works collaboratively,11,0,0.09106123567831637,12,0,1,Body_Text
+with its members to promote universal access to materials and resources in more than 250,11,0,0.10696605720905343,15,0,1,Body_Text
+"public, post-secondary, special, government and regional libraries. Unlike ODL, TAL does",11,0,0.12302423727632773,11,0,1,Body_Text
+"not include elementary or secondary schools. However, the timeline and funding we are",11,0,0.1389290588070648,13,0,1,Body_Text
+proposing for ODL is comparable to TAL‘s experience. TAL’s business planning took several,11,0,0.1549872388743391,13,0,1,Body_Text
+years. TAL’s implementation plan was supported by 8 million dollars in provincially shared,11,0,0.17089206040507615,13,0,1,Body_Text
+"funding, spread over three years, later revised to 15 million dollars over 4 years. Not only is",11,0,0.1867968819358132,17,0,1,Body_Text
+"Alberta’s population 30% of Ontario’s, TAL does not include elementary or secondary",11,0,0.2028550620030875,12,0,1,Body_Text
+schools as partners; it has 250 member libraries. ODL envisions universal access for all,11,0,0.21875988353382458,14,0,1,Body_Text
+"10,000,000 Ontarians, with more than 5000 Ontario libraries as partners. Although ODL can",11,0,0.2348180636010989,13,0,1,Body_Text
+"learn from TAL’s practices, the scope of planning and implementing ODL is much larger than",11,0,0.25072288513183594,15,0,1,Body_Text
+TAL.,11,0,0.266627706662573,1,1,0,Body_Text
+The ODL will be a partnership-based organization providing seamless electronic information,11,0,0.29860465695159605,11,0,1,Body_Text
+services and resources to the citizens of Ontario. It will use local libraries as the entry point for,11,0,0.3146628370188703,18,0,1,Body_Text
+common resources The ODL will recognize the unique responsibilities and needs of public,11,0,0.3305676392834596,13,0,1,Body_Text
+"libraries, school libraries, college and university libraries and special libraries. The ODL",11,0,0.3466258193507339,12,0,1,Body_Text
+"envisions a digital network of information resources, allowing members to collaborate when",11,0,0.3625306794137666,12,0,1,Body_Text
+there is mutual benefit and to support the common mandates of local libraries.,11,0,0.37843553947679925,13,0,0,Body_Text
+The principles which will define and guide the ODL are:,11,0,0.4096458512123185,10,0,0,Body_Text
+Equitable access for all Ontarians:,11,1,0.4407028044113005,5,0,0,H3
+"We will bring consistent, high-quality electronic resources and services to 10 million",11,0,0.47191311614681974,12,0,1,Body_Text
+Ontario citizens,11,0,0.48781797620985246,2,0,0,Body_Text
+We will eliminate barriers to the access to information and create more consistent,11,0,0.5188749294088344,13,0,1,Body_Text
+services for library clients.,11,0,0.5349331094761087,4,0,0,Body_Text
+Shared decision-making and accountability:,11,1,0.5659900626750908,4,0,0,H3
+We will facilitate consensus among members regarding ODL’s portfolio of electronic,11,0,0.59720037441061,11,0,1,Body_Text
+licenses and services,11,0,0.6131052344736426,3,0,0,Body_Text
+We will balance the interests and realities of small and large as well as rich and poor,11,0,0.6441621876726247,17,0,1,Body_Text
+communities and institutions.,11,0,0.660220367739899,3,0,0,Body_Text
+Shared governance structure:,11,1,0.691277320938881,3,0,0,H3
+We will share decision-making in order to enable the people we serve.,11,0,0.7224876326744003,12,0,0,Body_Text
+We will work based on an underlying assumption of trust and synergy.,11,0,0.7535446629379735,12,0,0,Body_Text
+Shared funding:,11,1,0.7846016161369554,2,0,0,H3
+"We will leverage provincial, institutional, and local dollars to realize economies of scale",11,0,0.8158119278724747,13,0,1,Body_Text
+and put Ontario dollars to work for everyone .,11,0,0.8317167494032118,9,0,0,Body_Text
+We will be willing to pool talents and dollars in order to provide common services that are,11,0,0.8629270611387311,17,0,1,Body_Text
+truly greater than those that can be maintained by individual institutions.,11,0,0.8788318826694681,11,0,0,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+4,9,0,0.9229543666646938,1,0,0,Body_Text
+Local points of entry:,11,1,0.09104720992271347,4,0,0,H3
+"We will provide the licenses, infrastructure, services and support that enable local",11,0,0.12302423727632773,12,0,1,Body_Text
+"libraries to provide exceptional services to their clientele. ODL will focus on support,",11,0,0.1389290588070648,13,0,1,Body_Text
+"providing the underpinning, not overshadowing.",11,0,0.1549872388743391,5,0,0,Body_Text
+Services envisioned for the ODL’s include:,11,0,0.18681090769141612,6,0,0,Body_Text
+Access:,11,1,0.21878785798043915,1,0,0,H3
+"to the “deep” web (i.e. Commercial, purchased electronic services)",11,0,0.23484603804771345,9,0,0,Body_Text
+to credible web sites and electronic resources,11,0,0.2507508595784505,7,0,0,Body_Text
+to digital government information,11,0,0.2666556811091876,4,0,0,Body_Text
+to local digital collections,11,0,0.2827138611764619,4,0,0,Body_Text
+Guidance and Advice:,11,1,0.31469096559466736,3,0,0,H3
+to support e-learning,11,0,0.33059576785925665,3,0,0,Body_Text
+"to support citizens, in real-time, as they try to use electronic resources",11,0,0.3466539479265309,12,0,1,Body_Text
+to assist citizens as they use web-links,11,0,0.3625588079895636,7,0,0,Body_Text
+Training:,11,1,0.3784636680525963,1,0,0,H3
+for library workers,11,0,0.39452184811987057,3,0,0,Body_Text
+for the general public,11,0,0.4104267081829033,4,0,0,Body_Text
+Provincial Purchasing & Licensing:,11,1,0.4424036584719263,4,0,0,H3
+of electronic content on a consortia basis for all member libraries,11,0,0.45830851853495896,11,0,0,Body_Text
+Technological Support:,11,1,0.490285468823982,2,0,0,H3
+of common standards for the preservation and archiving local digital content,11,0,0.5063436488912563,11,0,1,Body_Text
+of a common interface to ODL resources and services that can be imbedded in local,11,0,0.522248508954289,15,0,1,Body_Text
+library web sites,11,0,0.538153330485026,3,0,0,Body_Text
+What could the ODL really mean?,11,0,0.5886139147209398,6,0,0,H3
+For each Ontario citizen it could mean:,11,1,0.6234484971171678,7,0,0,H4
+One local point of entry to access seamless electronic library services and,11,0,0.6396599971886837,12,0,1,Body_Text
+"resources for their personal, educational and professional needs;",11,0,0.655564895784012,8,0,1,Body_Text
+"Access to credible, high-quality, user-friendly electronic services through their",11,0,0.6716229987866951,9,0,0,Body_Text
+"community, school, or academic library;",11,0,0.6875278203174321,5,0,0,Body_Text
+Confidence that the electronic services and sources they – and their children,11,0,0.7034326418481692,12,0,0,Body_Text
+"– are using are safe, valid, and bringing them both global and local",11,0,0.7194908219154434,13,0,1,Body_Text
+perspectives;,11,0,0.7353957205107717,1,0,0,Body_Text
+Electronic information and tools that enhance job skills and the learning,11,0,0.7514539005780461,11,0,0,Body_Text
+experience,11,0,0.7673587991733744,1,0,0,Body_Text
+For each Ontario student it could mean:,11,1,0.7982624709004104,7,0,0,H4
+"One local point of entry to quality, curriculum- based electronic information",11,0,0.8144739324396307,11,0,1,Body_Text
+resources and services,11,0,0.830378831034959,3,0,0,Body_Text
+"Connection to their individual educational environment, whether at the",11,0,0.8464370111022332,9,0,1,Body_Text
+"elementary, secondary or post-secondary levels",11,0,0.8623418326329704,5,0,0,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+5,9,0,0.9229543666646938,1,0,0,Body_Text
+"Confidence that the services and resources people are using are credible,",11,0,0.09117274814181858,11,0,1,Body_Text
+available when they need them and adaptable to different learning styles,11,0,0.10707756967255563,11,0,1,Body_Text
+For each Ontario library it could mean:,11,1,0.13890123848963265,7,0,0,H4
+One point of entry for themselves and their clientele to quality electronic,11,0,0.1551127770934442,12,0,1,Body_Text
+"resources and services that support and enhance their collections, programs",11,0,0.17101759862418126,10,0,0,Body_Text
+and services,11,0,0.18692242015491833,2,0,0,Body_Text
+"The opportunity to show case their local community, collections, services, and",11,0,0.20298060022219264,11,0,0,Body_Text
+expertise,11,0,0.21888534468833845,1,0,0,Body_Text
+"The opportunity to gain from the provincial, collaborative partnership in order",11,0,0.23494352475561278,11,0,0,Body_Text
+to provide a seamless gateway to digital resources and services,11,0,0.25084834628634983,10,0,1,Body_Text
+For the Ontario government it could mean:,11,1,0.2826721692326093,7,0,0,H4
+"A  point of entry to information services and resources for all Ontario citizens,",11,0,0.2987303492998836,13,0,0,Body_Text
+connecting to portal initiatives .,11,0,0.3147885293671579,5,0,0,Body_Text
+Support of the Ontario E-Learning strategy through a collaborative digital,11,0,0.33069333163174713,10,0,1,Body_Text
+library initiative that positions Ontario on the global e-learning scene,11,0,0.34675151169902146,10,0,1,Body_Text
+Improved access and flexibility for all students at all ages and stages,11,0,0.3626563717620541,12,0,1,Body_Text
+(supports Ontario’s lifelong learning strategy),11,0,0.37856123182508683,5,0,0,Body_Text
+The opportunity to address emerging job skills shortages and facilitate school,11,0,0.3946194118923611,11,0,0,Body_Text
+to work and job to job transitions with the necessary information and,11,0,0.41052427195539376,12,0,1,Body_Text
+knowledge supports and tools,11,0,0.4265824520226681,4,0,0,Body_Text
+ODL will be an incorporated non-profit organization governed by a Board of Directors elected,11,0,0.45840604377515387,14,0,1,Body_Text
+by a voting membership. The Board will include representatives from all stakeholders. We,11,0,0.4744642238424282,13,0,1,Body_Text
+envision a governance model similar to that prepared for the province’s ORION network.,11,0,0.49036908390546086,13,0,1,Body_Text
+"More information regarding the envisioned phasing, funding and resources required for the",11,0,0.5215793956409801,12,0,1,Body_Text
+ODL can be found in the appendixes.,11,0,0.5374842557040128,7,0,0,Body_Text
+The Business Plan to be Developed,12,0,0.5796969635318024,6,0,0,H2
+The business plan which needs to be developed for the ODL must be a formal business plan,11,0,0.6358695752692946,17,0,1,Body_Text
+"that documents and clearly communicates the ODL’s services, funding and governance",11,0,0.6517743968000316,11,0,1,Body_Text
+"structures, as well as implementation plans for 2004-2005, and operational plans for 2005-",11,0,0.6676792953953599,13,0,1,Body_Text
+"2007. The planning process must also secure the full commitment of all stakeholders, as",11,0,0.6837374754626342,14,0,1,Body_Text
+represented on the Steering Committee.,11,0,0.6996422969933712,5,0,0,Body_Text
+"Specifically, the business plan must include:",11,0,0.7300999188663984,6,0,0,Body_Text
+"how the ODL will be implemented, including the timeline",11,0,0.7620768691554214,9,0,0,Body_Text
+the financial plan for the implementation,11,0,0.7781350492226957,6,0,0,Body_Text
+"the financial plan for the first 2 operating years, including capital and operating costs,",11,0,0.7940398707534327,14,0,1,Body_Text
+"revenues, etc.",11,0,0.8099446922841699,2,0,0,Body_Text
+a financial forecast for the succeeding 2 operating years,11,0,0.8260029494160354,9,0,0,Body_Text
+the services and products to be delivered by the ODL,11,0,0.8419077709467724,10,0,0,Body_Text
+how the ODL will operate and be managed following the implementation,11,0,0.8579659510140467,11,0,1,Body_Text
+"who will be involved, and what their role/responsibility will be, for both the",11,0,0.8738707725447837,13,0,1,Body_Text
+implementation and operational stages,11,0,0.8897755940755209,4,0,0,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+6,9,0,0.9229543666646938,1,0,0,Body_Text
+the marketing and communications plan for the ODL,11,0,0.09117274814181858,8,0,0,Body_Text
+the commitment of all stakeholders to their responsibilities,11,0,0.10707756967255563,8,0,0,Body_Text
+The process of developing this business plan must be extremely consultative to ensure that,11,0,0.13905451996157867,14,0,1,Body_Text
+all stakeholders are engaged in creating a synergistic ODL organization.  The proposal must,11,0,0.155112700028853,13,0,1,Body_Text
+indicate how this consultative process will be approached.,11,0,0.17101752155959005,8,0,0,Body_Text
+"The business plan for the ODL must address significant issues. There are, for example,",11,0,0.20299447184861308,14,0,1,Body_Text
+enormous differences in the financial resources available to libraries mandated to provide,11,0,0.21889929337935013,12,0,1,Body_Text
+"similar services. Some post-secondary and public libraries, particularly those in large urban",11,0,0.23495747344662446,12,0,1,Body_Text
+"areas, have the facilities, funding and technological infrastructure necessary to service their",11,0,0.2508622949773615,12,0,1,Body_Text
+"patrons with electronic services and resources.  Many others, particularly in rural regions, do",11,0,0.2667671165080986,13,0,1,Body_Text
+not.  The proposal must indicate how these issues will be approached.,11,0,0.28282529657537286,11,0,0,Body_Text
+Milestones,12,0,0.34106059989543874,1,0,0,H3
+1) A preliminary report will be issued during June 2003.,11,0,0.38253633903734613,10,0,0,Body_Text
+"2) It is expected that an Interim Report, suitable for distribution to the broader library",11,0,0.4135932922363281,15,0,1,Body_Text
+"community will be available by August 1, 2003 and that there will be an opportunity",11,0,0.42965147230360246,15,0,1,Body_Text
+for responses to be evaluated.,11,0,0.4455563323666351,5,0,0,Body_Text
+3) The business plan must be completed and approved by the ODL Steering Committee,11,0,0.47676664410215436,14,0,1,Body_Text
+"no later than September 30, 2003.",11,0,0.492671504165187,6,0,0,Body_Text
+Approach and Specific Proposal Requirements,12,0,0.5348484540226484,5,0,0,H2
+The firm/consultant  (or proposed team of consultants)  will be expected to work closely with,11,0,0.5764757406831992,14,0,1,Body_Text
+the ODL Steering Committee. Terms of reference for the Committee are in the appendix.,11,0,0.5923806007462319,14,0,1,Body_Text
+"Given the consultative nature of this business planning process, the firm/consultant will also",11,0,0.6084387808135061,13,0,1,Body_Text
+be expected to travel and communicate regularly with various stakeholders as well as with,11,0,0.6243436408765388,14,0,1,Body_Text
+electronic resource publishers/vendors.,11,0,0.6402484624072758,3,0,0,Body_Text
+The proposal should include the following information:,11,0,0.6714588512073864,7,0,0,Body_Text
+a) name of the firm/consultant,11,0,0.7025158044063684,5,0,0,Body_Text
+"b) names of those individuals who will be engaged in this project, their specific",11,0,0.7185739844736426,14,0,1,Body_Text
+responsibilities on this project and relevant experience/qualifications,11,0,0.7344788060043798,7,0,0,Body_Text
+c) description of similar engagements that highlight the firm’s experience in business,11,0,0.7503836275351168,12,0,1,Body_Text
+planning and building stakeholder commitment,11,0,0.7664418076023911,5,0,0,Body_Text
+d) references with details of work completed for these references,11,0,0.7823466291331281,10,0,0,Body_Text
+"e) description of the approach that will be used for completing the business plan,",11,0,0.7984048862649937,14,0,1,Body_Text
+including a timeline,11,0,0.8143097077957308,3,0,0,Body_Text
+"f) cost to complete the study including estimated expenses (i.e.: travel, etc.) and payment",11,0,0.8302145293264678,14,0,1,Body_Text
+structure,11,0,0.8462727093937421,1,0,0,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+7,9,0,0.9229543666646938,1,0,0,Body_Text
+Evaluation and Awarding of Contract,12,0,0.10227274653887508,5,0,0,H2
+The contract will be awarded to the bidder whose submission offers the best value; the contract will,11,0,0.1551121605767144,17,0,1,Body_Text
+not necessarily be awarded to the lowest bidder. We reserve the right not to award the contract to,11,0,0.17117034064398873,18,0,1,Body_Text
+any of the bidders responding to this RFP and we may seek further response.,11,0,0.18707516217472578,14,0,0,Body_Text
+"Specifically, proposals will be evaluated proposals according to the following criteria:",11,0,0.21813211537370777,11,0,0,Body_Text
+Quality of the proposal /approach outlined for undertaking the business planning process,11,0,0.2654006071765013,12,0,1,Body_Text
+Demonstrated experience,11,0,0.28145878724377565,2,0,0,Body_Text
+"Cost, including expenses",11,0,0.2973636087745127,3,0,0,Body_Text
+Timeline and projected completion date,11,0,0.31326843030524976,5,0,0,Body_Text
+Other relevant factors as determined by the ODL Steering Committee,11,0,0.32993994818793404,10,0,1,Body_Text
+Questions regarding this RFP should be directed by e-mail only to Michael Ridley,11,0,0.361902988318241,13,0,0,Body_Text
+(mridley@uoguelph.ca).,11,0,0.3779611683855153,1,0,0,Body_Text
+Bidders are asked not to contact any other member of the ODL Catalyst Team or the ODL Steering,11,0,0.4099242085158223,18,0,1,Body_Text
+Committee.,11,0,0.42582906857885494,1,0,0,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+8,9,0,0.9229543666646938,1,0,0,Body_Text
+Appendix A:  ODL Envisioned Phases & Funding,12,0,0.13575754261980152,7,0,0,Body_Text
+Phase I:  Business Planning,10,1,0.17649733418166036,4,0,0,Body_Text
+Timeline:  March 2003 – September 2003,10,1,0.2055850558810764,6,0,0,Body_Text
+"Funding Requested:  ~$100,000 jointly funded by stakeholder groups and the provincial government.",10,1,0.22013523602726484,12,0,1,Body_Text
+Result:  The ODL business plan,10,1,0.24907206525706282,5,0,0,Body_Text
+"The first phase will be to build the ODL business plan. This plan will clearly define the ODL’s services,",10,0,0.2783106794260969,19,0,1,Body_Text
+"funding and governance structures, as well as implementation plans for 2003-2005. It will also secure",10,0,0.29286085957228536,15,0,1,Body_Text
+the full commitment of all stakeholders and scope the operational plan for ODL for 2006 and beyond.,10,0,0.3074110397184738,17,0,1,Body_Text
+"Given the number and diversity of stakeholders involved, the business planning process must be a fully",10,0,0.3363478689482718,16,0,1,Body_Text
+consultative approach. To ensure that the planning results in a workable plan with the full commitment,10,0,0.35089801056216463,16,0,1,Body_Text
+"of all stakeholders it must have competent, dedicated staffing and monies for the travel and",10,0,0.3654481521760575,15,0,1,Body_Text
+communication components so critical in a consultative process.,10,0,0.37999829378995026,8,0,0,Body_Text
+Phase II: Implementing and Transitioning,10,1,0.42333437216402303,5,0,0,H3
+Timeline:  April 2004 – December 2006,10,1,0.45242209386343907,6,0,0,Body_Text
+Funding Requested:  Funding from other states and provinces suggest that the ODL could receive,10,1,0.4669721969450363,14,0,1,Body_Text
+"funding of up to $50 Million (over 3 years). Funding to be provided partnership of government, library",10,0,0.4815223385589291,17,0,1,Body_Text
+stakeholders and other interested parties.,10,0,0.49592158770320394,5,0,0,Body_Text
+Result:  The ODL is implemented and validated,10,1,0.5250093094026199,7,0,0,Body_Text
+The second phase will be to implement the ODL based on the business plan. This phase recognizes,10,0,0.5542479621039497,17,0,1,Body_Text
+that for ODL to be optimally successful libraries must transition to a new way of doing business and,10,0,0.5687981037178425,18,0,1,Body_Text
+providing services. The transition must occur while libraries continue to provide existing services and,10,0,0.5831973528621173,14,0,1,Body_Text
+"respond to current challenges. This implementation phase will funded by a partnership of government,",10,0,0.59774749447601,14,0,1,Body_Text
+library stakeholders and other interested parties as a means to quickly jumpstart the ODL.,10,0,0.612297636089903,14,0,1,Body_Text
+The seed money requested will allow libraries to realign their budgets and services as the infrastructure,10,0,0.6413853192570234,16,0,1,Body_Text
+"and content of the ODL is created and secured.  Some of the funding will be new money, although there",10,0,0.6557846069335938,19,0,1,Body_Text
+is every indication that existing budgets and methods of operating may be modified as a result of,10,0,0.6701838946101641,17,0,1,Body_Text
+"recommendations . During this phase the polices, procedures, governance structures and accountability",10,0,0.6847339976917614,12,0,1,Body_Text
+"mechanisms of the ODL will be put in place. Pilot projects will be initiated, evaluated and expanded.",10,0,0.6994350703075679,17,0,1,Body_Text
+"Information resources will be identified, contracts for these resources will be negotiated and resources",10,0,0.7139852504537563,14,0,1,Body_Text
+will be made deployed through the ODL. Regular evaluation during this phase will ensure the ODL is,10,0,0.7285353535353535,17,0,1,Body_Text
+achieving its objectives and is accountable to its key communities.,10,0,0.7430854566169508,10,0,0,Body_Text
+Phase III: Operating and Growing the ODL,10,1,0.7718713933771307,7,0,0,H3
+Timeline:  January 2007 -,10,1,0.8009591150765467,4,0,0,Body_Text
+Funding:  $50 Million annually ($35 Million requested from government),10,1,0.8155092952227352,9,0,0,Body_Text
+Result:  The ODL is fully operational and sustainable,10,1,0.8444461244525332,8,0,0,Body_Text
+In the third phase the ODL moves into the operational stage. Ontarians will experience the full benefits,10,0,0.8736847386215673,17,0,1,Body_Text
+of the initiative and libraries will consolidate support around the ODL to grow resources and extend,10,0,0.8882349187677557,16,0,1,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+9,9,0,0.9229543666646938,1,0,0,Body_Text
+capabilities. The challenge is to secure resources sufficient to both sustain the original investments and,10,0,0.09119468265109593,15,0,1,Body_Text
+to enhance the ODL.,10,0,0.10574486279728437,4,0,0,Body_Text
+The ongoing funding of the ODL will be based on a partnership model involving all the key participants,10,0,0.13468169202708236,18,0,1,Body_Text
+"(i.e. government, libraries, donors, public and private sectors). All participants (i.e. beneficiaries) are",10,0,0.1492318721732708,13,0,1,Body_Text
+expected to make financial contributions to the ODL. It is important in achieving the full impact of the,10,0,0.16378206195253314,18,0,1,Body_Text
+"ODL on Ontario’s economy, society and learning support that all library sectors are participants",10,0,0.1783322420987216,14,0,1,Body_Text
+"(university, colleges, public libraries and schools).",10,0,0.19288242224491003,6,0,0,Body_Text
+"The proposed funding model requires a continuing government investment, but also recognizes that as",10,0,0.21500304251006155,14,0,1,Body_Text
+the ODL matures a growing share of ODL funding will come from libraries and non-governmental,10,0,0.2294022531220407,15,0,1,Body_Text
+sources. During the 3-year implementation phase (2004 – 2006) libraries will realign their budgets to,10,0,0.24395243326822916,15,0,1,Body_Text
+enable ongoing funding contributions to ODL. During the same period ODL must build the proposed,10,0,0.2585026134144176,15,0,1,Body_Text
+endowment and secure public and private sector gifts and/or in-kind contributions. The following chart,10,0,0.2730527935606061,14,0,1,Body_Text
+outlines the model. This model is based on these assumptions:,10,0,0.2876029737067945,10,0,0,Body_Text
+1. that ODL expenditures will increase by 50% over a 10 year period,10,0,0.30972374810112846,13,0,0,Body_Text
+2. that government funding will decrease from 70% to 45% during that 10 year period,10,0,0.3316936300258444,15,0,1,Body_Text
+"3. that library contributions, endowment and gifts/in-kind funding will increase from 30% to 55%",10,0,0.35381440442017836,14,0,1,Body_Text
+during the same period,10,0,0.3683645460340712,4,0,0,Body_Text
+OVERVIEW OF ODL FUNDING MODEL,10,1,0.4048845310403843,5,1,1,Body_Text
+Funding Source,12,1,0.4344697046761561,2,0,0,Body_Text
+2007,12,1,0.4344697046761561,1,0,1,Body_Text
+2017,12,1,0.4344697046761561,1,0,0,Body_Text
+Government,10,0,0.4525583440607244,1,0,0,Body_Text
+$35M (70%),10,0,0.4525583440607244,2,1,1,Body_Text
+$33.75M (45%),10,0,0.4525583440607244,2,1,0,Body_Text
+Libraries,10,0,0.4677121326176807,1,0,0,Body_Text
+$10M (20%),10,0,0.4677121326176807,2,1,1,Body_Text
+$22.5M (30%),10,0,0.4677121326176807,2,1,0,Body_Text
+Endowment,10,0,0.482865921174637,1,0,0,Body_Text
+$4.5M (9%),10,0,0.482865921174637,2,1,1,Body_Text
+$15M (20%),10,0,0.482865921174637,2,1,0,Body_Text
+Gifts/In-Kind,10,0,0.49801970973159326,1,0,0,Body_Text
+$0.5M (1%),10,0,0.49801970973159326,2,1,1,Body_Text
+$3.75M (5%),10,0,0.49801970973159326,2,1,0,Body_Text
+TOTAL ANNUAL,10,1,0.5130226058189316,2,1,0,Body_Text
+$50M,10,0,0.5131734982885495,1,1,1,Body_Text
+$75M,10,0,0.5131734982885495,1,1,0,Body_Text
+"While the private sector will be invited to participate in the ODL through the endowment, gifts and in-",10,0,0.5574150085449219,18,0,1,Body_Text
+"kind contributions, the ODL will also explore compatible commercial services which leverage the reach",10,0,0.5719651501588147,14,0,1,Body_Text
+of the ODL and help to offset operating costs.,10,0,0.5865152917727076,9,0,0,Body_Text
+A $50M budget leverages the consortium buying power of the province’s libraries to secure the best,10,0,0.6156030134721235,16,0,1,Body_Text
+"prices for information resources, the widest accessibility and the most favourable contracts. A budget of",10,0,0.6300022626163984,15,0,1,Body_Text
+this nature will ensure a core digital collection of sufficient scope and coverage to address a substantial,10,0,0.6445523656979956,17,0,1,Body_Text
+amount of the wide and diverse information and learning needs of the citizens of Ontario (an overview,10,0,0.659102545844184,17,0,1,Body_Text
+of the nature of the ODL digital collection is appended).  The proposed ODL expenditures in 2006,10,0,0.6736527259903725,16,0,1,Body_Text
+represent an investment of $5.00 per citizen.,10,1,0.6882028290719697,7,0,0,Body_Text
+It is important to recognize that every new dollar per citizen invested in the Ontario Digital Library has a,10,0,0.7171396583017676,19,0,1,Body_Text
+double benefit: it supports a province-wide library of high quality information resources and it,10,0,0.731689761383365,14,0,1,Body_Text
+strengthens every local library in Ontario by allowing them to reinvest existing dollars in new resources,10,0,0.7462399415295533,16,0,1,Body_Text
+that enhance local services.  This multiplier means that for every dollar invested in ODL the return,10,0,0.7607901216757418,16,0,1,Body_Text
+on investment is worth $2 of value for Ontario.,10,1,0.775340224757339,9,0,0,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+10,9,0,0.9229543666646938,1,0,0,Body_Text
+10,9,0,0.9232612378669508,1,0,0,Body_Text
+10,9,0,0.9232612378669508,1,0,0,Body_Text
+10,9,0,0.9229543666646938,1,0,0,Body_Text
+Appendix B:,12,0,0.11681814868040759,2,0,0,Body_Text
+ODL Steering Committee Terms of Reference,12,0,0.11681814868040759,6,0,0,Body_Text
+1. Preamble,10,1,0.17270945539378157,2,0,0,H3
+Implementation of the Ontario Digital Library (ODL) requires a detailed business plan to be developed,10,0,0.20194806956281566,15,0,1,Body_Text
+and supported by its diverse stakeholder communities (see:  www.odl.on.ca ).  The business,10,0,0.21634728017479482,12,0,1,Body_Text
+"development planning and commitment process will be overseen by a Steering Committee, who are",10,0,0.23089746032098327,14,0,1,Body_Text
+accountable to potential ODL funders including  the Province of Ontario.,10,0,0.2454476404671717,10,0,0,Body_Text
+2. Terms of Reference,10,1,0.2743844696969697,4,0,0,H3
+"In broad terms, the ODL Business Plan Steering Committee is responsible for development of the",10,0,0.30347219139638576,15,0,1,Body_Text
+"business plan, securing sector support, and management of the planners and process.  Specific",10,0,0.3180223715425742,13,0,1,Body_Text
+responsibilities include:,10,0,0.33257255168876265,2,0,0,Body_Text
+"2.1 developing a detailed business plan for the three-year implementation phase of the ODL, including",10,0,0.3616602733881787,15,0,1,Body_Text
+"governance, management, funding model and structure, organizational structure, marketing,",10,0,0.37605952253245345,9,0,1,Body_Text
+"staffing, and evaluation;",10,0,0.3906096641463463,3,0,0,Body_Text
+"2.2 consulting with and reporting to stakeholder communities, to ensure open, consistent and two-way",10,0,0.40515980576023913,14,0,1,Body_Text
+"communication, and to ensure meaningful opportunities for stakeholder input into decision-",10,0,0.4197099473741319,11,0,1,Body_Text
+making;,10,0,0.43426008898802476,1,0,0,Body_Text
+2.3 recruiting and managing the business planner(s);,10,0,0.4488102306019176,7,0,0,Body_Text
+"2.4 defining terms of reference and resource parameters for business planner(s), and authorizing",10,0,0.46320947974619237,13,0,1,Body_Text
+expenditures;,10,0,0.4777596213600852,1,0,0,Body_Text
+2.5 serving as a focus group for business planner(s) to test ideas;,10,0,0.49230976297397805,12,0,0,Body_Text
+2.6 providing signoff for business planner(s) at key decision points of business plan development;,10,0,0.5068599045878709,14,0,1,Body_Text
+"2.7 securing commitment from library, government, and institutional stakeholders for implementation",10,0,0.5214100462017637,11,0,1,Body_Text
+of the business plan;,10,0,0.5359601878156566,4,0,0,Body_Text
+2.8 presenting the business plan to funders,10,0,0.5503594369599314,7,0,0,Body_Text
+2.9 undertaking advocacy efforts to promote the ODL to the broader communities including library,10,0,0.5649095785738242,14,0,1,Body_Text
+and education communities.,10,0,0.579459720187717,3,0,0,Body_Text
+3. Membership,10,1,0.608396549417515,2,0,0,H3
+"Each of the four sectors, Schools, Colleges, Universities, and Public Libraries can appoint up to two",10,0,0.6374843096492266,16,0,1,Body_Text
+representatives to the steering committee,10,0,0.6520344127308239,5,0,0,Body_Text
+3.1 Schools:,10,0,0.68112213443024,2,0,0,Body_Text
+- Ontario School Library Association (OSLA) and The Association of Library Consultants and,10,0,0.6956722375118372,13,0,1,Body_Text
+Coordinators of Ontario (TALCO)  ( Executive Council of OSLA to name representative in,10,0,0.7099206327187895,13,0,1,Body_Text
+consultation with TALCO ),10,0,0.7244708128649779,4,0,0,Body_Text
+3.2 Universities:,10,0,0.7391718084161932,2,0,0,Body_Text
+- Ontario Council of University Libraries (OCUL) ( OCUL to name ),10,0,0.7535710960927636,12,0,0,Body_Text
+3.3 Colleges:,10,0,0.7682721687085701,2,0,0,Body_Text
+"- Bibliocentre, and Heads of Libraries and Learning Resources (UAG and HLLR  to name )",10,0,0.7826713793205492,15,0,1,Body_Text
+3.4 Public libraries:,10,0,0.7972214824021465,3,0,0,Body_Text
+"- Administrators of Medium-sized Public Libraries of Ontario (AMPLO), Administrators of Rural",10,0,0.8117716625483349,12,0,1,Body_Text
+"Urban Public Libraries of Ontario (ARUPLO), Administrators of Small Public Libraries of",10,0,0.8263218426945234,12,0,1,Body_Text
+Ontario (ASPLO) and Chief Executives of Large-sized Public Libraries of Ontario (CELPLO),10,0,0.8408719457761206,12,0,1,Body_Text
+"( Executives of AMPLO, ARUPLO, ASPLO and CELPLO to name )",10,0,0.8552711563880997,11,0,0,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+11,9,0,0.9229543666646938,1,0,0,Body_Text
+11,9,0,0.9232612378669508,1,0,0,Body_Text
+11,9,0,0.9232612378669508,1,0,0,Body_Text
+11,9,0,0.9229543666646938,1,0,0,Body_Text
+3.5 Ontario Library Association representative (ex-officio)  ( OLA to appoint one representative ),10,0,0.09108054999149207,13,0,1,Body_Text
+- Role of the OLA ex-officio member: To act as a liaison between the steering committee and,10,0,0.1057816996718898,17,0,1,Body_Text
+"the OLA Board, and to assist the chair with the administrative responsibilities connected with",10,0,0.12033187981807825,14,0,1,Body_Text
+"the preparation of the business plan, finance, and communications.",10,0,0.1347310904300574,9,0,0,Body_Text
+"3.6 It is anticipated that as planning for the ODL evolves, the Steering Committee may, at its",10,0,0.16381882176254736,17,0,1,Body_Text
+"discretion, call on invited experts to advise on issues as required.",10,0,0.1783690019087358,11,0,0,Body_Text
+4. Appointment Criteria and Process,10,1,0.20730583113853376,5,0,0,H3
+4.1,10,0,0.23716065377900095,1,0,0,Body_Text
+Groups and organizations named in Section 3 above are responsible for appointing up to two,10,0,0.23716065377900095,15,0,1,Body_Text
+representatives to the Steering Committee.,10,0,0.2523144038036616,5,0,0,Body_Text
+4.2,10,0,0.2826219809175742,1,0,0,Body_Text
+Desired characteristics for steering committee appointees include:,10,0,0.2826219809175742,7,0,0,Body_Text
+•,10,0,0.3117599872627644,1,0,0,Body_Text
+Strategic thinkers;,10,0,0.3130804505011048,2,0,0,Body_Text
+•,10,0,0.3272155992912524,1,0,0,Body_Text
+Committed to the concept of multi-sector partnerships;,10,0,0.3285360625295928,7,0,0,Body_Text
+•,10,0,0.3425202803178267,1,0,0,Body_Text
+Knowledgeable about digital libraries and resources;,10,0,0.3438407435561671,6,0,0,Body_Text
+•,10,0,0.3579758923463147,1,0,0,Body_Text
+Knowledgeable about government structures;,10,0,0.35929635558465517,4,0,0,Body_Text
+•,10,0,0.37328057337288906,1,0,0,Body_Text
+Respected by their communities; influential;,10,0,0.3746010366112295,5,0,0,Body_Text
+•,10,0,0.3885852543994634,1,0,0,Body_Text
+Able to take a consultative approach;,10,0,0.3899057176378038,6,0,0,Body_Text
+•,12,0,0.403939410893604,1,0,0,Body_Text
+Able to devote time to Steering Committee business: approximately one day per month for,10,0,0.4078613820702139,14,0,1,Body_Text
+meetings plus 2-3 working days per month on related activities .,10,0,0.422196975862137,11,0,0,Body_Text
+5. Term,10,1,0.4540731256658381,2,0,0,H3
+Expected term on the Steering Committee is the time required to complete development of the,10,0,0.48331177836716777,15,0,1,Body_Text
+business plan plus two months. This process is expected to take approximately 6 months.,10,0,0.4977110275114425,14,0,1,Body_Text
+6. Chair,10,1,0.5266478567412405,2,0,0,H3
+Chair will be appointed by the Board of the Ontario Library Association.,10,0,0.5558865094425702,12,0,0,Body_Text
+Role of the Chair:,10,0,0.5877031653818457,4,0,0,Body_Text
+In addition to the characteristics for appointees (4.2) the role of the chair will be as a process agent,10,0,0.6167908870812618,19,0,1,Body_Text
+"working with the selected consultant(s), OLA, and the Steering Committee to prepare the business",10,0,0.6313410286951546,14,0,1,Body_Text
+plan. The chair must be able to devote 5-8 days per month on activities related to the preparation of,10,0,0.645891131776752,19,0,1,Body_Text
+"the business plan, and communications to stakeholders, funders, and government.",10,0,0.6604413119229403,10,0,0,Body_Text
+7. Meetings,10,1,0.6892272486831202,2,0,0,H3
+It is expected that in person meetings are held once per month and the majority of business will be,10,0,0.7184658628521543,19,0,1,Body_Text
+"conducted by e-mail, and teleconference.",10,0,0.7330160429983428,5,0,0,Body_Text
+8. Lines of Accountability and Communication,10,1,0.7618019026939316,6,0,0,H3
+"8.1 The Steering Committee is accountable to the Province of Ontario, and to its business plan",10,0,0.7910405939275568,16,0,1,Body_Text
+funders.,10,0,0.8055906970091541,1,0,0,Body_Text
+8.2 The role of the Ontario Library Association is to assume responsibility for  funds contributed by the,10,0,0.8346784187085701,17,0,1,Body_Text
+"ODL funders to finance the business plan, to hold the funds in a separate account, and",10,0,0.8490776293205492,16,0,1,Body_Text
+disperse them for purposes as  directed by the Steering Committee. OLA will provide,10,0,0.8636278094667377,13,0,1,Body_Text
+financial reports to the Steering Committee as requested and shall comply with all,10,0,0.8781779896129261,13,0,1,Body_Text
+government reporting regulations for funds received.,10,0,0.8927280926945234,6,0,0,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+12,9,0,0.9229543666646938,1,0,0,Body_Text
+12,9,0,0.9232612378669508,1,0,0,Body_Text
+12,9,0,0.9232612378669508,1,0,0,Body_Text
+12,9,0,0.9229543666646938,1,0,0,Body_Text
+8.3 The Steering Committee is accountable to its constituent groups and other stakeholders for,10,0,0.10576998585402364,14,0,1,Body_Text
+ongoing communications and consultation on issues and progress.  The Steering committee,10,0,0.12032016600021209,11,0,1,Body_Text
+is responsible for strong liaison with government particularly the Chief Information Officer,10,0,0.13471937661219124,12,0,1,Body_Text
+"Community Services Cluster, ADM’s and Deputy Ministers.",10,0,0.1492695567583797,7,0,0,Body_Text
+9. Financial and Administrative Policies,10,1,0.17820639562125157,5,0,0,H3
+9.1 Service on the Steering Committee is non-remunerative,10,0,0.20744500979028566,8,0,0,Body_Text
+9.2 Travel and meeting expenses for Steering Committee members are reimbursed according to the,10,0,0.22184422040226484,14,0,1,Body_Text
+policies of the Ontario Library Association,10,0,0.2363944005484533,6,0,0,Body_Text
+9.3 Conflict of Interest:,10,0,0.2509445806946417,4,0,0,Body_Text
+The ODL Steering Committee will function according to standard conflict of interest guidelines,10,0,0.2654947608408302,13,0,1,Body_Text
+"ensuring that members,  their immediate family members, or their places of employment, will",10,0,0.2800448639224274,13,0,1,Body_Text
+not benefit financially from the decisions  the Steering Committee might make. As a first,10,0,0.29459504406861586,14,0,1,Body_Text
+"order of business, the Steering Committee will be expected to adopt a conflict of interest policy",10,0,0.308994254680595,16,0,1,Body_Text
+statement and procedural guidelines that will govern its work.,10,0,0.32354443482678347,9,0,0,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+13,9,0,0.9229543666646938,1,0,0,Body_Text
+13,9,0,0.9232612378669508,1,0,0,Body_Text
+13,9,0,0.9232612378669508,1,0,0,Body_Text
+13,9,0,0.9229543666646938,1,0,0,Body_Text
+Appendix C:,12,0,0.11681814868040759,2,0,0,Body_Text
+ODL’s Envisioned Electronic Resources,12,0,0.11681814868040759,4,0,1,Body_Text
+The purpose of the ODL is to provide equal access to information for all Ontario citizens through,10,0,0.1728609643801294,17,0,1,Body_Text
+collaboration and resource sharing. ODL will be a portal - capable of customization as,10,0,0.18741114452631788,14,0,1,Body_Text
+"a home page for local libraries - to organized, comprehensive, authoritative and validated",10,0,0.20196132467250633,13,0,1,Body_Text
+e-information resources to meet the needs of all Ontario citizens at all stages and in all aspects,10,0,0.21636053528448548,17,0,1,Body_Text
+"of their education, life and work. Some examples:",10,0,0.23091071543067393,8,0,0,Body_Text
+1. Reference Resources,10,0,0.25999843713008997,3,0,0,Body_Text
+"- directories: companies, associations, organizations, governments, educational institutions,",10,0,0.289086158829506,8,0,1,Body_Text
+etc. etc.,10,0,0.3034853694414852,2,0,0,Body_Text
+"- almanacs, country information",10,0,0.3180355495876736,4,0,0,Body_Text
+"- dictionaries, thesauri, encyclopedias",10,0,0.3325857297338621,4,0,0,Body_Text
+-consumer information,10,0,0.34713587134775487,2,0,0,Body_Text
+"- phone books,",10,0,0.3616860129616477,3,0,0,Body_Text
+"- travel guides, entertainment guides",10,0,0.3760852621059225,5,0,0,Body_Text
+- weather information,10,0,0.39063540371981537,3,0,0,Body_Text
+- media/newspapers,10,0,0.40518554533370815,2,0,0,Body_Text
+"- leisure time, recreational activity guides",10,0,0.419735686947601,6,0,0,Body_Text
+- indexing and abstracting services,10,0,0.43428582856149384,5,0,0,Body_Text
+"- currency converters,",10,0,0.4488359701753867,3,0,0,Body_Text
+- virtual reference services,10,0,0.46323521931966144,4,0,0,Body_Text
+-vocational/career information,10,0,0.4777853609335543,2,0,0,Body_Text
+-internet search engines,10,0,0.4923355025474471,3,0,0,Body_Text
+-current awareness services,10,0,0.50688564416134,3,0,0,Body_Text
+2. Subject Guides,10,0,0.535973365860756,3,0,0,Body_Text
+-arts and humanities,10,0,0.564910195090554,3,0,0,Body_Text
+- business and economics,10,0,0.5794603367044469,4,0,0,Body_Text
+- education,10,0,0.5940105168506352,2,0,0,Body_Text
+-recreation and sports,10,0,0.6085606584645281,3,0,0,Body_Text
+"-entertainment - games, activities for kids",10,0,0.6229599076088028,6,0,0,Body_Text
+-health information,10,0,0.637510126287287,2,0,0,Body_Text
+-science and technology,10,0,0.6520603064334753,3,0,0,Body_Text
+-social sciences,10,0,0.6666104095150726,2,0,0,Body_Text
+-society and culture,10,0,0.6811605125966699,3,0,0,Body_Text
+3. Educational tool-kits,10,0,0.7100973418264678,3,0,0,Body_Text
+"-guides to information gathering methodologies, information literacy",10,0,0.7391850635258839,7,0,0,Body_Text
+-study guides,10,0,0.7537351666074811,2,0,0,Body_Text
+-study skill development,10,0,0.7682853467536696,3,0,0,Body_Text
+-web-based curricula,10,0,0.7828355268998579,2,0,0,Body_Text
+-internet search guides,10,0,0.7972348145764283,3,0,0,Body_Text
+"4. Journals, books, maps, music etc.",10,0,0.8263225362758444,6,0,0,Body_Text
+RFP: To Develop the Ontario Digital Library Business Plan,8,1,0.9268159192017834,9,0,0,Body_Text
+March 2003,8,1,0.9268159192017834,2,0,1,Body_Text
+14,9,0,0.9229543666646938,1,0,0,Body_Text
+14,9,0,0.9232612378669508,1,0,0,Body_Text
+14,9,0,0.9232612378669508,1,0,0,Body_Text
+14,9,0,0.9229543666646938,1,0,0,Body_Text
+Application form for grant of LTC advance,12,1,0.1259838022698699,7,0,1,Title
+1.,10,1,0.16144333429404506,1,0,0,Body_Text
+Name of the Government Servant,10,0,0.15794831047148716,5,0,0,Body_Text
+2.,10,1,0.18295742950077012,1,0,0,Body_Text
+Designation,10,0,0.1793929618781083,1,0,0,Body_Text
+3.,10,1,0.21487555424561128,1,0,0,Body_Text
+Date of entering the Central Government,10,0,0.20090705708483336,6,0,0,Body_Text
+Service,10,0,0.22178463244947855,1,0,0,Body_Text
+4.,10,1,0.24679367899045243,1,0,0,Body_Text
+PAY + SI + NPA,10,0,0.24329865516789453,5,1,0,Body_Text
+5.,10,1,0.2683077741971775,1,0,0,Body_Text
+Whether permanent or temporary,10,0,0.26474330657451567,4,0,0,Body_Text
+6.,10,1,0.28633837122248923,1,0,0,Body_Text
+Home Town as recorded in the Service Book,10,0,0.28633837122248923,8,0,0,Body_Text
+7.,10,1,0.31477308839630347,1,0,0,Body_Text
+Whether wife / husband is employed and if,10,0,0.30080457311344827,8,0,0,Body_Text
+so whether entitled to LTC,10,0,0.32168216660017074,5,0,0,Body_Text
+8.,10,1,0.3676498304353474,1,0,0,Body_Text
+Whether the concession is to be availed for,10,0,0.34320778744804037,8,0,0,Body_Text
+visiting home town and if so block for which,10,0,0.36408536281268555,9,0,0,Body_Text
+LTC is to be availed.,10,0,0.3850323094891256,5,0,0,Body_Text
+9.,10,1,0.43091893139474463,1,0,0,Body_Text
+(a) If the concession is to visit anywhere in,10,0,0.40647696089574675,9,0,0,Body_Text
+"India, the place to be visited.",10,0,0.42742390757218673,6,0,0,Body_Text
+(b) Block for which to be availed.,10,0,0.448301482936832,7,0,0,Body_Text
+10.,10,1,0.49426907428369954,1,0,0,Body_Text
+Single,10,0,0.4698271037847016,1,0,0,Body_Text
+rail,10,0,0.4698271037847016,1,0,0,Body_Text
+fare/bus,10,0,0.4698271037847016,1,0,0,Body_Text
+fare,10,0,0.4698271037847016,1,0,0,Body_Text
+from,10,0,0.4698271037847016,1,0,0,Body_Text
+the,10,0,0.4698271037847016,1,0,1,Body_Text
+headquarters to home town/place of visit by,10,0,0.4907046066610377,7,0,0,Body_Text
+shortest route.,10,0,0.511582182025683,2,0,0,Body_Text
+11.,10,1,0.5921759888565172,1,0,0,Body_Text
+Persons in respect of whom LTC is proposed to be availed.,10,0,0.5331772466736565,11,0,0,Body_Text
+S.No,10,1,0.5511383998988643,1,0,0,Body_Text
+Name,10,1,0.5511383998988643,1,0,0,Body_Text
+Age,10,1,0.5511383998988643,1,0,0,Body_Text
+Relationship,10,1,0.5511383998988643,1,0,0,Body_Text
+1.,10,1,0.5656046017898233,1,0,0,Body_Text
+2.,10,1,0.5801401749925772,1,0,0,Body_Text
+3.,10,1,0.5946063043952271,1,0,0,Body_Text
+4.,10,1,0.6092113213980849,1,0,0,Body_Text
+5.,10,1,0.6288043314374258,1,0,0,Body_Text
+6.,10,1,0.6433399046401796,1,0,0,Body_Text
+12.  Amount of advance required.,10,1,0.6664278660137694,5,0,0,Body_Text
+Rs.,10,0,0.6664278660137694,1,0,1,Body_Text
+I declare that the particulars furnished above are true and correct to the best of my knowledge.  I,10,0,0.7088310622262841,18,0,0,Body_Text
+undertake to produce the tickets for the outward journey within ten days of receipt of the advance.,10,0,0.7227301155869581,17,0,1,Body_Text
+In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of,10,0,0.7506671823968231,22,0,0,Body_Text
+"advance, I undertake to refund the entire advance in one lump sum.",10,0,0.7646356795576009,12,0,0,Body_Text
+Date,10,1,0.8063907577985823,1,0,0,Body_Text
+Signature of Government Servant.,10,1,0.8203593274476693,4,0,0,Body_Text
